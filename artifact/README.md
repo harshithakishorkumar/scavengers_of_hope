@@ -72,6 +72,14 @@ scripts that produced the numbers and figures in the paper. Those read the
 internal MongoDB corpus and are included as the record of how results were
 generated, not as turnkey scripts; the checker is the reproducible path.
 
+Detector filenames predate the reduction from five detectors to three, so they
+do not match the paper's letters. `detector_A_external.py` is Detector A's
+reputation arm and `detector_E_heuristics.py` (in `../../pipeline/`) its
+heuristic arm; `detector_D_identity.py` is the paper's **Detector C**;
+`detector_B_label_questions.py` is Detector B. `../../pipeline/README.md`
+carries the full mapping and lists the five-detector scripts that were
+deliberately excluded.
+
 **4. Extension and service — `extension_and_service/`**
 
 The Chrome MV3 extension and the FastAPI lookup service behind it. See its own

@@ -1,37 +1,22 @@
 # Consensus
 
-Combines detector flags into a consensus fraud label per campaign.
+Three detectors vote. **2 or more agreeing is Fraud, exactly 1 is Suspicious, 0
+is Unknown.**
 
-## Files
+Tier counts on the analysis set: Fraud 429 (0.43%), Suspicious 1,864 (1.86%),
+Unknown 98,001 (97.71%).
 
-| File | What it is |
+| Script | What it does |
 |---|---|
-| `build_aux_consensus.py` | Builder: joins A + C + D + E → `aux_consensus_v4.csv` |
-| `aux_consensus_v4.csv` | **4-detector auxiliary consensus** labels (excludes Detector B) |
+| `update_mongo_3det.py` | syncs the current three-detector outputs into Mongo, dropping the standalone narrative-reuse detector and renaming organizer identity from D to C |
 
-## Two consensuses
+The canonical label file is built by
+`../../../artifact/code/consensus/combined_hardened_consensus.py`, with
+`adopt_takedown_decoupling.py` applying takedown decoupling and the phone
+share-cap on top. `../../../artifact/labels/campaign_labels.csv.gz` is the
+result, and `../../../artifact/code/stats/recompute_paper_numbers.py` verifies
+every number in the paper against it.
 
-1. **Auxiliary consensus (A + C + D + E, 4 detectors).** This is what `aux_consensus_v4.csv` contains. Threshold `aux_score ≥ 2` for fraud. **Used as training labels for Detector B.** Excluding B here avoids circular self-supervision.
-
-2. **Full consensus (A + B + C + D + E, 5 detectors).** To be built once Detector B's QLoRA fine-tune completes. Threshold `score ≥ 3` for fraud. **This is what the paper reports**, and what the LightGBM classifier distills.
-
-## Current aux_consensus_v4.csv
-
-```
-columns: url, platform, A, C, D, E, aux_score, aux_label
-rows:    102,708
-label distribution:
-  legitimate (score 0): 79,269
-  suspicious (score 1): 15,775
-  fraud      (score≥2):  7,664
-score distribution:
-  0: 79,269   1: 15,775   2: 6,981   3: 653   4: 30
-```
-
-## Re-running
-
-```bash
-python3 build_aux_consensus.py
-```
-
-Reads from `../detectors/outputs/` and writes `aux_consensus_v4.csv` in this folder. Takes ~30 seconds.
+The four- and five-detector consensus builders of the earlier design, including
+the auxiliary consensus used to train an earlier LoRA student, are not part of
+this pipeline and are not shipped.

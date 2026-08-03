@@ -24,7 +24,8 @@ Quality filters applied to the raw collection to produce the analysis dataset.
 - v1 (Apr 7): 65,662 campaigns — initial filter on 13 platforms
 - v2 (Apr 19): 95k campaigns — added 2 platforms
 - v3 (Apr 19): 98k campaigns — refined filters
-- **v4 (Apr 19): 102,708 campaigns — current (post-Spotfund expansion)**
+- **v4 (Apr 19): 102,708 campaigns (post-Spotfund expansion)**
+- v4 after URL-variant deduplication: **100,294 campaigns across 15 platforms, the analysis set the paper reports**
 
 v1, v2, v3 deleted in the Apr 2026 cleanup; only v4 is retained.
 

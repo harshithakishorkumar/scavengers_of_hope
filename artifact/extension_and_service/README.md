@@ -1,6 +1,6 @@
 # Scavengers of Hope — Detection Framework
 
-Productionization of the 4-detector fraud-detection pipeline as an
+Productionization of the three-detector fraud-detection pipeline as an
 end-user-facing browser extension backed by a FastAPI service.
 
 For the research methodology, see the rest of `ccs2026/`. This directory

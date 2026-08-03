@@ -1,34 +1,21 @@
-# Detectors A, C, D, E
+# Non-LLM detectors
 
-Four non-LLM detectors. Detector B lives in `../llm/` and `../training/`.
+Filenames predate the reduction from five detectors to three. See
+`../../README.md` for the full mapping.
 
-## Scripts
-
-| Script | Detector | Input | Output |
-|---|---|---|---|
-| `hard_rule_v4.py` | A (regex) | `02_data_filtration/filtered_dataset_v4.csv` | `outputs/hard_rule_flags_v4.csv` |
-| `rebuild_detector_A.py` | A (regex + VT + IPQS) | `outputs/hard_rule_flags_v4.csv`, `intel/vt_*`, `intel/ipqs_*` | `outputs/hard_rule_flags_v4_plus.csv` |
-| `phash_v4.py` | C (pHash) | `filtered_dataset_v4.csv` (fetches og:images) | `outputs/phash_results_v4_delta.jsonl` |
-| `template_detector_v4.py` | D (SBERT templates) | `filtered_dataset_v4.csv`, `features/desc_embeddings_384d.npy` | `outputs/template_families_v4.csv` |
-| `organizer_network_v4_clean.py` | E (organizer graph) | `filtered_dataset_v4.csv`, `intel/campaign_contacts_v4_delta.json` | `outputs/organizer_network_v4_clean.csv` |
-
-## Firing rates (v4, 102,708 campaigns)
-
-| Detector | Firing | % |
+| Script | Paper | Output |
 |---|---|---|
-| A | 6,120 | 6.0% |
-| C | 9,321 | 9.1% |
-| D | 14,171 | 13.8% |
-| E | 2,204 | 2.1% |
+| `detector_A_external.py` | Detector A, reputation arm (VirusTotal, IPQualityScore) | `outputs/detector_A_flags.csv` |
+| `detector_E_heuristics.py` | Detector A, heuristic arm (16 `hr_*` patterns) | `outputs/detector_E_flags.csv` |
+| `detector_D_identity.py` | **Detector C**, organizer identity graph | `outputs/detector_D_flags.csv` |
 
-Firing rates are lower than the paper's old v3 numbers because the v4 dataset has more legitimate campaigns from newly-added platforms (Spotfund, etc.).
+Detector A fires when either arm fires. Both output files are read by
+`../../../artifact/code/consensus/combined_hardened_consensus.py`, which builds
+the canonical label file.
 
-## outputs/
+Fire counts on the 100,294-campaign analysis set: A 599 (reputation arm 50,
+heuristic arm 228, the remainder recovered by the corroboration waiver), C
+1,083. Detector B fires on 1,100.
 
-Contains the detector result CSVs and JSONLs. These are the actual labels the consensus step reads. Per-file details:
-
-- `hard_rule_flags_v4_plus.csv` — per-campaign: regex flags + A_vt_bad_domain + A_ipqs_bad_email + A_ipqs_bad_phone + detector_A_flag
-- `template_families_v4.csv` — per-campaign: template_family_id, family_size, cross_platform_family, template_similarity_max, detector_D_flag
-- `organizer_network_v4_clean.csv` — per-campaign: organizer, org_cluster_id, org_cluster_size, org_cluster_platforms, detector_E_flag
-- `phash_results_v4_delta.jsonl` — per-campaign: url, platform, phash, og_image (only for successfully-fetched images; ~30k rows)
-- `phash_results_full.jsonl` — older phash run covering ~61k v3-era URLs
+The image-fingerprinting and narrative-reuse detectors of the earlier
+five-detector design are not part of this pipeline and are not shipped.
