@@ -1,5 +1,5 @@
 """
-Detector D — Organizer Identity (unipartite graph)
+Detector C — Organizer Identity (unipartite graph)
 ====================================================
 Catches "same person, multiple campaigns" — i.e., one operator running
 many fundraisers under different titles.
@@ -10,14 +10,14 @@ Graph shape: UNIPARTITE
   The identity value (email, phone, handle) is NOT a node — just glue.
 
 Identity signals (7 deterministic + 1 soft):
-  D.1  organizer_name fuzzy match (token_sort_ratio >= 90, min 2 tokens)
-  D.2  exact email match (case-folded)
-  D.3  exact phone match (digits-only normalized)
-  D.4  payment handle match (LLM-extracted: CashApp/Venmo/paypal.me/IBAN/crypto)
-  D.5  shared domain in extracted URLs
-  D.6  shared regex handle (from hr_* patterns)
-  D.7  shared profile URL (organizer's platform profile page)
-  D.8  stylometric similarity (NEW, soft-weighted edge)
+  C.1  organizer_name fuzzy match (token_sort_ratio >= 90, min 2 tokens)
+  C.2  exact email match (case-folded)
+  C.3  exact phone match (digits-only normalized)
+  C.4  payment handle match (LLM-extracted: CashApp/Venmo/paypal.me/IBAN/crypto)
+  C.5  shared domain in extracted URLs
+  C.6  shared regex handle (from hr_* patterns)
+  C.7  shared profile URL (organizer's platform profile page)
+  C.8  stylometric similarity (NEW, soft-weighted edge)
         per organizer, build a writing-style fingerprint:
           • avg sentence length
           • lexical diversity (type-token ratio)
@@ -47,7 +47,7 @@ Inputs:
   ../intel/campaign_contacts_llm.jsonl
 
 Output:
-  outputs/detector_D_flags.csv  url, flag, cluster_id, cluster_size,
+  outputs/detector_C_flags.csv  url, flag, cluster_id, cluster_size,
                                 cluster_platforms, fired_signals
 """
 from __future__ import annotations
@@ -67,7 +67,7 @@ ROOT = Path(__file__).resolve().parent.parent.parent
 DATA = ROOT / "02_data_filtration" / "filtered_dataset.csv"
 INTEL = ROOT / "03_detection" / "intel"
 LLM_JSONL = INTEL / "campaign_contacts_llm.jsonl"
-OUT = ROOT / "03_detection" / "detectors" / "outputs" / "detector_D_flags.csv"
+OUT = ROOT / "03_detection" / "detectors" / "outputs" / "detector_C_flags.csv"
 OUT.parent.mkdir(parents=True, exist_ok=True)
 
 NAME_FUZZY_THRESHOLD = 90
@@ -192,7 +192,7 @@ def styllometric_vector(text):
 
 
 def main():
-    print("Detector D — Organizer Identity (unipartite + stylometric + Louvain)")
+    print("Detector C — Organizer Identity (unipartite + stylometric + Louvain)")
     df = pd.read_csv(DATA, low_memory=False)
     print(f"  campaigns:               {len(df):,}")
 
@@ -290,18 +290,18 @@ def main():
     by_email   = cap(by_email,   MAX_DOMAIN_SHARE, "email")
     # 2026-07-01 audit fix: phone buckets previously escaped the share cap
     # (a 16-campaign single-org phone clique slipped through). The shipped
-    # detector_D_flags.csv predates this fix; a re-run regenerates with it.
+    # detector_C_flags.csv predates this fix; a re-run regenerates with it.
     by_phone   = cap(by_phone,   MAX_DOMAIN_SHARE, "phone")
     by_handle  = cap(by_handle,  MAX_DOMAIN_SHARE, "handle")
     by_domain  = cap(by_domain,  MAX_DOMAIN_SHARE, "domain")
     by_profile = cap(by_profile, MAX_DOMAIN_SHARE, "profile")
 
-    add_edges(by_name,    "D.1_name")
-    add_edges(by_email,   "D.2_email")
-    add_edges(by_phone,   "D.3_phone")
-    add_edges(by_handle,  "D.4_handle")
-    add_edges(by_domain,  "D.5_domain")
-    add_edges(by_profile, "D.7_profile_url")
+    add_edges(by_name,    "C.1_name")
+    add_edges(by_email,   "C.2_email")
+    add_edges(by_phone,   "C.3_phone")
+    add_edges(by_handle,  "C.4_handle")
+    add_edges(by_domain,  "C.5_domain")
+    add_edges(by_profile, "C.7_profile_url")
 
     print(f"  edges built:             {G.number_of_edges():,}")
     print(f"  by signal:               {dict(sig_count)}")
@@ -315,7 +315,7 @@ def main():
         cos = float(np.dot(v1, v2))
         if cos >= STYLOMETRIC_THRESHOLD:
             G[u1][u2]["weight"] += cos
-            G[u1][u2]["signals"].add("D.8_stylometric")
+            G[u1][u2]["signals"].add("C.8_stylometric")
             boosted += 1
     print(f"  stylometric boosts:      {boosted:,}")
 
@@ -324,7 +324,7 @@ def main():
     print(f"  nodes after singleton drop: {G.number_of_nodes():,}")
 
     if G.number_of_nodes() == 0:
-        print("no edges — Detector D finds no clusters.")
+        print("no edges — Detector C finds no clusters.")
         with OUT.open("w", newline="") as fh:
             w = csv.writer(fh)
             w.writerow(["url","flag","cluster_id","cluster_size","cluster_platforms","fired_signals"])
@@ -379,7 +379,7 @@ def main():
                 w.writerow([u, 0, "", 0, 0, ""])
 
     pct = 100*n_flag/len(df) if len(df) else 0
-    print(f"\nflagged by Detector D:    {n_flag:,}  ({pct:.2f}%)")
+    print(f"\nflagged by Detector C:    {n_flag:,}  ({pct:.2f}%)")
     print(f"output: {OUT}")
 
 

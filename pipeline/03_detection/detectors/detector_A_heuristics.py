@@ -1,5 +1,5 @@
 """
-Detector E — Heuristic Signals
+Detector A (heuristic arm) — Heuristic Signals
 ================================
 All local-only signals derived from campaign description + extracted artifacts.
 No third-party API calls (those live in Detector A).
@@ -99,7 +99,7 @@ def count_hr_patterns(text: str) -> int:
 
 
 def main():
-    print("Detector E — Heuristic Signals")
+    print("Detector A (heuristic arm) — Heuristic Signals")
     df = pd.read_csv(DATA)
     print(f"  campaigns:               {len(df):,}")
 
@@ -161,7 +161,7 @@ def main():
     for k, v in fire_counts.items():
         print(f"  {k}: {v:,}")
     pct = 100*n_flag/len(df) if len(df) else 0
-    print(f"\nflagged by Detector E (ANY signal): {n_flag:,}  ({pct:.2f}%)")
+    print(f"\nflagged by Detector A (heuristic arm) (ANY signal): {n_flag:,}  ({pct:.2f}%)")
     print(f"output: {OUT}")
 
 

@@ -3,42 +3,54 @@
 Source for the three-detector pipeline described in the paper. No data, no
 credentials.
 
-## Filenames do not match the paper's detector letters
+## Layout
 
-The taxonomy was reduced from five detectors to three during the study, and the
-scripts kept their original filenames. Read this table before anything else.
+| File | Paper |
+|---|---|
+| `03_detection/detectors/detector_A_external.py` | Detector A, reputation arm (VirusTotal + IPQualityScore) |
+| `03_detection/detectors/detector_A_heuristics.py` | Detector A, heuristic arm (16 `hr_*` patterns) |
+| `03_detection/llm/detector_B_label_questions.py` | Detector B (Qwen-2.5-72B-Instruct-AWQ, ten questions) |
+| `03_detection/detectors/detector_C_identity.py` | Detector C (organizer identity graph) |
+| `03_detection/intel/extract_contacts.py` | contact extraction feeding A and C |
+| `03_detection/consensus/update_mongo_3det.py` | consensus sync |
+| `../artifact/code/consensus/combined_hardened_consensus.py` | builds the canonical label file |
+| `../artifact/code/consensus/adopt_takedown_decoupling.py` | takedown decoupling and the phone share-cap |
 
-| File | Paper | Status |
-|---|---|---|
-| `03_detection/detectors/detector_A_external.py` | Detector A, **reputation arm** (VirusTotal + IPQualityScore) | live |
-| `03_detection/detectors/detector_E_heuristics.py` | Detector A, **heuristic arm** (16 `hr_*` patterns) | **live** |
-| `03_detection/llm/detector_B_label_questions.py` | Detector B (Qwen-2.5-72B-Instruct-AWQ, ten questions) | live |
-| `03_detection/detectors/detector_D_identity.py` | **Detector C** (organizer identity graph) | live |
-| `03_detection/intel/extract_contacts.py` | contact extraction feeding A and C | live |
-| `03_detection/consensus/update_mongo_3det.py` | consensus sync, current taxonomy | live |
-| `../artifact/code/consensus/combined_hardened_consensus.py` | builds the canonical label file | live |
-| `../artifact/code/consensus/adopt_takedown_decoupling.py` | applies takedown decoupling and the phone share-cap | live |
+Detector A fires when either arm fires. Consensus: 2 or more detectors agreeing
+is Fraud, exactly 1 is Suspicious, 0 is Unknown.
 
-Two names cause the most confusion:
+Identity-graph signals are `C.1_name`, `C.2_email`, `C.3_phone`, `C.4_handle`,
+`C.5_domain`, `C.7_profile_url`, and `C.8_stylometric`. A community counts
+toward the consensus only if it carries a deterministic edge; a shared name
+alone never suffices.
 
-- **`detector_E_heuristics.py` is not dead.** Detector A in the paper is the OR
-  of two arms, and this file is the heuristic one. Its output
-  (`detector_E_flags.csv`) is read by the canonical consensus builder.
-- **`detector_D_identity.py` is the paper's Detector C.** The old Detector C was
-  narrative reuse, which was dropped from the taxonomy; the old Detector D,
-  organizer identity, was renamed C. `update_mongo_3det.py` performs exactly
-  that rename.
+## A note on earlier names
+
+The taxonomy was reduced from five detectors to three during the study. Scripts
+and intermediate CSVs originally carried the old letters, and everything here
+has been normalized to the paper's. If you are reading older intermediates or
+project history, the mapping is:
+
+| Old | Now |
+|---|---|
+| Detector D, organizer identity | **Detector C** |
+| Detector E, heuristic patterns | **Detector A**, heuristic arm |
+| Detector C, narrative reuse | dropped from the taxonomy |
+| `D.1_name` … `D.8_stylometric` | `C.1_name` … `C.8_stylometric` |
+
+Intermediate files produced before the rename may still be called
+`detector_D_flags.csv` and `detector_E_flags.csv`; they correspond to Detector C
+and to Detector A's heuristic arm respectively.
 
 ## Not included, and why
 
-These were removed rather than shipped, because they belong to the abandoned
-five-detector design and would mislead anyone reading this as the paper's
-pipeline:
+These belong to the abandoned five-detector design and would mislead anyone
+reading this as the paper's pipeline:
 
 | Removed | Why |
 |---|---|
 | `detector_C_narrative.py` | narrative reuse / template families, dropped from the taxonomy |
-| `llm_pipeline_qwen72b.py` | an earlier **twelve**-question Detector B; the shipped run uses the ten-question schema in `detector_B_label_questions.py` |
+| `llm_pipeline_qwen72b.py` | an earlier **twelve**-question Detector B; the shipped run uses the ten-question schema |
 | `build_consensus_v4.py` | five-detector consensus |
 | `build_aux_consensus.py` | four-detector auxiliary consensus, used only to train an earlier LoRA student |
 | `update_mongo_consensus.py`, `update_mongo_4det.py` | five- and four-detector Mongo syncs |

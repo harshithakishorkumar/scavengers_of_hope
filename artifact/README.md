@@ -72,13 +72,15 @@ scripts that produced the numbers and figures in the paper. Those read the
 internal MongoDB corpus and are included as the record of how results were
 generated, not as turnkey scripts; the checker is the reproducible path.
 
-Detector filenames predate the reduction from five detectors to three, so they
-do not match the paper's letters. `detector_A_external.py` is Detector A's
-reputation arm and `detector_E_heuristics.py` (in `../../pipeline/`) its
-heuristic arm; `detector_D_identity.py` is the paper's **Detector C**;
-`detector_B_label_questions.py` is Detector B. `../../pipeline/README.md`
-carries the full mapping and lists the five-detector scripts that were
-deliberately excluded.
+Script names follow the paper's detector letters: `detector_A_external.py` is
+Detector A's reputation arm and `detector_A_heuristics.py` (in `../pipeline/`)
+its heuristic arm, `detector_B_label_questions.py` is Detector B, and
+`detector_C_identity.py` is Detector C. The taxonomy was reduced from five
+detectors to three during the study, so intermediate CSVs produced before that
+rename may still be called `detector_D_flags.csv` (Detector C) and
+`detector_E_flags.csv` (Detector A's heuristic arm). `../pipeline/README.md`
+carries the full old-to-new mapping and lists the five-detector scripts that
+were deliberately excluded.
 
 **4. Extension and service — `extension_and_service/`**
 
