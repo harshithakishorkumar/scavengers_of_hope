@@ -1,3 +1,15 @@
 *.pyc
 __pycache__/
 .DS_Store
+.venv/
+
+# Credentials never belong in this repository
+api_keys.json
+*.key
+.chainabuse_key
+.env
+
+# The anonymization salt and the id->url map that would reverse it
+artifact_private/
+artifact_salt.txt
+campaign_id_map.csv*

@@ -1,0 +1,10 @@
+corpus: 100294 campaigns, 100294 unique ids
+part 1: labels/campaign_labels.csv.gz
+private: /home/C00621463/DonationScam - CCS Remote/ccs2026/artifact_private/campaign_id_map.csv.gz (gitignored)
+part 2: evidence/detector_A_pattern_hits.csv.gz (100294 rows, 16 patterns)
+part 2: evidence/detector_B_answers.csv.gz (100251 rows)
+part 2: evidence/detector_C_communities.csv.gz (100294 rows, signal names only, no values)
+part 2: evidence/virustotal_domain_cache.csv.gz (10258 domains, 98 flagged at >=2 engines)
+part 2: evidence/ipqs_email_cache.csv.gz (5641 emails hashed, 3301 at fraud_score>=85)
+part 3: code/ (11 generator scripts)
+part 4: extension_and_service/ (extension + FastAPI service, venv excluded)

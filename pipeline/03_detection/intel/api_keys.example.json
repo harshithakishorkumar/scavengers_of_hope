@@ -1,0 +1,12 @@
+{
+  "_comment": "Copy to api_keys.json and fill in. Order is load-bearing: the *_key_state.json files address keys by index, so append new keys at the end only.",
+  "virustotal": [
+    [
+      "label-or-account-email",
+      "<64-hex VirusTotal API key>"
+    ]
+  ],
+  "ipqs": [
+    "<32-char IPQualityScore API key>"
+  ]
+}

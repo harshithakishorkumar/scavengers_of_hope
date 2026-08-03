@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Scavengers of Hope</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="app">
+
+    <!-- ─── Header ─── -->
+    <header>
+      <div class="brand">
+        <div class="logo">
+          <span class="logo-mark">S</span>
+        </div>
+        <div class="brand-text">
+          <h1>Scavengers of Hope</h1>
+          <p class="tagline">fraud-detection overlay</p>
+        </div>
+        <div class="brand-glow"></div>
+      </div>
+    </header>
+
+    <main>
+
+      <!-- ─── IDLE ─── -->
+      <section id="state-idle" class="state">
+        <div class="url-chip">
+          <svg class="url-icon" viewBox="0 0 16 16" fill="none">
+            <path d="M6.5 1.5h4M3 4.5h10M5 8h6M6 11.5h4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/>
+          </svg>
+          <span id="current-url">checking current tab&hellip;</span>
+        </div>
+        <button id="scan-btn" class="btn-primary" disabled>
+          <svg class="btn-icon" viewBox="0 0 16 16" fill="none">
+            <circle cx="7" cy="7" r="5" stroke="currentColor" stroke-width="1.6"/>
+            <path d="M11 11l3 3" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+          </svg>
+          <span class="btn-label">Scan this campaign</span>
+        </button>
+      </section>
+
+      <!-- ─── LOADING ─── -->
+      <section id="state-loading" class="state" hidden>
+        <div class="scanner">
+          <div class="scanner-ring"></div>
+          <div class="scanner-ring scanner-ring-2"></div>
+          <div class="scanner-ring scanner-ring-3"></div>
+          <div class="scanner-core">
+            <svg viewBox="0 0 16 16" fill="none">
+              <circle cx="7" cy="7" r="5" stroke="currentColor" stroke-width="1.8"/>
+              <path d="M11 11l3.5 3.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+            </svg>
+          </div>
+        </div>
+        <h3 class="loader-title">Analyzing campaign</h3>
+        <ul class="loader-steps">
+          <li class="step step-active">Fetching page content</li>
+          <li class="step">Checking reputation databases</li>
+          <li class="step">Cross-referencing organizer network</li>
+        </ul>
+      </section>
+
+      <!-- ─── RESULT ─── -->
+      <section id="state-result" class="state" hidden>
+        <div id="verdict-card" class="verdict-card">
+          <div class="verdict-orb">
+            <svg id="verdict-svg" viewBox="0 0 24 24" fill="none"></svg>
+          </div>
+          <div class="verdict-content">
+            <div class="verdict-label" id="verdict-label"></div>
+            <p class="verdict-summary" id="verdict-summary"></p>
+          </div>
+        </div>
+
+        <div class="detectors-section">
+          <div class="section-header">
+            <h3 class="section-title">Signal breakdown</h3>
+            <span id="fired-count" class="fired-pill"></span>
+          </div>
+          <ul id="detectors" class="detector-list"></ul>
+        </div>
+
+        <div id="meta" class="meta-strip"></div>
+      </section>
+
+      <!-- ─── ERROR ─── -->
+      <section id="state-error" class="state" hidden>
+        <div class="error-card">
+          <div class="error-orb">
+            <svg viewBox="0 0 24 24" fill="none">
+              <circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="1.8"/>
+              <path d="M12 7v6M12 16v.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+            </svg>
+          </div>
+          <div>
+            <h3 class="error-title">Couldn't reach the service</h3>
+            <p id="error-msg" class="error-text"></p>
+          </div>
+        </div>
+        <button id="retry-btn" class="btn-secondary">
+          <svg viewBox="0 0 16 16" fill="none">
+            <path d="M2 8a6 6 0 1 1 1.5 3.97" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+            <path d="M2 4v3.5h3.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          <span>Try again</span>
+        </button>
+      </section>
+    </main>
+
+    <!-- ─── Footer ─── -->
+    <footer>
+      <p class="footer-disclaimer">
+        Automated assessment. Verify independently before donating.
+      </p>
+    </footer>
+  </div>
+
+  <!-- SVG icon definitions, referenced by id -->
+  <svg style="display:none">
+    <defs>
+      <!-- detector icons -->
+      <symbol id="ico-reputation" viewBox="0 0 24 24" fill="none">
+        <path d="M12 3l8 3v5c0 4.5-3.5 8.5-8 10-4.5-1.5-8-5.5-8-10V6l8-3z"
+              stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/>
+      </symbol>
+      <symbol id="ico-llm" viewBox="0 0 24 24" fill="none">
+        <path d="M5 7h14M5 12h14M5 17h9"
+              stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+      </symbol>
+      <symbol id="ico-network" viewBox="0 0 24 24" fill="none">
+        <circle cx="12" cy="6" r="2.5" stroke="currentColor" stroke-width="1.6"/>
+        <circle cx="6"  cy="17" r="2.5" stroke="currentColor" stroke-width="1.6"/>
+        <circle cx="18" cy="17" r="2.5" stroke="currentColor" stroke-width="1.6"/>
+        <path d="M11 8L7 15M13 8l4 7" stroke="currentColor" stroke-width="1.6"/>
+      </symbol>
+
+      <!-- verdict-orb icons -->
+      <symbol id="ico-fraud" viewBox="0 0 24 24" fill="none">
+        <path d="M12 3l9 16H3L12 3z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
+        <path d="M12 10v4M12 17v.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+      </symbol>
+      <symbol id="ico-suspicious" viewBox="0 0 24 24" fill="none">
+        <circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="2"/>
+        <path d="M12 7v6M12 16v.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+      </symbol>
+      <symbol id="ico-unknown" viewBox="0 0 24 24" fill="none">
+        <circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="2"/>
+        <path d="M9.5 9.5a2.5 2.5 0 1 1 4 2c-.7.5-1.5 1-1.5 2v.5M12 16.5v.5"
+              stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+      </symbol>
+    </defs>
+  </svg>
+
+  <script src="popup.js"></script>
+</body>
+</html>
