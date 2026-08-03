@@ -1,0 +1,12 @@
+canonical corpus: 100294 campaigns
+wrote data/consensus_labels.csv.gz
+wrote data/filtered_dataset.csv.gz (100294 rows)
+wrote data/corpus_index.csv.gz
+wrote detector_B/detector_B_answers.csv.gz (100251 rows, 1100 fire at >=4)
+wrote detector_B/fire_rates.csv
+wrote detector_B/PROMPT.txt
+wrote reputation/detector_A_flags.csv.gz (100294 rows)
+wrote reputation/hard_rule_flags.csv.gz (100294 rows)
+wrote reputation/vt_domain_verdicts.csv.gz (10258 domains, 274 flagged>=1, 98 flagged>=2)
+wrote reputation/ipqs_email_verdicts.csv.gz (5641 emails, 3301 at fraud_score>=85)
+wrote reputation/campaign_reputation_summary.csv.gz (100294 rows)
