@@ -238,14 +238,19 @@ def heuristic_flag_R3(url, e_row):
     privacy    = is_true(e_row.get("whois_privacy"))
     # E.2 redirection now gated at n_phrases>=2 (was: any redirection flag)
     redir_e2   = redir_n.get(url, 0.0) >= 2
+    # Post-audit rule. Four sub-signals were removed after auditing them against
+    # the corpus, and the paper's methodology reflects this: E.2 (an LLM
+    # redirection scan) fired on platform boilerplate, E.3 (disposable-email)
+    # matched nothing in this corpus, and E.5/E.6 (young domain age,
+    # privacy-guard registration) fired on near-universal registrar defaults.
+    # Only the regex arm and payment-account reuse survive.
+    #   with the removed signals: 3,515 campaigns
+    #   as shipped and as the paper reports:  228 campaigns
     fired = (
-        hr_n >= 2 or          # E.1
-        redir_e2 or           # E.2 (hardened)
-        disposable or         # E.3
-        wallet_max >= 2 or    # E.4
-        young or              # E.5
-        (privacy and hr_n >= 1)  # E.6
+        hr_n >= 2 or          # A.1  at least two distinct routing patterns
+        wallet_max >= 2       # A.4  same payment account across >=2 campaigns
     )
+    _unused = (redir_e2, disposable, young, privacy)  # retained for audit only
     return bool(fired)
 
 
