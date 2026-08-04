@@ -1,0 +1,874 @@
+entity_type,entity,campaign_url,platform,tier,consensus_score,detectors_fired,organizer,title,intel
+email,orphans@thezaynabproject.org,https://chuffed.org/project/orphansponsorshipprogram,Chuffed,fraud,2,AC,"{'name': 'The Zaynab Project', 'country': 'United States'}",Orphan Sponsorship Program,ipqs_fraud_score=0
+email,contact@thezaynabproject.org,https://chuffed.org/project/orphansponsorshipprogram,Chuffed,fraud,2,AC,"{'name': 'The Zaynab Project', 'country': 'United States'}",Orphan Sponsorship Program,ipqs_fraud_score=0
+domain,gracemissionsg.com,https://chuffed.org/project/pedals-to-peddle-2025,Chuffed,fraud,2,AC,"{'name': 'Grace Mission SG', 'country': 'Singapore'}",Pedals to Paddle 2025 is Raising Funds for Project Ocean Therapy,
+email,talaith@lgbtiqoutside.org,https://chuffed.org/project/transpower,Chuffed,fraud,2,AC,"{'name': 'The Outside Project', 'country': 'United Kingdom'}",TRANS SHELTER = TRANS POWER,ipqs_fraud_score=0
+domain,lgbtiqoutside.org,https://chuffed.org/project/transpower,Chuffed,fraud,2,AC,"{'name': 'The Outside Project', 'country': 'United Kingdom'}",TRANS SHELTER = TRANS POWER,
+email,talaith@lgbtiqoutside.org,https://chuffed.org/project/transpower2025,Chuffed,fraud,2,AC,"{'name': 'The Outside Project', 'country': 'United Kingdom'}",TRANS SHELTER = TRANS POWER 2025,ipqs_fraud_score=0
+domain,lgbtiqoutside.org,https://chuffed.org/project/transpower2025,Chuffed,fraud,2,AC,"{'name': 'The Outside Project', 'country': 'United Kingdom'}",TRANS SHELTER = TRANS POWER 2025,
+email,contact@thezaynabproject.org,https://chuffed.org/project/zaynabproject,Chuffed,fraud,2,AC,"{'name': 'The Zaynab Project', 'country': 'United States'}",The Zaynab Project: GAZA Relief,ipqs_fraud_score=0
+social:instagram,thezaynabproject,https://chuffed.org/project/zaynabproject,Chuffed,fraud,2,AC,"{'name': 'The Zaynab Project', 'country': 'United States'}",The Zaynab Project: GAZA Relief,https://instagram.com/thezaynabproject
+domain,mobys.ws,https://crowdfundr.com/SaveSissonne,Crowdfundr,fraud,2,AC,"{'name': 'Lee Newman', 'country': 'US', 'profile_url': None}",Sissonne #1 Deluxe Edition Springs into Action!,
+domain,lettering.zone,https://crowdfundr.com/SaveSissonne,Crowdfundr,fraud,2,AC,"{'name': 'Lee Newman', 'country': 'US', 'profile_url': None}",Sissonne #1 Deluxe Edition Springs into Action!,
+social:linktree,ravenwritindesk,https://crowdfundr.com/SaveSissonne,Crowdfundr,fraud,2,AC,"{'name': 'Lee Newman', 'country': 'US', 'profile_url': None}",Sissonne #1 Deluxe Edition Springs into Action!,https://linktr.ee/ravenwritindesk
+domain,palmerspicks.com,https://crowdfundr.com/dishmanbook,Crowdfundr,fraud,2,AC,"{'name': None, 'country': None, 'profile_url': None}",The Mundane Adventures of Dishman Collected Edition by John MacLeod,
+domain,blackeye.ca,https://crowdfundr.com/dishmanbook,Crowdfundr,fraud,2,AC,"{'name': None, 'country': None, 'profile_url': None}",The Mundane Adventures of Dishman Collected Edition by John MacLeod,
+domain,go.blackeye.ca,https://crowdfundr.com/dishmanbook,Crowdfundr,fraud,2,AC,"{'name': None, 'country': None, 'profile_url': None}",The Mundane Adventures of Dishman Collected Edition by John MacLeod,
+social:unknown,etsy,https://crowdfundr.com/dishmanbook,Crowdfundr,fraud,2,AC,"{'name': None, 'country': None, 'profile_url': None}",The Mundane Adventures of Dishman Collected Edition by John MacLeod,https://go.blackeye.ca/etsy
+email,feedback@rednews.co.uk,https://crowdfundr.com/rednews2024,Crowdfundr,fraud,3,ABC,"{'name': 'Red News', 'country': 'GB', 'profile_url': None}",Support and Save RedNews for 24/25 - 425 subscribers needed to SAVE the fanzine.,ipqs_fraud_score=80
+email,feedback@rednews.co.uk,https://crowdfundr.com/rednewsfanzine2019,Crowdfundr,fraud,2,AC,"{'name': 'Red News', 'country': 'GB', 'profile_url': None}",Red News Advanced Fanzine Subscription campaign for the 2019/20 season.,ipqs_fraud_score=80
+domain,fundrazr.com,https://crowdfundr.com/rednewsfanzine2019,Crowdfundr,fraud,2,AC,"{'name': 'Red News', 'country': 'GB', 'profile_url': None}",Red News Advanced Fanzine Subscription campaign for the 2019/20 season.,
+Cash App,$SaveApril,https://freefunder.com/campaign/aprils-army-fund/,FreeFunder,fraud,2,AB,,"""April's Army Fund"" on FreeFunder",
+Venmo,@April-Dellefield,https://freefunder.com/campaign/aprils-army-fund/,FreeFunder,fraud,2,AB,,"""April's Army Fund"" on FreeFunder",
+domain,bodybrainconnection.com,https://freefunder.com/campaign/ashers-therapy/,FreeFunder,fraud,2,AC,,"""Asher's Therapy"" on FreeFunder",
+phone,3175908528,https://freefunder.com/campaign/brents-medical-care-79StKw/,FreeFunder,fraud,2,AC,,"""Brent's Medical Care"" on FreeFunder",
+phone,9705932191,https://freefunder.com/campaign/clean-water-for-africa-XxHx1Y/,FreeFunder,fraud,2,AC,,"""Clean Water For Africa"" on FreeFunder",
+domain,villagecareproject.com,https://freefunder.com/campaign/clean-water-for-africa-XxHx1Y/,FreeFunder,fraud,2,AC,,"""Clean Water For Africa"" on FreeFunder",
+phone,2066727222,https://freefunder.com/campaign/fight-against-brain-tumor/,FreeFunder,fraud,2,AC,,"""Fight Against Brain Tumor"" on FreeFunder",
+Cash App,$MendelTKatz,https://freefunder.com/campaign/galit-katz---medical/,FreeFunder,fraud,2,AB,,"""Galit Katz - Medical"" on FreeFunder",
+paypal.me,paypal.me/mendeltkatz,https://freefunder.com/campaign/galit-katz---medical/,FreeFunder,fraud,2,AB,,"""Galit Katz - Medical"" on FreeFunder",
+phone,5306059445,https://freefunder.com/campaign/galit-katz---medical/,FreeFunder,fraud,2,AB,,"""Galit Katz - Medical"" on FreeFunder",
+phone,2066727222,https://freefunder.com/campaign/isiss-expenses-icu/,FreeFunder,fraud,2,AC,,"""Isis's Expenses POST ICU"" on FreeFunder",
+domain,m.signupgenius.com,https://freefunder.com/campaign/isiss-expenses-icu/,FreeFunder,fraud,2,AC,,"""Isis's Expenses POST ICU"" on FreeFunder",
+Venmo,@Kevin-Bergeron-12,https://freefunder.com/campaign/kevins-emergency-fund-2/,FreeFunder,fraud,2,AC,,"""Kevin's Emergency Fund #2"" on FreeFunder",
+social:unknown,Kevin-Bergeron-12,https://freefunder.com/campaign/kevins-emergency-fund-2/,FreeFunder,fraud,2,AC,,"""Kevin's Emergency Fund #2"" on FreeFunder",
+phone,6614062289,https://freefunder.com/campaign/my-birthday-fundraiser-/,FreeFunder,fraud,3,ABC,,"""My Birthday Fundraiser 🥳"" on FreeFunder",
+social:unknown,1JY3A7OLCVFQ0,https://freefunder.com/campaign/my-birthday-fundraiser-/,FreeFunder,fraud,3,ABC,,"""My Birthday Fundraiser 🥳"" on FreeFunder",https://amazon.com/1JY3A7OLCVFQ0
+phone,2066727222,https://freefunder.com/campaign/philly-pup-needs-help/,FreeFunder,fraud,2,AC,,"""Philly Pup Needs HELP!!!"" on FreeFunder",
+domain,pnwdigital.net,https://freefunder.com/campaign/pnwdigital-organization/,FreeFunder,fraud,2,AC,,"""PNWDigital Organization"" on FreeFunder",
+Venmo,@Terra-Manasco,https://freefunder.com/campaign/show-love-4-ruth-manasco/,FreeFunder,fraud,2,AC,,"""Show Love 4 Ruth Manasco"" on FreeFunder",
+phone,2068007879,https://freefunder.com/campaign/show-love-4-ruth-manasco/,FreeFunder,fraud,2,AC,,"""Show Love 4 Ruth Manasco"" on FreeFunder",
+social:facebook,Terra-Manasco,https://freefunder.com/campaign/show-love-4-ruth-manasco/,FreeFunder,fraud,2,AC,,"""Show Love 4 Ruth Manasco"" on FreeFunder",https://facebook.com/Terra-Manasco
+Venmo,@RKrokdal,https://freefunder.com/campaign/support-rescue-2025-1/,FreeFunder,fraud,3,ABC,,"""Support Street Rescue LA"" on FreeFunder",
+paypal.me,paypal.me/RKrokdal,https://freefunder.com/campaign/support-rescue-2025-1/,FreeFunder,fraud,3,ABC,,"""Support Street Rescue LA"" on FreeFunder",
+phone,3108041555,https://freefunder.com/campaign/support-rescue-2025-1/,FreeFunder,fraud,3,ABC,,"""Support Street Rescue LA"" on FreeFunder",
+phone,3108041555,https://freefunder.com/campaign/support-street-rescue-la/,FreeFunder,fraud,2,AC,,"""Support street rescue LA"" on FreeFunder",
+Venmo,@Richard-Heimer,https://freefunder.com/campaign/the-heimer-family/,FreeFunder,fraud,2,AC,,"""RESTORE HOPE FOR FAMILY"" on FreeFunder",
+phone,2066727222,https://freefunder.com/campaign/the-heimer-family/,FreeFunder,fraud,2,AC,,"""RESTORE HOPE FOR FAMILY"" on FreeFunder",
+social:unknown,Richard-Heimer,https://freefunder.com/campaign/the-heimer-family/,FreeFunder,fraud,2,AC,,"""RESTORE HOPE FOR FAMILY"" on FreeFunder",
+phone,6614062289,https://freefunder.com/campaign/van-for-kitty-cat-rescue/,FreeFunder,fraud,3,ABC,,"""Van for My Cat Rescue"" on FreeFunder",
+domain,hk.news.appledaily.com,https://gogetfunding.com/%e8%b6%99%e5%90%8c%e5%ad%b8%e6%87%89%e6%80%a5%e6%94%af%e6%8f%b4%e5%9f%ba%e9%87%91-2,GoGetFunding,fraud,2,AC,Kevin Chiu Hong Kong,趙同學應急支援基金,
+social:unknown,be4thefall,https://gogetfunding.com/%e8%b6%99%e5%90%8c%e5%ad%b8%e6%87%89%e6%80%a5%e6%94%af%e6%8f%b4%e5%9f%ba%e9%87%91-2,GoGetFunding,fraud,2,AC,Kevin Chiu Hong Kong,趙同學應急支援基金,
+domain,streamable.com,https://gogetfunding.com/%e9%9d%92%e5%a4%a9%e5%85%ac%e9%8f%88%e8%a8%88%e5%8a%83-%e7%9c%be%e7%b1%8c%e5%bb%ba%e7%ab%8b%e4%bf%a1%e4%bb%bb%e3%80%81%e5%ae%88%e8%ad%b7%e7%9c%9f%e7%9b%b8-help-the-public-build-trust-and-protect-the-t,GoGetFunding,fraud,2,AC,Bao Chain Hong Kong,831黑警同721元朗白衫冇分別？ 香港人自救支持下一步 !,vt_engines_flagged=1
+social:facebook,on.chan.773,https://gogetfunding.com/%e9%9d%92%e5%a4%a9%e5%85%ac%e9%8f%88%e8%a8%88%e5%8a%83-%e7%9c%be%e7%b1%8c%e5%bb%ba%e7%ab%8b%e4%bf%a1%e4%bb%bb%e3%80%81%e5%ae%88%e8%ad%b7%e7%9c%9f%e7%9b%b8-help-the-public-build-trust-and-protect-the-t,GoGetFunding,fraud,2,AC,Bao Chain Hong Kong,831黑警同721元朗白衫冇分別？ 香港人自救支持下一步 !,https://facebook.com/on.chan.773
+phone,+09063262363,https://gogetfunding.com/%f0%9f%9a%a8-save-chinedu-a-life-in-critical-need-%f0%9f%9a%a8,GoGetFunding,fraud,3,ABC,One Race For Filipino Services One Race For Filipino Services,🚨 Save Chinedu – A Life in Critical Need 🚨,
+phone,+09761928217,https://gogetfunding.com/%f0%9f%9a%a8-wendy-has-been-homeless-for-4-years-%f0%9f%9a%a8,GoGetFunding,fraud,2,BC,One Race For Filipino Services One Race For Filipino Services,🚨 Wendy Has Been Homeless For 4 Years 🚨,
+domain,projecthope.org,https://gogetfunding.com/10-year-old-covid-19-fundraising-campaign,GoGetFunding,fraud,2,AC,Annabelle Chu Hong Kong,10-Year-Old COVID-19 Fundraising Campaign,
+domain,dogrescuethailand.com,https://gogetfunding.com/100-dogs-need-new-shelter,GoGetFunding,fraud,2,BC,Dog Rescue Thailand Laem Mae Phim,Help us build a new shelter for homeless dogs.,
+social:facebook,dog.rescue.thailand,https://gogetfunding.com/100-dogs-need-new-shelter,GoGetFunding,fraud,2,BC,Dog Rescue Thailand Laem Mae Phim,Help us build a new shelter for homeless dogs.,https://facebook.com/dog.rescue.thailand
+social:instagram,dog_rescue_thailand,https://gogetfunding.com/100-dogs-need-new-shelter,GoGetFunding,fraud,2,BC,Dog Rescue Thailand Laem Mae Phim,Help us build a new shelter for homeless dogs.,https://instagram.com/dog_rescue_thailand
+phone,+306977560795,https://gogetfunding.com/1st-international-tai-chi-festival-democritos-of-abdera-approaching-tai-chi-through-philosophy-as-an-international-language-of-culture-between-west-and-east-xanthi-gre,GoGetFunding,fraud,2,AC,Leonidas Karakatsanis Xanthi,"1st International Tai Chi Festival ‘Democritos of Abdera’, «Approaching Tai Chi through Philosophy as an international l",
+phone,+302541025421,https://gogetfunding.com/1st-international-tai-chi-festival-democritos-of-abdera-approaching-tai-chi-through-philosophy-as-an-international-language-of-culture-between-west-and-east-xanthi-gre,GoGetFunding,fraud,2,AC,Leonidas Karakatsanis Xanthi,"1st International Tai Chi Festival ‘Democritos of Abdera’, «Approaching Tai Chi through Philosophy as an international l",
+phone,6267124422,https://gogetfunding.com/2014-charreria-against-cancer,GoGetFunding,fraud,2,AC,HispanicHeritage Western Mira Loma,2014 Charreria Against Cancer,
+phone,6267124422,https://gogetfunding.com/2015-clasico-de-las-americas,GoGetFunding,fraud,2,AC,HispanicHeritage Western Mira Loma,2015 Clasico de las Americas,
+phone,6267124422,https://gogetfunding.com/2016-clasico-de-las-americas,GoGetFunding,fraud,2,AC,HispanicHeritage Western Mira Loma,2016 Clasico de las Americas,
+phone,6267124422,https://gogetfunding.com/2017-clasico-de-las-americas,GoGetFunding,fraud,2,AC,HispanicHeritage Western Mira Loma,2017 Clasico de las Americas,
+domain,youcaring.com,https://gogetfunding.com/2018-super-bowl-match-challenge,GoGetFunding,fraud,3,ABC,Crossroads Shih Tzu Rescue Tallahassee,2018 Super Bowl Match Challenge!,
+phone,6267124422,https://gogetfunding.com/2018clasicodelasamericas,GoGetFunding,fraud,2,AC,HispanicHeritage Western Mira Loma,2018 Clasico de las Americas,
+phone,+85268884028,https://gogetfunding.com/2020-sunshine-fortune-bags-program,GoGetFunding,fraud,2,AC,Sunshine Action Hong Kong,2021 Sunshine Fortune Bags Program,
+domain,sunshine-action.org,https://gogetfunding.com/2020-sunshine-fortune-bags-program,GoGetFunding,fraud,2,AC,Sunshine Action Hong Kong,2021 Sunshine Fortune Bags Program,
+social:instagram,sunshineactionhk,https://gogetfunding.com/2020-sunshine-fortune-bags-program,GoGetFunding,fraud,2,AC,Sunshine Action Hong Kong,2021 Sunshine Fortune Bags Program,https://instagram.com/sunshineactionhk
+social:instagram,sunshineaction,https://gogetfunding.com/2020-sunshine-fortune-bags-program,GoGetFunding,fraud,2,AC,Sunshine Action Hong Kong,2021 Sunshine Fortune Bags Program,https://instagram.com/sunshineaction
+social:facebook,sunshineaction,https://gogetfunding.com/2020-sunshine-fortune-bags-program,GoGetFunding,fraud,2,AC,Sunshine Action Hong Kong,2021 Sunshine Fortune Bags Program,https://facebook.com/sunshineaction
+phone,+306977560795,https://gogetfunding.com/2nd-international-tai-chi-festival-democritos-of-abdera-sports-kinetic-art-culture-philosophy-xanthi-greece-25-27-may-2018,GoGetFunding,fraud,2,AC,Leonidas Karakatsanis Xanthi,"2nd International Tai Chi Festival ‘Democritos of Abdera’, Sports – Kinetic Art – Culture – Philosophy, Xanthi, Greece, ",
+phone,+302541025421,https://gogetfunding.com/2nd-international-tai-chi-festival-democritos-of-abdera-sports-kinetic-art-culture-philosophy-xanthi-greece-25-27-may-2018,GoGetFunding,fraud,2,AC,Leonidas Karakatsanis Xanthi,"2nd International Tai Chi Festival ‘Democritos of Abdera’, Sports – Kinetic Art – Culture – Philosophy, Xanthi, Greece, ",
+phone,+09367980458,https://gogetfunding.com/2nd-round-chemotherapy-treatment-for-ninas-brain-cancer,GoGetFunding,fraud,2,AC,Kristine Buendia Quezon City,2nd Round Chemotherapy Treatment for Nina’s Brain Cancer,
+phone,+09553361381,https://gogetfunding.com/2yr-old-gabby-fights-histiocytosis,GoGetFunding,fraud,3,ABC,Fights Histiocytosis,2yr-old Gabby Fights Histiocytosis,
+domain,hopkinsmedicine.org,https://gogetfunding.com/2yr-old-gabby-fights-histiocytosis,GoGetFunding,fraud,3,ABC,Fights Histiocytosis,2yr-old Gabby Fights Histiocytosis,
+social:facebook,josephine.borris,https://gogetfunding.com/2yr-old-gabby-fights-histiocytosis,GoGetFunding,fraud,3,ABC,Fights Histiocytosis,2yr-old Gabby Fights Histiocytosis,https://facebook.com/josephine.borris
+social:tiktok,Tik-Tok,https://gogetfunding.com/55noretire-55nohire,GoGetFunding,fraud,2,AB,James Catizone Jermyn PA,"’55, Too Young to Retire… Too Old to Be Hired’",https://tiktok.com/Tik-Tok
+domain,hk.news.appledaily.com,https://gogetfunding.com/6-12-%e4%b8%ad%e4%bf%a1%e5%9c%8d%e5%9b%b0%e4%ba%8b%e4%bb%b6%e5%8f%97%e8%a8%aa%e7%b4%80%e9%8c%84,GoGetFunding,fraud,2,AC,Siege of Citic Diary Hong Kong,6.12 中信圍困事件全紀錄,
+domain,thestandnews.com,https://gogetfunding.com/6-12-%e4%b8%ad%e4%bf%a1%e5%9c%8d%e5%9b%b0%e4%ba%8b%e4%bb%b6%e5%8f%97%e8%a8%aa%e7%b4%80%e9%8c%84,GoGetFunding,fraud,2,AC,Siege of Citic Diary Hong Kong,6.12 中信圍困事件全紀錄,
+domain,flyingv.cc,https://gogetfunding.com/6-12-%e4%b8%ad%e4%bf%a1%e5%9c%8d%e5%9b%b0%e4%ba%8b%e4%bb%b6%e5%8f%97%e8%a8%aa%e7%b4%80%e9%8c%84,GoGetFunding,fraud,2,AC,Siege of Citic Diary Hong Kong,6.12 中信圍困事件全紀錄,
+phone,+639175060577,https://gogetfunding.com/9,GoGetFunding,fraud,2,AC,Zane,BabyZane,
+phone,+639175060577,https://gogetfunding.com/9/#c_upd,GoGetFunding,fraud,2,AC,Zane,BabyZane,
+paypal.me,paypal.me/MSmiry,https://gogetfunding.com/Adha-Gaza,GoGetFunding,fraud,2,AC,Care For Gaza Palestine Durban,Eid Al Adha Campaign – Gaza,
+paypal.me,paypal.me/xoHusnaaxo,https://gogetfunding.com/Adha-Gaza,GoGetFunding,fraud,2,AC,Care For Gaza Palestine Durban,Eid Al Adha Campaign – Gaza,
+paypal.me,paypal.me/MSmiry,https://gogetfunding.com/CFG3,GoGetFunding,fraud,3,ABC,Care For Gaza Palestine Durban,Lend a hand to the needy | 3,
+paypal.me,paypal.me/MSmiry,https://gogetfunding.com/Ramadan-20211,GoGetFunding,fraud,2,AC,Care For Gaza Palestine Durban,Care For Gaza – Ramadan 2021,
+paypal.me,paypal.me/xoHusnaaxo,https://gogetfunding.com/Ramadan-20211,GoGetFunding,fraud,2,AC,Care For Gaza Palestine Durban,Care For Gaza – Ramadan 2021,
+domain,nhs.uk,https://gogetfunding.com/a-heart-for-children-with-congenital-heart-defects,GoGetFunding,fraud,2,AC,Wye Yi Wong Kuala Lumpur,A Heart For Children with Congenital Heart Defects,
+phone,+66958104655,https://gogetfunding.com/a-heartfelt-request-for-my-mom-who-needs-to-undergo-surgery-for-myoma,GoGetFunding,fraud,2,AC,Alyssa Marie Cabe Lipa City,A heartfelt request for my Mom who needs to undergo surgery for Myoma,
+social:whatsapp,+66958104655,https://gogetfunding.com/a-heartfelt-request-for-my-mom-who-needs-to-undergo-surgery-for-myoma,GoGetFunding,fraud,2,AC,Alyssa Marie Cabe Lipa City,A heartfelt request for my Mom who needs to undergo surgery for Myoma,https://wa.me/+66958104655
+domain,rahbarfoundation.org,https://gogetfunding.com/abdulaleemsurgery,GoGetFunding,fraud,2,AC,Azhar Pasha Irving,Support Abdul Aleem For Maxillofacial Surgery for injuries on Head and Face,
+phone,+639269909301,https://gogetfunding.com/abnormal-heart-murmur-operation,GoGetFunding,fraud,3,ABC,Jason Legaspi Mandaluyong,Heart Operation,
+domain,phc.gov.ph,https://gogetfunding.com/abnormal-heart-murmur-operation,GoGetFunding,fraud,3,ABC,Jason Legaspi Mandaluyong,Heart Operation,
+phone,+09291061854,https://gogetfunding.com/aiding-typhoon-trami-kristines-victims-alexis-and-communities-in-bicol-ph,GoGetFunding,fraud,2,AC,Di Cabanlit Lipa Batangas Philippines,"Aiding Typhoon Trami/Kristine’s Victims: Alexis and Communities in Bicol, PH",
+domain,reuters.com,https://gogetfunding.com/aiding-typhoon-trami-kristines-victims-alexis-and-communities-in-bicol-ph,GoGetFunding,fraud,2,AC,Di Cabanlit Lipa Batangas Philippines,"Aiding Typhoon Trami/Kristine’s Victims: Alexis and Communities in Bicol, PH",
+domain,apnews.com,https://gogetfunding.com/aiding-typhoon-trami-kristines-victims-alexis-and-communities-in-bicol-ph,GoGetFunding,fraud,2,AC,Di Cabanlit Lipa Batangas Philippines,"Aiding Typhoon Trami/Kristine’s Victims: Alexis and Communities in Bicol, PH",
+domain,cinemablend.com,https://gogetfunding.com/alita-us-billboard-campaign-part-2-we-do-not-stand-by,GoGetFunding,fraud,2,AC,Fundraising campaign by Foxfire 40900590 Moenchengladbach,Alita US Billboard Campaign: We Do Not Stand By,
+domain,feedingamerica.org,https://gogetfunding.com/alita-us-billboard-campaign-part-2-we-do-not-stand-by,GoGetFunding,fraud,2,AC,Fundraising campaign by Foxfire 40900590 Moenchengladbach,Alita US Billboard Campaign: We Do Not Stand By,
+domain,actionagainsthunger.org,https://gogetfunding.com/alita-us-billboard-campaign-part-2-we-do-not-stand-by,GoGetFunding,fraud,2,AC,Fundraising campaign by Foxfire 40900590 Moenchengladbach,Alita US Billboard Campaign: We Do Not Stand By,
+domain,alitaarmy.org,https://gogetfunding.com/alita-us-billboard-campaign-part-2-we-do-not-stand-by,GoGetFunding,fraud,2,AC,Fundraising campaign by Foxfire 40900590 Moenchengladbach,Alita US Billboard Campaign: We Do Not Stand By,
+phone,+15879680635,https://gogetfunding.com/amazinggracepleasehelpmymomlivelonger,GoGetFunding,fraud,2,AB,Mary Ann Santiago Iriga City,“Amazing Grace” – please help my Mom live longer,
+email,angkor@startsomegood.com,https://gogetfunding.com/angkor-marathon-challenge-for-cabdico,GoGetFunding,fraud,2,AC,angkor Siem Reap,Angkor Marathon Challenge for CABDICO,ipqs_fraud_score=91
+email,sarah@startsomegood.com,https://gogetfunding.com/angkor-marathon-challenge-for-cabdico,GoGetFunding,fraud,2,AC,angkor Siem Reap,Angkor Marathon Challenge for CABDICO,ipqs_fraud_score=0
+email,cindy@startsomegood.com,https://gogetfunding.com/angkor-marathon-challenge-for-cabdico,GoGetFunding,fraud,2,AC,angkor Siem Reap,Angkor Marathon Challenge for CABDICO,ipqs_fraud_score=91
+domain,startsomegood.com,https://gogetfunding.com/angkor-marathon-challenge-for-cabdico,GoGetFunding,fraud,2,AC,angkor Siem Reap,Angkor Marathon Challenge for CABDICO,
+domain,cabdico.org,https://gogetfunding.com/angkor-marathon-challenge-for-cabdico,GoGetFunding,fraud,2,AC,angkor Siem Reap,Angkor Marathon Challenge for CABDICO,
+domain,smh.com.au,https://gogetfunding.com/angkor-marathon-challenge-for-cabdico,GoGetFunding,fraud,2,AC,angkor Siem Reap,Angkor Marathon Challenge for CABDICO,
+phone,+09951076181,https://gogetfunding.com/anns-sweet-battle,GoGetFunding,fraud,2,AC,Ann Marie Cruz Makati City,Help me to go home,
+domain,theglobalreality.com,https://gogetfunding.com/annunaki-the-movie-2017,GoGetFunding,fraud,2,AC,Josh Reeves Dfw,ANNUNAKI-THE MOVIE-2018,
+paypal.me,paypal.me/annaalebin,https://gogetfunding.com/another-chance-for-anna,GoGetFunding,fraud,2,AC,Anna Cassandra Bragas Alebin Quezon City,Anna needs you in getting the right treatment,
+phone,+09089550819,https://gogetfunding.com/another-chance-for-anna,GoGetFunding,fraud,2,AC,Anna Cassandra Bragas Alebin Quezon City,Anna needs you in getting the right treatment,
+phone,+09089550819,https://gogetfunding.com/anotherchanceforanna,GoGetFunding,fraud,2,AC,Anna Cassandra Alebin Bacoor,Another Chance For Anna,
+domain,antiparos.tv,https://gogetfunding.com/antiparos-live-web-camera,GoGetFunding,fraud,2,AC,Nina Carlsen Antiparos,Antiparos Live Web Camera (New Camera & Installation),
+domain,antiparos.tv,https://gogetfunding.com/antiparos-live-web-camera-new-camera-installation,GoGetFunding,fraud,2,AC,Nina Carlsen Antiparos,Antiparos Live Web Camera (New Camera & Installation),
+phone,+6586065986,https://gogetfunding.com/anvaysgofundme,GoGetFunding,fraud,2,AC,Anvay Dixit Singapore,DEAR SINGAPORE: BLACK LIVES MATTER,
+domain,secure.actblue.com,https://gogetfunding.com/anvaysgofundme,GoGetFunding,fraud,2,AC,Anvay Dixit Singapore,DEAR SINGAPORE: BLACK LIVES MATTER,
+domain,joincampaignzero.org,https://gogetfunding.com/anvaysgofundme,GoGetFunding,fraud,2,AC,Anvay Dixit Singapore,DEAR SINGAPORE: BLACK LIVES MATTER,
+domain,blackvisionsmn.org,https://gogetfunding.com/anvaysgofundme,GoGetFunding,fraud,2,AC,Anvay Dixit Singapore,DEAR SINGAPORE: BLACK LIVES MATTER,
+Venmo,@cdp_cross,https://gogetfunding.com/aoi-shouta-flower-stand-project-fanclub-event-2019,GoGetFunding,fraud,2,AC,Aoi Shouta Fans Project Villa Elisa,Aoi Shouta Flower Stand Project: Fanclub Event 2019,
+domain,ameblo.jp,https://gogetfunding.com/aoi-shouta-flower-stand-project-fanclub-event-2019,GoGetFunding,fraud,2,AC,Aoi Shouta Fans Project Villa Elisa,Aoi Shouta Flower Stand Project: Fanclub Event 2019,
+social:twitter,asfansproject,https://gogetfunding.com/aoi-shouta-flower-stand-project-fanclub-event-2019,GoGetFunding,fraud,2,AC,Aoi Shouta Fans Project Villa Elisa,Aoi Shouta Flower Stand Project: Fanclub Event 2019,https://twitter.com/asfansproject
+social:twitter,kamygg_0119,https://gogetfunding.com/aoi-shouta-flower-stand-project-fanclub-event-2019,GoGetFunding,fraud,2,AC,Aoi Shouta Fans Project Villa Elisa,Aoi Shouta Flower Stand Project: Fanclub Event 2019,https://twitter.com/kamygg_0119
+social:twitter,cdp_cross,https://gogetfunding.com/aoi-shouta-flower-stand-project-fanclub-event-2019,GoGetFunding,fraud,2,AC,Aoi Shouta Fans Project Villa Elisa,Aoi Shouta Flower Stand Project: Fanclub Event 2019,https://twitter.com/cdp_cross
+domain,ameblo.jp,https://gogetfunding.com/aoishoutaflowerstandproject2018,GoGetFunding,fraud,2,AC,Aoi Shouta Flower Stand Project Manila,Flower Stand for Aoi Shouta’s Fan Club Event 2018,
+social:twitter,ScarletRei,https://gogetfunding.com/aoishoutaflowerstandproject2018,GoGetFunding,fraud,2,AC,Aoi Shouta Flower Stand Project Manila,Flower Stand for Aoi Shouta’s Fan Club Event 2018,https://twitter.com/ScarletRei
+social:twitter,shoutakuyaoi,https://gogetfunding.com/aoishoutaflowerstandproject2018,GoGetFunding,fraud,2,AC,Aoi Shouta Flower Stand Project Manila,Flower Stand for Aoi Shouta’s Fan Club Event 2018,https://twitter.com/shoutakuyaoi
+domain,rahbarfoundation.org,https://gogetfunding.com/appeal-to-help-fight-corona-virus-feed-the-poor,GoGetFunding,fraud,3,ABC,Azhar Pasha Irving,Appeal to help fight Corona Virus – Feed the Poor,
+domain,rahbarfoundation.org,https://gogetfunding.com/appeal-to-support-mohammed-ariz-shamsi-for-medical-treatment-and-pay-off-medical-bills,GoGetFunding,fraud,2,AC,Azhar Pasha Irving,Appeal to support Mohammed Ariz Shamsi for Medical treatment and Pay off Medical bills#,
+domain,rahbarfoundation.org,https://gogetfunding.com/appeal-to-support-orphan-sister-israna-for-marriage,GoGetFunding,fraud,3,ABC,Azhar Pasha Irving,Appeal to Support Orphan Sister Israna for Marriage.,
+email,filozwiki@naxou.gr,https://gogetfunding.com/aris-and-pepe-vet-bills,GoGetFunding,fraud,2,AC,Filozwiki Naxou Naxos,Aris and Pepe Vet Bills,ipqs_fraud_score=91
+paypal.me,paypal.me/YoumnAssilah,https://gogetfunding.com/asilahdogshelter,GoGetFunding,fraud,2,AC,Kiran Kreer Kuala Lumpur,"Help Us Save Ahmed’s Dog Shelter in Asilah, Morocco",
+domain,voyageoflight.org,https://gogetfunding.com/asilahdogshelter,GoGetFunding,fraud,2,AC,Kiran Kreer Kuala Lumpur,"Help Us Save Ahmed’s Dog Shelter in Asilah, Morocco",
+social:facebook,youmnassilah,https://gogetfunding.com/asilahdogshelter,GoGetFunding,fraud,2,AC,Kiran Kreer Kuala Lumpur,"Help Us Save Ahmed’s Dog Shelter in Asilah, Morocco",https://facebook.com/youmnassilah
+email,nicosia@monadikaxamogela.com,https://gogetfunding.com/athens-marathon-for-rare-diseases-2,GoGetFunding,fraud,2,AC,Andreas Kissas Nicosia,Athens Marathon For Rare Diseases,ipqs_fraud_score=91
+domain,monadikaxamogela.com,https://gogetfunding.com/athens-marathon-for-rare-diseases-2,GoGetFunding,fraud,2,AC,Andreas Kissas Nicosia,Athens Marathon For Rare Diseases,
+domain,bootcamp.mit.edu,https://gogetfunding.com/augustin-to-mit-innovation-entrepreneurship-bootcamp-2020,GoGetFunding,fraud,3,ABC,Augustin Prado London,Augustin to MIT Innovation & Entrepreneurship Bootcamp 2020,
+social:linkedin,in/augustin-prado-epfl,https://gogetfunding.com/augustin-to-mit-innovation-entrepreneurship-bootcamp-2020,GoGetFunding,fraud,3,ABC,Augustin Prado London,Augustin to MIT Innovation & Entrepreneurship Bootcamp 2020,https://linkedin.com/in/augustin-prado-epfl
+phone,+63454364667,https://gogetfunding.com/back-to-school-supplies-drive,GoGetFunding,fraud,2,AC,Reabelle Damasco Angeles City,Back To School Supplies Drive,
+phone,+63454364634,https://gogetfunding.com/back-to-school-supplies-drive,GoGetFunding,fraud,2,AC,Reabelle Damasco Angeles City,Back To School Supplies Drive,
+phone,+639955116989,https://gogetfunding.com/back-to-school-supplies-drive,GoGetFunding,fraud,2,AC,Reabelle Damasco Angeles City,Back To School Supplies Drive,
+phone,+639955116989,https://gogetfunding.com/back-to-school-supplies-drive-year-4,GoGetFunding,fraud,2,AC,Reabelle Damasco Angeles,Back To School Supplies Drive Year 4,
+email,info@oneraceforfilipino.org,https://gogetfunding.com/baybay-leyte-needs-your-help,GoGetFunding,fraud,2,AC,One Race For Filipino Services One Race For Filipino Services,Baybay Leyte Needs Your Help!,ipqs_fraud_score=96
+domain,oneraceforfilipino.org,https://gogetfunding.com/baybay-leyte-needs-your-help,GoGetFunding,fraud,2,AC,One Race For Filipino Services One Race For Filipino Services,Baybay Leyte Needs Your Help!,
+domain,bensepicjourney.org,https://gogetfunding.com/bens-epic-christmas-boxes,GoGetFunding,fraud,2,AC,Ginny Walker Rogate,Ben’s Epic Christmas Boxes,
+domain,bensepicjourney.org,https://gogetfunding.com/bens-epic-christmas-boxes-2023-season-5,GoGetFunding,fraud,2,AC,Ginny Walker ROGATE,Ben’s Epic Christmas Boxes 2023 – Season 5!,
+domain,bensepicjourney.org,https://gogetfunding.com/bens-epic-christmas-boxes-season-3-lego-strikes-back,GoGetFunding,fraud,2,AC,Ginny Walker Rogate,Ben’s Epic Christmas Boxes – Season 3: Lego Strikes Back,
+paypal.me,paypal.me/virinajustine,https://gogetfunding.com/bobbythesurvivor,GoGetFunding,fraud,2,AB,Justine Anne Marie Virina Manila,Support Bobby’s Maintenance Medications,
+email,miriam@putticare.org,https://gogetfunding.com/borehole-drilling-for-safe-drinking-water,GoGetFunding,fraud,2,AC,Putticare Foundation Uganda Mbale City,Help Grow a Ugandan Community with Clean Water!,ipqs_fraud_score=91
+domain,putticare.org,https://gogetfunding.com/borehole-drilling-for-safe-drinking-water,GoGetFunding,fraud,2,AC,Putticare Foundation Uganda Mbale City,Help Grow a Ugandan Community with Clean Water!,
+domain,worldremit.com,https://gogetfunding.com/brikama-angels,GoGetFunding,fraud,3,ABC,Frederic Heeren Urshult,Brikama Angels,
+social:twitter,OmarKandeh11,https://gogetfunding.com/brikama-angels,GoGetFunding,fraud,3,ABC,Frederic Heeren Urshult,Brikama Angels,https://twitter.com/OmarKandeh11
+domain,bootcamp.mit.edu,https://gogetfunding.com/bring-amaboh-to-the-mit-innovation-and-entrepreneurship-boot-camp,GoGetFunding,fraud,3,ABC,Amaboh Achu NGU Yaounde,Bring Amaboh To The MIT Innovation and entrepreneurship boot camp,
+social:linkedin,in/ngu-amaboh-achu-23333a9a,https://gogetfunding.com/bring-amaboh-to-the-mit-innovation-and-entrepreneurship-boot-camp,GoGetFunding,fraud,3,ABC,Amaboh Achu NGU Yaounde,Bring Amaboh To The MIT Innovation and entrepreneurship boot camp,https://linkedin.com/in/ngu-amaboh-achu-23333a9a
+paypal.me,paypal.me/Wendy,https://gogetfunding.com/bringinghopetogaza-helpeasetheirsuffering,GoGetFunding,fraud,3,ABC,Wendy Forrest Toronto,Bringing Hope to Gaza: Please Help Us Ease Gaza’s Ongoing Suffering,
+paypal.me,paypal.me/Wendy,https://gogetfunding.com/bringinghopetogaza-helpeasetheirsuffering21,GoGetFunding,fraud,3,ABC,Wendy Forrest Toronto,Bringing Hope to Gaza – Help us ease their suffering,
+IBAN,MT89VALL22013000000018207322010,https://gogetfunding.com/bruno-tilly,GoGetFunding,fraud,2,AB,Noel Gafà Zebbug,Rescuing of 3 dogs from war-torn South Lebanon and re-locate them to Malta.,
+phone,+35699426650,https://gogetfunding.com/bruno-tilly,GoGetFunding,fraud,2,AB,Noel Gafà Zebbug,Rescuing of 3 dogs from war-torn South Lebanon and re-locate them to Malta.,
+phone,+353874438682,https://gogetfunding.com/bruno-tilly,GoGetFunding,fraud,2,AB,Noel Gafà Zebbug,Rescuing of 3 dogs from war-torn South Lebanon and re-locate them to Malta.,
+paypal.me,paypal.me/MuhammadSmiry,https://gogetfunding.com/build-greenhouse-gaza,GoGetFunding,fraud,2,AC,Care For Gaza Palestine Durban,Help build a GREENHOUSE for A farmer in Gaza,
+paypal.me,paypal.me/cblpinc,https://gogetfunding.com/building-public-and-school-library-program,GoGetFunding,fraud,2,AC,Reabelle Damasco Angeles,Building School Libraries and Reading Corners Project!,
+phone,+639955116989,https://gogetfunding.com/building-public-and-school-library-program,GoGetFunding,fraud,2,AC,Reabelle Damasco Angeles,Building School Libraries and Reading Corners Project!,
+domain,cksdsolutions.com,https://gogetfunding.com/building-public-and-school-library-program,GoGetFunding,fraud,2,AC,Reabelle Damasco Angeles,Building School Libraries and Reading Corners Project!,
+social:facebook,cblpinc,https://gogetfunding.com/building-public-and-school-library-program,GoGetFunding,fraud,2,AC,Reabelle Damasco Angeles,Building School Libraries and Reading Corners Project!,https://facebook.com/cblpinc
+email,filozwiki@naxou.gr,https://gogetfunding.com/building-shelter-cages-make-sheds-to-protect-dogs-plant-trees-for-shade-in-hot-summer,GoGetFunding,fraud,2,AC,Filozwiki Naxou Naxos Island,GIVE SHELTER FOR XMAS !!,ipqs_fraud_score=91
+Venmo,@pedulikucingdome,https://gogetfunding.com/built-a-little-catroom-for-the-cats,GoGetFunding,fraud,2,AC,Peduli Kucing Dome South Sulawesi Makassar,BUILT A LITTLE CATROOM FOR THE CATS,
+social:unknown,pedulikucingdome,https://gogetfunding.com/built-a-little-catroom-for-the-cats,GoGetFunding,fraud,2,AC,Peduli Kucing Dome South Sulawesi Makassar,BUILT A LITTLE CATROOM FOR THE CATS,
+Venmo,@generous_nation,https://gogetfunding.com/buying-shoes-for-children,GoGetFunding,fraud,2,AC,Generous Nation Vienna,Buying Shoes for children,
+social:instagram,generous_nation,https://gogetfunding.com/buying-shoes-for-children,GoGetFunding,fraud,2,AC,Generous Nation Vienna,Buying Shoes for children,https://instagram.com/generous_nation
+paypal.me,paypal.me/cbgalang,https://gogetfunding.com/can-you-help-cynthia-with-her-kidney-transplant,GoGetFunding,fraud,2,AC,Carl Lou Dean Galang Mandaluyong,Can you help Cynthia with her Kidney Transplant?,
+email,cbgalang@paypal.me,https://gogetfunding.com/can-you-help-cynthia-with-her-kidney-transplant,GoGetFunding,fraud,2,AC,Carl Lou Dean Galang Mandaluyong,Can you help Cynthia with her Kidney Transplant?,ipqs_fraud_score=91
+domain,nkti.gov.ph,https://gogetfunding.com/can-you-help-cynthia-with-her-kidney-transplant,GoGetFunding,fraud,2,AC,Carl Lou Dean Galang Mandaluyong,Can you help Cynthia with her Kidney Transplant?,
+domain,chipsahospital.org,https://gogetfunding.com/cancer-treatment-for-chris-p-smith,GoGetFunding,fraud,2,AC,chris Smith Hawthorne,fundraiser for chris smiths cancer treatment,
+paypal.me,paypal.me/MuhammadSmiry,https://gogetfunding.com/care-for-gaza-charity,GoGetFunding,fraud,2,AC,Care For Gaza Palestine Durban,Care For Gaza - Charity,
+phone,+09175118025,https://gogetfunding.com/care-for-jhun-bubans-chronic-kidney-disease-5,GoGetFunding,fraud,2,AC,Pedro Buban Quezon City,CARE FOR JHUN BUBAN’S CHRONIC KIDNEY DISEASE,
+phone,+09175118025,https://gogetfunding.com/care-for-jhun-bubans-chronic-kidney-disease-6,GoGetFunding,fraud,2,AC,Pedro Buban Quezon City,CARE FOR JHUN BUBAN’S CHRONIC KIDNEY DISEASE,
+paypal.me,paypal.me/MSmiry,https://gogetfunding.com/careforgaza-ramadan,GoGetFunding,fraud,2,AC,Care For Gaza Palestine Durban,Care For Gaza – Ramadan 2020,
+paypal.me,paypal.me/xoHusnaaxo,https://gogetfunding.com/careforgaza-ramadan,GoGetFunding,fraud,2,AC,Care For Gaza Palestine Durban,Care For Gaza – Ramadan 2020,
+paypal.me,https://www.paypal.me/MSmiry,https://gogetfunding.com/careforgaza-ramadan,GoGetFunding,fraud,2,AC,Care For Gaza Palestine Durban,Care For Gaza – Ramadan 2020,
+paypal.me,https://www.paypal.me/xoHusnaaxo,https://gogetfunding.com/careforgaza-ramadan,GoGetFunding,fraud,2,AC,Care For Gaza Palestine Durban,Care For Gaza – Ramadan 2020,
+Venmo,@pedulikucingdome,https://gogetfunding.com/cat-supplies-needed,GoGetFunding,fraud,2,AC,Peduli Kucing Dome South Sulawesi,Cat supplies needed,
+social:instagram,pedulikucingdome,https://gogetfunding.com/cat-supplies-needed,GoGetFunding,fraud,2,AC,Peduli Kucing Dome South Sulawesi,Cat supplies needed,https://instagram.com/pedulikucingdome
+domain,smiletrain.org,https://gogetfunding.com/catrionas-birthday-fundraiser-for-filipino-children-with-cleft-2,GoGetFunding,fraud,2,AC,Catriona Gray Manila,Catriona’s Birthday Fundraiser for Filipino Children with Cleft,
+domain,smiletrain.org,https://gogetfunding.com/catrionas-birthday-fundraiser-for-filipino-children-with-cleft-3,GoGetFunding,fraud,2,AC,Catriona Gray Manila,Catriona’s Birthday Fundraiser for Filipino Children with Cleft,
+paypal.me,paypal.me/MuhammadSmiry,https://gogetfunding.com/cfg-foodpackages,GoGetFunding,fraud,3,ABC,Care For Gaza Palestine Durban,Lend a hand to the needy – Care For Gaza,
+paypal.me,paypal.me/MuhammadSmiry,https://gogetfunding.com/cfg-foodpackages-2,GoGetFunding,fraud,3,ABC,Care For Gaza Palestine Durban,Lend a hand to the needy (2) – Care For Gaza,
+phone,6267124422,https://gogetfunding.com/charreria-against-cancer,GoGetFunding,fraud,2,AC,HispanicHeritage Western Mira Loma,Charreria Against Cancer | GoGetFunding,
+domain,childcancer.org.nz,https://gogetfunding.com/child-cancer-foundation,GoGetFunding,fraud,2,AC,BBDavR Helsingborg,Child Cancer Foundation,
+social:skype,Skype,https://gogetfunding.com/child-cancer-foundation,GoGetFunding,fraud,2,AC,BBDavR Helsingborg,Child Cancer Foundation,https://skype.com/Skype
+domain,childcancer.org.nz,https://gogetfunding.com/child-cancer-fundraiser,GoGetFunding,fraud,2,AC,BBDavR Helsingborg,Child Cancer Fundraiser,
+social:skype,bbdavr,https://gogetfunding.com/child-cancer-fundraiser,GoGetFunding,fraud,2,AC,BBDavR Helsingborg,Child Cancer Fundraiser,https://skype.com/bbdavr
+domain,childcancer.org.nz,https://gogetfunding.com/child-cancer-fundraising,GoGetFunding,fraud,2,AC,BBDavR Helsingborg,Child Cancer Fundraising,
+social:skype,bdavr,https://gogetfunding.com/child-cancer-fundraising,GoGetFunding,fraud,2,AC,BBDavR Helsingborg,Child Cancer Fundraising,https://skype.com/bdavr
+phone,+09457163999,https://gogetfunding.com/chrislenes-medical-fund,GoGetFunding,fraud,2,AC,Chrislene Tulabing Cebu City,Chrislene’s Medical Fund,
+phone,+09457163999,https://gogetfunding.com/chrislenes-medical-fund-2,GoGetFunding,fraud,2,AC,Chrislene Tulabing Cebu City,Chrislene’s Medical Fund,
+phone,+85268884028,https://gogetfunding.com/christmas-sunshine-fortune-bags-2021-2022,GoGetFunding,fraud,2,AC,Sunshine Action Hong Kong,SUNSHINE ACTION - CHRISTMAS SUNSHINE FORTUNE BAGS 2021-2022,
+domain,sunshine-action.org,https://gogetfunding.com/christmas-sunshine-fortune-bags-2021-2022,GoGetFunding,fraud,2,AC,Sunshine Action Hong Kong,SUNSHINE ACTION - CHRISTMAS SUNSHINE FORTUNE BAGS 2021-2022,
+domain,sunshineactionold.netlify.app,https://gogetfunding.com/christmas-sunshine-fortune-bags-2021-2022,GoGetFunding,fraud,2,AC,Sunshine Action Hong Kong,SUNSHINE ACTION - CHRISTMAS SUNSHINE FORTUNE BAGS 2021-2022,
+phone,3619071513,https://gogetfunding.com/church-building-river-of-god-marilao,GoGetFunding,fraud,2,AC,Melvin Torrefiel MARILAO,CHURCH BUILDING – RIVER OF GOD MARILAO,
+phone,+003430306269,https://gogetfunding.com/church-building-river-of-god-marilao,GoGetFunding,fraud,2,AC,Melvin Torrefiel MARILAO,CHURCH BUILDING – RIVER OF GOD MARILAO,
+phone,+09178783808,https://gogetfunding.com/church-building-river-of-god-marilao,GoGetFunding,fraud,2,AC,Melvin Torrefiel MARILAO,CHURCH BUILDING – RIVER OF GOD MARILAO,
+paypal.me,paypal.me/jenn67,https://gogetfunding.com/click-to-help-us-to-the-end-of-the-rainbow,GoGetFunding,fraud,3,ABC,jennifer welch Kingman,Plz help us to see better days,
+email,jenn67@paypal.me,https://gogetfunding.com/click-to-help-us-to-the-end-of-the-rainbow,GoGetFunding,fraud,3,ABC,jennifer welch Kingman,Plz help us to see better days,ipqs_fraud_score=91
+domain,kdminer.com,https://gogetfunding.com/click-to-help-us-to-the-end-of-the-rainbow,GoGetFunding,fraud,3,ABC,jennifer welch Kingman,Plz help us to see better days,
+email,courtney@globalvolunteernetwork.org,https://gogetfunding.com/coffee-cooperative,GoGetFunding,fraud,2,AC,coffee1 Antigua,Coffee Cooperative,ipqs_fraud_score=96
+domain,globalvolunteernetwork.org,https://gogetfunding.com/coffee-cooperative,GoGetFunding,fraud,2,AC,coffee1 Antigua,Coffee Cooperative,
+domain,girlsnotbrides.org,https://gogetfunding.com/community-mentorship-program,GoGetFunding,fraud,2,AC,Juliette Hasham Nairobi,Community Mentorship Program,
+domain,data.unicef.org,https://gogetfunding.com/community-mentorship-program,GoGetFunding,fraud,2,AC,Juliette Hasham Nairobi,Community Mentorship Program,
+domain,dwibo.org,https://gogetfunding.com/community-mentorship-program,GoGetFunding,fraud,2,AC,Juliette Hasham Nairobi,Community Mentorship Program,
+domain,saps.gov.za,https://gogetfunding.com/community-scheme-ombud-service-also-known-as-csos-must-close-down-or-improve-its-services-the-only-thing-necessary-for-the-triumph-of-evil-is-for-good-men-to-do-nothing-edmund-burke-i-am-ne,GoGetFunding,fraud,3,ABC,Xolisa Pearl Mazibuko Alberton,Community Scheme Ombud Service (Also Known as CSOS) must close down or improve its services!!! “The only thing necessary,
+domain,iol.co.za,https://gogetfunding.com/community-scheme-ombud-service-also-known-as-csos-must-close-down-or-improve-its-services-the-only-thing-necessary-for-the-triumph-of-evil-is-for-good-men-to-do-nothing-edmund-burke-i-am-ne,GoGetFunding,fraud,3,ABC,Xolisa Pearl Mazibuko Alberton,Community Scheme Ombud Service (Also Known as CSOS) must close down or improve its services!!! “The only thing necessary,
+domain,privateproperty.co.za,https://gogetfunding.com/community-scheme-ombud-service-also-known-as-csos-must-close-down-or-improve-its-services-the-only-thing-necessary-for-the-triumph-of-evil-is-for-good-men-to-do-nothing-edmund-burke-i-am-ne,GoGetFunding,fraud,3,ABC,Xolisa Pearl Mazibuko Alberton,Community Scheme Ombud Service (Also Known as CSOS) must close down or improve its services!!! “The only thing necessary,
+domain,paddocksblog.com,https://gogetfunding.com/community-scheme-ombud-service-also-known-as-csos-must-close-down-or-improve-its-services-the-only-thing-necessary-for-the-triumph-of-evil-is-for-good-men-to-do-nothing-edmund-burke-i-am-ne,GoGetFunding,fraud,3,ABC,Xolisa Pearl Mazibuko Alberton,Community Scheme Ombud Service (Also Known as CSOS) must close down or improve its services!!! “The only thing necessary,
+domain,knowyoursyndicates.com,https://gogetfunding.com/community-scheme-ombud-service-also-known-as-csos-must-close-down-or-improve-its-services-the-only-thing-necessary-for-the-triumph-of-evil-is-for-good-men-to-do-nothing-edmund-burke-i-am-ne,GoGetFunding,fraud,3,ABC,Xolisa Pearl Mazibuko Alberton,Community Scheme Ombud Service (Also Known as CSOS) must close down or improve its services!!! “The only thing necessary,
+domain,searchdro.kscourts.gov,https://gogetfunding.com/conviction-overturned-by-the-supreme-court-of-topeka-kansas,GoGetFunding,fraud,3,ABC,the Supreme Court of Topeka Kansas,Conviction Overturned by the Supreme Court of Topeka Kansas,
+domain,thelawofficeofdavidlmiller.com,https://gogetfunding.com/conviction-overturned-by-the-supreme-court-of-topeka-kansas,GoGetFunding,fraud,3,ABC,the Supreme Court of Topeka Kansas,Conviction Overturned by the Supreme Court of Topeka Kansas,
+domain,secure.lawpay.com,https://gogetfunding.com/conviction-overturned-by-the-supreme-court-of-topeka-kansas,GoGetFunding,fraud,3,ABC,the Supreme Court of Topeka Kansas,Conviction Overturned by the Supreme Court of Topeka Kansas,
+IBAN,IE54IPBS99061986629106,https://gogetfunding.com/cork-rathayatra-2024,GoGetFunding,fraud,2,AC,Paul Murphy Cork,Cork Rathayatra 2024,
+phone,4036074434,https://gogetfunding.com/coronavirus-pandemic-fighting-for-lives-on-the-streets,GoGetFunding,fraud,2,AC,Artur Pawlowski Calgary,Coronavirus Pandemic – Fighting for Lives on the Streets,
+phone,+254723727478,https://gogetfunding.com/covid-19-kenya-solidarity-fund-for-do-it-with-boldness-foundation,GoGetFunding,fraud,2,AC,Juliette Hasham Colyton,Sexual Reproductive Health Education within slums during COVID-19,
+domain,dwibo.org,https://gogetfunding.com/covid-19-kenya-solidarity-fund-for-do-it-with-boldness-foundation,GoGetFunding,fraud,2,AC,Juliette Hasham Colyton,Sexual Reproductive Health Education within slums during COVID-19,
+email,june@cypruspridehouse.org,https://gogetfunding.com/cyprus-pride-house-monthly-funds-for-cat-and-dog-rescue-5,GoGetFunding,fraud,2,AC,June Ratcliff Limassol,CYPRUS PRIDE HOUSE MONTHLY FUNDS FOR CAT AND DOG RESCUE,ipqs_fraud_score=91
+domain,cypruspridehouse.org,https://gogetfunding.com/cyprus-pride-house-monthly-funds-for-cat-and-dog-rescue-5,GoGetFunding,fraud,2,AC,June Ratcliff Limassol,CYPRUS PRIDE HOUSE MONTHLY FUNDS FOR CAT AND DOG RESCUE,
+domain,allhandsandhearts.org,https://gogetfunding.com/danielinmexico,GoGetFunding,fraud,2,AC,Daniel Seeger Munich,Help me raise money for ‚All Hands and Hearts‘,
+domain,heraldnet.com,https://gogetfunding.com/darrington-archery-association,GoGetFunding,fraud,2,AC,candyvincent Darrington,Darrington Archery Association,
+domain,channelnewsasia.com,https://gogetfunding.com/deepavali-fooddrive-for-foreign-workers,GoGetFunding,fraud,3,ABC,Christopher Law Singapore,Deepavali Fooddrive for Foreign Workers,
+domain,bbc.com,https://gogetfunding.com/deepavali-fooddrive-for-foreign-workers,GoGetFunding,fraud,3,ABC,Christopher Law Singapore,Deepavali Fooddrive for Foreign Workers,
+domain,abc.net.au,https://gogetfunding.com/deepavali-fooddrive-for-foreign-workers,GoGetFunding,fraud,3,ABC,Christopher Law Singapore,Deepavali Fooddrive for Foreign Workers,
+domain,straitstimes.com,https://gogetfunding.com/deepavali-fooddrive-for-foreign-workers,GoGetFunding,fraud,3,ABC,Christopher Law Singapore,Deepavali Fooddrive for Foreign Workers,
+Venmo,@generous_nation,https://gogetfunding.com/deliver-food-to-children-childrens-lives-matter,GoGetFunding,fraud,2,AC,Generous Nation Vienna,Deliver food to children (children’s lives matter),
+social:instagram,generous_nation,https://gogetfunding.com/deliver-food-to-children-childrens-lives-matter,GoGetFunding,fraud,2,AC,Generous Nation Vienna,Deliver food to children (children’s lives matter),https://instagram.com/generous_nation
+email,dfagan19696@outlook.com,https://gogetfunding.com/dfagan19696-outlook-com,GoGetFunding,fraud,2,AC,DeniseTalis19708 London,DFagan19696@outlook.com,ipqs_fraud_score=91
+email,denisetalis19708@outlook.com,https://gogetfunding.com/dfagan19696-outlook-com,GoGetFunding,fraud,2,AC,DeniseTalis19708 London,DFagan19696@outlook.com,ipqs_fraud_score=91
+email,dfagan19696@outlook.com,https://gogetfunding.com/dfagan19696-outlook-com-1,GoGetFunding,fraud,2,AC,DFagan19696 London,DFagan19696@outlook.com,ipqs_fraud_score=91
+domain,kotun.pl,https://gogetfunding.com/direct-help-for-ukrainians,GoGetFunding,fraud,2,AC,Maria Klosinska Rogacka Kotun,DIRECT HELP FOR UKRAINIANS,
+domain,veselivska-gromada.gov.ua,https://gogetfunding.com/direct-help-for-ukrainians,GoGetFunding,fraud,2,AC,Maria Klosinska Rogacka Kotun,DIRECT HELP FOR UKRAINIANS,
+domain,verba.rvadmin.gov.ua,https://gogetfunding.com/direct-help-for-ukrainians,GoGetFunding,fraud,2,AC,Maria Klosinska Rogacka Kotun,DIRECT HELP FOR UKRAINIANS,
+social:facebook,osp-broszk%c3%b3w-1498662,https://gogetfunding.com/direct-help-for-ukrainians,GoGetFunding,fraud,2,AC,Maria Klosinska Rogacka Kotun,DIRECT HELP FOR UKRAINIANS,https://facebook.com/osp-broszk%c3%b3w-1498662
+domain,msn.com,https://gogetfunding.com/donate-to-an-innovative-nih-trial-to-get-fda-approval-for-an-herbal-cancer-remedycure,GoGetFunding,fraud,2,AC,Donna Lee Jamaica,Donate to an Innovative NIH Trial to get FDA Approval for an Herbal Cancer Remedy/Cure!,
+email,june@cypruspridehouse.org,https://gogetfunding.com/donations-needed-to-keep-cat-and-dog-sanctuary-running,GoGetFunding,fraud,2,AC,June Ratcliff Limassol,DONATIONS NEEDED TO KEEP CAT AND DOG SANCTUARY RUNNING,ipqs_fraud_score=91
+domain,cypruspridehouse.org,https://gogetfunding.com/donations-needed-to-keep-cat-and-dog-sanctuary-running,GoGetFunding,fraud,2,AC,June Ratcliff Limassol,DONATIONS NEEDED TO KEEP CAT AND DOG SANCTUARY RUNNING,
+email,june@cypruspridehouse.org,https://gogetfunding.com/donations-needed-to-keep-cat-and-dog-sanctuary-running-2,GoGetFunding,fraud,2,AC,June Ratcliff Limassol,DONATIONS NEEDED TO KEEP CAT AND DOG SANCTUARY RUNNING,ipqs_fraud_score=91
+domain,cypruspridehouse.org,https://gogetfunding.com/donations-needed-to-keep-cat-and-dog-sanctuary-running-2,GoGetFunding,fraud,2,AC,June Ratcliff Limassol,DONATIONS NEEDED TO KEEP CAT AND DOG SANCTUARY RUNNING,
+email,june@cypruspridehouse.org,https://gogetfunding.com/donations-needed-to-keep-cat-and-dog-sanctuary-running-5,GoGetFunding,fraud,2,AC,June Ratcliff Koilani,DONATIONS NEEDED TO KEEP CAT AND DOG SANCTUARY RUNNING,ipqs_fraud_score=91
+domain,cypruspridehouse.org,https://gogetfunding.com/donations-needed-to-keep-cat-and-dog-sanctuary-running-5,GoGetFunding,fraud,2,AC,June Ratcliff Koilani,DONATIONS NEEDED TO KEEP CAT AND DOG SANCTUARY RUNNING,
+domain,lilieci.ro,https://gogetfunding.com/doneaza-pentru-lilieci,GoGetFunding,fraud,2,AC,Centre for Bat Research and Conservation CBRC Cluj Napoca,For bats and their future! - Pentru lilieci si viitorul lor!,
+phone,+09171786751,https://gogetfunding.com/donnas-kidney-transplant-fund,GoGetFunding,fraud,2,AC,DONNALYN CORPUZ Rodriguez Rizal,Donna’s Kidney Transplant Fund,
+domain,houseofhopelv.com,https://gogetfunding.com/dream-come-true-22,GoGetFunding,fraud,2,AC,Tatjana Makovija Liepaja,Dreams Come True,
+social:facebook,karostakids,https://gogetfunding.com/dream-come-true-22,GoGetFunding,fraud,2,AC,Tatjana Makovija Liepaja,Dreams Come True,https://facebook.com/karostakids
+domain,donorbox.org,https://gogetfunding.com/druthers,GoGetFunding,fraud,2,AC,Shawn Jason Toronto,"DRUTHERS | Canada’s New Alternative Newspaper | Because Mainstream Media, Sucks!",
+domain,rathayatra.ie,https://gogetfunding.com/dublin-rathayatra-2018,GoGetFunding,fraud,2,AC,Paul Murphy Dublin,Dublin Rathayatra 2018,
+phone,0863036564,https://gogetfunding.com/dublin-rathayatra-2019,GoGetFunding,fraud,2,AC,Paul Murphy Dublin,Dublin Rathayatra 2019,
+phone,868582392,https://gogetfunding.com/dublin-rathayatra-2019,GoGetFunding,fraud,2,AC,Paul Murphy Dublin,Dublin Rathayatra 2019,
+domain,rathayatra.ie,https://gogetfunding.com/dublin-rathayatra-2019,GoGetFunding,fraud,2,AC,Paul Murphy Dublin,Dublin Rathayatra 2019,
+IBAN,IE54IPBS99061986629106,https://gogetfunding.com/dublin-rathayatra-2022,GoGetFunding,fraud,2,AC,ISKCON Dublin Dublin,Dublin Rathayatra 2022,
+IBAN,IE54IPBS99061986629106,https://gogetfunding.com/dublin-rathayatra-2023-3,GoGetFunding,fraud,2,AC,Paul Murphy Dublin,Dublin Rathayatra 2023,
+IBAN,IE54IPBS99061986629106,https://gogetfunding.com/dublin-rathayatra-2024,GoGetFunding,fraud,2,AC,Paul Murphy Dublin,Dublin Rathayatra 2024,
+phone,+00970599158005,https://gogetfunding.com/eid-al-adha-sacrifice,GoGetFunding,fraud,2,AC,Ahmad Za Gaza,School clothes for orphaned and poor children Gaza Project 2019,
+email,estelle@modsacredarts.com,https://gogetfunding.com/elaki,GoGetFunding,fraud,2,AC,Estelle El Zaghloul Ramia San Jose,Support Recording Medicine Music Album ~Ela.ki~,ipqs_fraud_score=90
+email,gracie@modsacredarts.com,https://gogetfunding.com/elaki,GoGetFunding,fraud,2,AC,Estelle El Zaghloul Ramia San Jose,Support Recording Medicine Music Album ~Ela.ki~,ipqs_fraud_score=90
+domain,spoti.fi,https://gogetfunding.com/elaki,GoGetFunding,fraud,2,AC,Estelle El Zaghloul Ramia San Jose,Support Recording Medicine Music Album ~Ela.ki~,
+social:spotify,spoti.fi,https://gogetfunding.com/elaki,GoGetFunding,fraud,2,AC,Estelle El Zaghloul Ramia San Jose,Support Recording Medicine Music Album ~Ela.ki~,https://spotify.com/spoti.fi
+social:unknown,bit.ly,https://gogetfunding.com/elaki,GoGetFunding,fraud,2,AC,Estelle El Zaghloul Ramia San Jose,Support Recording Medicine Music Album ~Ela.ki~,
+social:linktree,Modsacredarts,https://gogetfunding.com/elaki,GoGetFunding,fraud,2,AC,Estelle El Zaghloul Ramia San Jose,Support Recording Medicine Music Album ~Ela.ki~,https://linktr.ee/Modsacredarts
+phone,0585771979,https://gogetfunding.com/elishas-poland-fund,GoGetFunding,fraud,2,AC,Rakhel Nehari Kochav Yakov,Elisha’s Poland fund,
+phone,+967772703302,https://gogetfunding.com/emergency-appeal-to-fight-famine-in-yemen,GoGetFunding,fraud,2,AC,Naziya Khatun Leicester,Emergency Appeal To Fight Famine In Yemen,
+social:twitter,Humanity_Vo,https://gogetfunding.com/emergency-appeal-to-fight-famine-in-yemen,GoGetFunding,fraud,2,AC,Naziya Khatun Leicester,Emergency Appeal To Fight Famine In Yemen,https://twitter.com/Humanity_Vo
+phone,+967772703302,https://gogetfunding.com/emergency-appeal-to-fight-famine-in-yemen-2,GoGetFunding,fraud,3,ABC,Ilya Obretetskiy Oxshott,Emergency Appeal To Fight Famine In YEMEN,
+social:twitter,Humanity_Vo,https://gogetfunding.com/emergency-appeal-to-fight-famine-in-yemen-2,GoGetFunding,fraud,3,ABC,Ilya Obretetskiy Oxshott,Emergency Appeal To Fight Famine In YEMEN,https://twitter.com/Humanity_Vo
+domain,goonj.org,https://gogetfunding.com/empower-our-underprivildged-friends-in-need,GoGetFunding,fraud,2,AC,Neha Sharma Washington DC,Empower our underprivildged friends in need.,
+domain,daysforgirls.org,https://gogetfunding.com/empower-our-underprivildged-friends-in-need,GoGetFunding,fraud,2,AC,Neha Sharma Washington DC,Empower our underprivildged friends in need.,
+domain,donateanhour.org,https://gogetfunding.com/empower-our-underprivildged-friends-in-need,GoGetFunding,fraud,2,AC,Neha Sharma Washington DC,Empower our underprivildged friends in need.,
+domain,animaljusticeproject.com,https://gogetfunding.com/end-animal-experiments-on-campus,GoGetFunding,fraud,2,AC,AnimalJusticeProject React London,END ANIMAL EXPERIMENTS ON CAMPUS!,
+phone,+09156057602,https://gogetfunding.com/extend-the-life-of-maria-emma-duran,GoGetFunding,fraud,3,ABC,Arman Duran Cavite,Extend the life of Maria Emma Duran,
+domain,banamunsange.org,https://gogetfunding.com/extending-love-to-the-children-of-africa,GoGetFunding,fraud,2,AC,Anna LaCore Duluth,Extending Love to the Children of Africa,
+domain,fallenangels.org.za,https://gogetfunding.com/fallenangelsza,GoGetFunding,fraud,2,AC,Carla Raath Cape Town,Please Help Fallen Angels Save Helpless Animals!,
+domain,generosity.com,https://gogetfunding.com/fallenangelsza,GoGetFunding,fraud,2,AC,Carla Raath Cape Town,Please Help Fallen Angels Save Helpless Animals!,
+domain,crowdrise.com,https://gogetfunding.com/fallenangelsza,GoGetFunding,fraud,2,AC,Carla Raath Cape Town,Please Help Fallen Angels Save Helpless Animals!,
+domain,fundrazr.com,https://gogetfunding.com/fallenangelsza,GoGetFunding,fraud,2,AC,Carla Raath Cape Town,Please Help Fallen Angels Save Helpless Animals!,
+social:facebook,fallenangelsza,https://gogetfunding.com/fallenangelsza,GoGetFunding,fraud,2,AC,Carla Raath Cape Town,Please Help Fallen Angels Save Helpless Animals!,https://facebook.com/fallenangelsza
+social:youtube,channel/ucxzbztvrjvmquxenw,https://gogetfunding.com/fallenangelsza,GoGetFunding,fraud,2,AC,Carla Raath Cape Town,Please Help Fallen Angels Save Helpless Animals!,https://youtube.com/channel/ucxzbztvrjvmquxenw
+phone,0585771979,https://gogetfunding.com/family-33,GoGetFunding,fraud,2,AC,Rakhel Nehari Kochav Yakov,Single mom on disability needs help please,
+phone,+00970599158005,https://gogetfunding.com/feed-poor-famillies-and-children-gaza,GoGetFunding,fraud,2,AC,Ahmad Zanona Gaza,FEED POOR FAMILLIES AND CHILDREN GAZA,
+phone,+972594254042,https://gogetfunding.com/feed-poor-family-in-gaza-by-food-basket,GoGetFunding,fraud,3,ABC,Food Basket,Feed Poor Family in Gaza By Food Basket,
+phone,+972594254042,https://gogetfunding.com/feed-poor-family-in-gaza-by-food-basket-2,GoGetFunding,fraud,3,ABC,Food Basket,Feed Poor Family in Gaza By Food Basket – 2nd Stage,
+phone,+970597547487,https://gogetfunding.com/feeding-poor-families-in-ramadan-palestine-gaza-2023%f0%9f%8c%83%f0%9f%8c%99,GoGetFunding,fraud,2,AC,Basma Association Relief and fo Development Gaza Strip,"‏Feeding poor families in Ramadan, Palestine, Gaza 2023🌃🌙",
+phone,+09279125995,https://gogetfunding.com/final-vision,GoGetFunding,fraud,2,AC,Kalel Dela Cruz Las Pinas,Final Vision,
+phone,+09176504328,https://gogetfunding.com/financial-aid-for-our-8-month-old-baby,GoGetFunding,fraud,2,AC,Fundraising campaign by Kimberly Mendoza BUTUAN CITY,Financial Aid for our 8-month Old Baby,
+IBAN,PS86PALS046012538220013000000,https://gogetfunding.com/finished-20199,GoGetFunding,fraud,2,AC,Care For Gaza Palestine Durban,Care For Gaza – Ramadan 2019,
+paypal.me,paypal.me/MSmiry,https://gogetfunding.com/finished-20199,GoGetFunding,fraud,2,AC,Care For Gaza Palestine Durban,Care For Gaza – Ramadan 2019,
+paypal.me,paypal.me/xoHusnaaxo,https://gogetfunding.com/finished-20199,GoGetFunding,fraud,2,AC,Care For Gaza Palestine Durban,Care For Gaza – Ramadan 2019,
+domain,artstation.com,https://gogetfunding.com/fip-treatment-for-our-potpot,GoGetFunding,fraud,3,ABC,Miguel Pineda Marilao,FIP Treatment for our Potpot,
+domain,mailchi.mp,https://gogetfunding.com/floating-bones-oasis,GoGetFunding,fraud,2,AC,William Saragosa Weilheim In Oberbayern,Floating Bones – Oasis,
+phone,99228874,https://gogetfunding.com/fluffybunchaugust,GoGetFunding,fraud,2,AC,Dimitra Dimitriou Limassol,The Fluffy Bunch (Formerly: “Hell Colony”) August Fundraiser,
+social:facebook,demetra.demetriou,https://gogetfunding.com/fluffybunchaugust,GoGetFunding,fraud,2,AC,Dimitra Dimitriou Limassol,The Fluffy Bunch (Formerly: “Hell Colony”) August Fundraiser,https://facebook.com/demetra.demetriou
+social:facebook,mashayakovenko,https://gogetfunding.com/fluffybunchaugust,GoGetFunding,fraud,2,AC,Dimitra Dimitriou Limassol,The Fluffy Bunch (Formerly: “Hell Colony”) August Fundraiser,https://facebook.com/mashayakovenko
+paypal.me,paypal.me/Aysha,https://gogetfunding.com/foodbaskets4gaza,GoGetFunding,fraud,3,ABC,Shadi Mahmoud Gaza,Feed Poor families in Gaza with Food Baskets,
+phone,+972594254042,https://gogetfunding.com/foodbaskets4gaza,GoGetFunding,fraud,3,ABC,Shadi Mahmoud Gaza,Feed Poor families in Gaza with Food Baskets,
+social:whatsapp,+972594254042,https://gogetfunding.com/foodbaskets4gaza,GoGetFunding,fraud,3,ABC,Shadi Mahmoud Gaza,Feed Poor families in Gaza with Food Baskets,https://wa.me/+972594254042
+phone,+09453482466,https://gogetfunding.com/for-akis-recovery-and-hospital-bills,GoGetFunding,fraud,2,AB,Jesthoni Lisbe Cebu,For AKI’s PPHN Treatment and Hospital Bills,
+phone,+09683909780,https://gogetfunding.com/for-akis-recovery-and-hospital-bills,GoGetFunding,fraud,2,AB,Jesthoni Lisbe Cebu,For AKI’s PPHN Treatment and Hospital Bills,
+social:unknown,Zette06,https://gogetfunding.com/for-akis-recovery-and-hospital-bills,GoGetFunding,fraud,2,AB,Jesthoni Lisbe Cebu,For AKI’s PPHN Treatment and Hospital Bills,
+phone,+09279125995,https://gogetfunding.com/for-my-kuya-kal-el-a-hero-in-pain,GoGetFunding,fraud,3,ABC,Judy Therese Dela Cruz Las Pinas City,"For my Kuya Kal-El, a hero in pain.",
+paypal.me,paypal.me/helpgaza1985,https://gogetfunding.com/for-palestinians-the-highly-respected-eid-al-adha-is-approaching-but-we-need-your-help,GoGetFunding,fraud,3,ABC,Basma Relief Society Gaza Strip Gaza Strip,Share the joy of Eid Al-Adha with Gaza,
+phone,+970597547487,https://gogetfunding.com/for-palestinians-the-highly-respected-eid-al-adha-is-approaching-but-we-need-your-help,GoGetFunding,fraud,3,ABC,Basma Relief Society Gaza Strip Gaza Strip,Share the joy of Eid Al-Adha with Gaza,
+phone,+639478950907,https://gogetfunding.com/fortheloveofmom,GoGetFunding,fraud,3,ABC,Pamela Tan Manila,For the Love of M❤️M,
+social:facebook,pamela.tan.90,https://gogetfunding.com/fortheloveofmom,GoGetFunding,fraud,3,ABC,Pamela Tan Manila,For the Love of M❤️M,https://facebook.com/pamela.tan.90
+phone,+639478950907,https://gogetfunding.com/fortheloveofmom2,GoGetFunding,fraud,3,ABC,Pamela Tan Manila,For the Love of M❤️m 2,
+social:facebook,pamela.tan.90,https://gogetfunding.com/fortheloveofmom2,GoGetFunding,fraud,3,ABC,Pamela Tan Manila,For the Love of M❤️m 2,https://facebook.com/pamela.tan.90
+domain,creativecommons.org,https://gogetfunding.com/foundation-pack-2-0-scp-merch,GoGetFunding,fraud,2,AC,Bartek Wojcik Katowice,FOUNDATION PACK 2.0 | SCP MERCH,
+email,meowmeow@freddyscathouse.com,https://gogetfunding.com/freddys-cathouse-christmas-appeal,GoGetFunding,fraud,3,ABC,Michael Francis Telford,Freddy’s Cathouse Christmas Appeal,ipqs_fraud_score=91
+domain,freddyscathouse.weebly.com,https://gogetfunding.com/freddys-cathouse-christmas-appeal,GoGetFunding,fraud,3,ABC,Michael Francis Telford,Freddy’s Cathouse Christmas Appeal,
+phone,+6208124582037,https://gogetfunding.com/free-sustainable-training-of-it-internet-social-media-and-entrepreneurship-for-underprivileged-marginalized-and-disability-youth-2020-2,GoGetFunding,fraud,2,AC,SRI MULIATI YUSUF Enrekang,"FREE SUSTAINABLE TRAINING OF IT, INTERNET, SOCIAL MEDIA AND ENTREPRENEURSHIP FOR UNDERPRIVILEGED, MARGINALIZED AND DISAB",
+phone,+62085395001288,https://gogetfunding.com/free-sustainable-training-of-technology-for-underprivileged-youth-2024-2025,GoGetFunding,fraud,2,AC,Sri Muliati Yusuf SE Sulawesi Selatan,FREE SUSTAINABLE TRAINING OF TECHNOLOGY FOR UNDERPRIVILEGED YOUTH 2024-2025,
+phone,+6208124582037,https://gogetfunding.com/free-sustainable-training-of-technology-for-underprivileged-youth-2024-2025,GoGetFunding,fraud,2,AC,Sri Muliati Yusuf SE Sulawesi Selatan,FREE SUSTAINABLE TRAINING OF TECHNOLOGY FOR UNDERPRIVILEGED YOUTH 2024-2025,
+social:linkedin,in/bambapuangfoundation-5228026,https://gogetfunding.com/free-sustainable-training-of-technology-for-underprivileged-youth-2024-2025,GoGetFunding,fraud,2,AC,Sri Muliati Yusuf SE Sulawesi Selatan,FREE SUSTAINABLE TRAINING OF TECHNOLOGY FOR UNDERPRIVILEGED YOUTH 2024-2025,https://linkedin.com/in/bambapuangfoundation-5228026
+domain,dissidentsignposts.org,https://gogetfunding.com/freedom-flyer-for-toronto-freedom-fighters,GoGetFunding,fraud,2,AC,Iain Freedom Toronto,Freedom Flyer for Toronto Freedom Fighters,
+domain,mlive.com,https://gogetfunding.com/freedomforandrewblount,GoGetFunding,fraud,2,AC,Charity Blount Grand Rapids,"ANDREW BLOUNT is INNOCENT Grand Rapids, Michigan 1996",
+domain,change.org,https://gogetfunding.com/freedomforandrewblount,GoGetFunding,fraud,2,AC,Charity Blount Grand Rapids,"ANDREW BLOUNT is INNOCENT Grand Rapids, Michigan 1996",
+social:facebook,freedomforandrewblount,https://gogetfunding.com/freedomforandrewblount,GoGetFunding,fraud,2,AC,Charity Blount Grand Rapids,"ANDREW BLOUNT is INNOCENT Grand Rapids, Michigan 1996",https://facebook.com/freedomforandrewblount
+phone,+6591136925,https://gogetfunding.com/fund-raul-cancer-treatment,GoGetFunding,fraud,2,AB,Hansel Baro Muntinlupa City,Fund Raul’s Cancer Treatment,
+phone,+4915906160862,https://gogetfunding.com/fundraise-to-dispatch-oxygen-concentrators-to-save-people-life-and-food-kit-arrange-for-poor-families-to-stop-the-corona-virus-spread-donors-nri-alumini-and-current-students,GoGetFunding,fraud,3,ABC,Prahlada Nagendrappa Frankfurt Am Main,Fundraise to dispatch oxygen concentrators to save people life and food kit arrange for poor families to stop the corona,
+phone,+639105171892,https://gogetfunding.com/fundraising-campaign-for-my-newborn-nephew-battling-a-presumed-ornithine-transcarbamylase-otc-deficiency,GoGetFunding,fraud,2,AC,Kimberly Mendoza Butuan City,Fundraising campaign for my newborn nephew battling a presumed ornithine transcarbamylase (OTC) deficiency,
+IBAN,UA663052990262076400933270400,https://gogetfunding.com/fundraising-for-assistance-to-the-territorial-defense-of-the-zaporozhye,GoGetFunding,fraud,2,AB,Vitalii Sokol Zaporozhye,Fund for Assistance to the Armed Forces of Ukraine in Zaporozhye,
+IBAN,UA383133990000026000010204736,https://gogetfunding.com/fundraising-for-assistance-to-the-territorial-defense-of-the-zaporozhye,GoGetFunding,fraud,2,AB,Vitalii Sokol Zaporozhye,Fund for Assistance to the Armed Forces of Ukraine in Zaporozhye,
+BTC address,1J3DwuUgMKR7KTPKeDKMM2syasPJWj7379,https://gogetfunding.com/fundraising-for-assistance-to-the-territorial-defense-of-the-zaporozhye,GoGetFunding,fraud,2,AB,Vitalii Sokol Zaporozhye,Fund for Assistance to the Armed Forces of Ukraine in Zaporozhye,
+ETH address,0xd56d16702dc47f1884b93d205ae54f111d85d1fe,https://gogetfunding.com/fundraising-for-assistance-to-the-territorial-defense-of-the-zaporozhye,GoGetFunding,fraud,2,AB,Vitalii Sokol Zaporozhye,Fund for Assistance to the Armed Forces of Ukraine in Zaporozhye,
+domain,right2smile.org,https://gogetfunding.com/fundraising-for-cambodia,GoGetFunding,fraud,2,AC,Stacy Debono Birzebbuga,Fundraising for Cambodia,
+phone,+09274004830,https://gogetfunding.com/fundraising-for-james-cancer-treatment,GoGetFunding,fraud,2,AC,Kris Mary De La Cruz Lapu Lapu,Fundraising For James’ Cancer Treatment,
+phone,+09063262363,https://gogetfunding.com/fundraising-for-vulnerable-families-in-the-philippines-%f0%9f%87%b5%f0%9f%87%ad,GoGetFunding,fraud,2,AC,One Race For Filipino Services One Race For Filipino Services,FUNDS FOR GARY LANDIS HOSPITAL BILLS! 🇳🇬,
+phone,+4915906160862,https://gogetfunding.com/fundraising-to-dispatch-oxygen-concentrators-from-germany-to-karnataka-to-fight-agianst-corona-donros-sjce-2010-batch,GoGetFunding,fraud,2,AC,Prahlada Nagendrappa Frankfurt Am Main,Fundraising to Dispatch Oxygen Concentrators from Germany to Karnataka to fight agianst Corona- donros SJCE 2010 batch,
+phone,+09063262363,https://gogetfunding.com/funds-for-gary-landis-hospital-bills-%f0%9f%87%b3%f0%9f%87%ac,GoGetFunding,fraud,2,AC,One Race For Filipino Services One Race For Filipino Services,Kindness That Saves Lives With Fiel,
+social:instagram,zeferinofieldasilva1,https://gogetfunding.com/funds-for-gary-landis-hospital-bills-%f0%9f%87%b3%f0%9f%87%ac,GoGetFunding,fraud,2,AC,One Race For Filipino Services One Race For Filipino Services,Kindness That Saves Lives With Fiel,https://instagram.com/zeferinofieldasilva1
+paypal.me,paypal.me/MSmiry,https://gogetfunding.com/gaza-greenhouse,GoGetFunding,fraud,2,AC,Husnaa Hassam Durban,Help us build GREENHOUSES in Gaza – CareForGaza,
+IBAN,PS86PALS046012538220013000000,https://gogetfunding.com/gaza-needs-you,GoGetFunding,fraud,3,ABC,Care For Gaza Palestine Durban,GAZA NEEDS YOU,
+paypal.me,paypal.me/MSmiry,https://gogetfunding.com/gaza-needs-you,GoGetFunding,fraud,3,ABC,Care For Gaza Palestine Durban,GAZA NEEDS YOU,
+IBAN,PS86PALS0460125382200130,https://gogetfunding.com/gaza-needs-you,GoGetFunding,fraud,3,ABC,Care For Gaza Palestine Durban,GAZA NEEDS YOU,
+phone,+970597547487,https://gogetfunding.com/gaza-war-victim-relief-fund,GoGetFunding,fraud,3,ABC,Basma Association for Relief and Development Gaza Strip,Gaza War Victim Relief Fund,
+domain,putticare.org,https://gogetfunding.com/gift-foodrelief-packages-to-orphans-in-nabiganda,GoGetFunding,fraud,2,BC,Putticare Foundation Uganda Mbale,Gift foodrelief packages to orphans in Nabiganda,
+domain,emergeforafrica.org,https://gogetfunding.com/girls-education-in-uganda,GoGetFunding,fraud,2,AC,Emerge For Africa Ltd London,Education for 1000 Teenage Mothers in Uganda,
+paypal.me,paypal.me/FadyReida834762,https://gogetfunding.com/give-me-and-my-family-a-chance-%e2%9d%a4,GoGetFunding,fraud,2,AB,Fadi bou Salman GAZA,GIME ME AND MY FAMILY A CHANCE ❤,
+phone,3619071513,https://gogetfunding.com/give-so-others-can-live-covid19-relief-philippines,GoGetFunding,fraud,2,AC,Melvin Torrefiel Mandaluyong,GIVE SO OTHERS CAN LIVE – COVID RELIEF PHILIPPINES,
+phone,+003430306269,https://gogetfunding.com/give-so-others-can-live-covid19-relief-philippines,GoGetFunding,fraud,2,AC,Melvin Torrefiel Mandaluyong,GIVE SO OTHERS CAN LIVE – COVID RELIEF PHILIPPINES,
+phone,+09178783808,https://gogetfunding.com/give-so-others-can-live-covid19-relief-philippines,GoGetFunding,fraud,2,AC,Melvin Torrefiel Mandaluyong,GIVE SO OTHERS CAN LIVE – COVID RELIEF PHILIPPINES,
+domain,rahbarfoundation.org,https://gogetfunding.com/give-zakat-sadaqah-fitra-and-kaffara-to-rahbar-foundation,GoGetFunding,fraud,2,AC,Azhar Pasha IRVING,"Give Zakat, Sadaqah, Fitra and Kaffara to Rahbar Foundation",
+phone,+63454364667,https://gogetfunding.com/giving-hope-and-home-to-street-children,GoGetFunding,fraud,2,AC,Reabelle Damasco Angeles City,Giving Hope and Home to Street Children,
+phone,+639955116989,https://gogetfunding.com/giving-hope-and-home-to-street-children,GoGetFunding,fraud,2,AC,Reabelle Damasco Angeles City,Giving Hope and Home to Street Children,
+social:facebook,cblpinc,https://gogetfunding.com/giving-hope-and-home-to-street-children,GoGetFunding,fraud,2,AC,Reabelle Damasco Angeles City,Giving Hope and Home to Street Children,https://facebook.com/cblpinc
+domain,reverb.com,https://gogetfunding.com/global-reality-10-year-anniversary,GoGetFunding,fraud,2,AC,Josh Reeves Dallas Ft Worth,GLOBAL REALITY 10 YEAR ANNIVERSARY,
+domain,theglobalreality.com,https://gogetfunding.com/global-reality-10-year-anniversary,GoGetFunding,fraud,2,AC,Josh Reeves Dallas Ft Worth,GLOBAL REALITY 10 YEAR ANNIVERSARY,
+domain,braveheartnation.com,https://gogetfunding.com/heal-the-world-on-our-way-to-become-natural-holistic-coaches-practitioners,GoGetFunding,fraud,2,BC,Marialaki Rita Kaposvar,Heal The World – On our way to become Natural/Holistic Coaches Practitioners,
+domain,doc-of-detox-2.myshopify.com,https://gogetfunding.com/heal-the-world-on-our-way-to-become-natural-holistic-coaches-practitioners,GoGetFunding,fraud,2,BC,Marialaki Rita Kaposvar,Heal The World – On our way to become Natural/Holistic Coaches Practitioners,
+domain,bonfire.com,https://gogetfunding.com/heal-the-world-on-our-way-to-become-natural-holistic-coaches-practitioners,GoGetFunding,fraud,2,BC,Marialaki Rita Kaposvar,Heal The World – On our way to become Natural/Holistic Coaches Practitioners,
+phone,+639215306298,https://gogetfunding.com/healing-grace-for-aileen-grace,GoGetFunding,fraud,2,AB,Kaye Onagles Naga City,Healing Grace for Aileen Grace,
+phone,+639083149258,https://gogetfunding.com/healing-grace-for-aileen-grace,GoGetFunding,fraud,2,AB,Kaye Onagles Naga City,Healing Grace for Aileen Grace,
+domain,oasisofhope.com,https://gogetfunding.com/healing-hands-for-norris-1,GoGetFunding,fraud,2,AC,helpinghands11 Prince George,HEALING HANDS FOR NORRIS,
+paypal.me,paypal.me/alfadeela,https://gogetfunding.com/help-200-children-from-the-gaza-strip-to-stay-safe-warm-this-winter,GoGetFunding,fraud,2,AB,Alfadeela Association Gaza,Help 200 children from the Gaza Strip to stay safe & warm this winter.,
+domain,fadelah.ps,https://gogetfunding.com/help-200-children-from-the-gaza-strip-to-stay-safe-warm-this-winter,GoGetFunding,fraud,2,AB,Alfadeela Association Gaza,Help 200 children from the Gaza Strip to stay safe & warm this winter.,
+phone,+27217901052,https://gogetfunding.com/help-a-deaf-child-hear-2,GoGetFunding,fraud,2,AC,Nihaad Wilkinson Cape Town,Help a Deaf Child Hear 👂🏾,
+email,pinkybarang1@paypal.me,https://gogetfunding.com/help-a-lung-cancer-and-covid-19-patient,GoGetFunding,fraud,2,AB,Pinky Barang Esperanza,Help save my father from covid-19 and lung cancer,
+social:facebook,pinky.robel.bella,https://gogetfunding.com/help-a-lung-cancer-and-covid-19-patient,GoGetFunding,fraud,2,AB,Pinky Barang Esperanza,Help save my father from covid-19 and lung cancer,https://facebook.com/pinky.robel.bella
+phone,0524200059,https://gogetfunding.com/help-a-single-dad-autistic-son-fridge-electricity-fund,GoGetFunding,fraud,2,AC,David Avraham aka Scott Creek Tzfat In Israel,Help a Single Dad & Autistic Son: Fridge & Electricity Fund,
+phone,0524200059,https://gogetfunding.com/help-a-single-dad-celebrate-the-high-holidays-with-his-children,GoGetFunding,fraud,2,AC,David Avraham aka Scott Creek Tzfat In Israel,Help a Single Dad Celebrate the High Holidays with His Children,
+domain,sukot.org,https://gogetfunding.com/help-a-single-dad-celebrate-the-high-holidays-with-his-children,GoGetFunding,fraud,2,AC,David Avraham aka Scott Creek Tzfat In Israel,Help a Single Dad Celebrate the High Holidays with His Children,
+domain,we.tl,https://gogetfunding.com/help-abdullah-his-family-of-9-5children,GoGetFunding,fraud,2,AC,Chun Shi MillenGenY Cape Town,Help Abdullah feed his family (5children) and fix dilapidated home,
+Cash App,$MariahDalton47,https://gogetfunding.com/help-ahmed-evacuate-his-family,GoGetFunding,fraud,3,ABC,Mariah D Summit,Help Ahmed evacuate his family!,
+paypal.me,paypal.me/mariahdalton47,https://gogetfunding.com/help-ahmed-evacuate-his-family,GoGetFunding,fraud,3,ABC,Mariah D Summit,Help Ahmed evacuate his family!,
+email,mariahdalton47@paypal.me,https://gogetfunding.com/help-ahmed-evacuate-his-family,GoGetFunding,fraud,3,ABC,Mariah D Summit,Help Ahmed evacuate his family!,ipqs_fraud_score=91
+social:instagram,Mariah_nj,https://gogetfunding.com/help-ahmed-evacuate-his-family,GoGetFunding,fraud,3,ABC,Mariah D Summit,Help Ahmed evacuate his family!,https://instagram.com/Mariah_nj
+social:instagram,ahmed_gaza2024,https://gogetfunding.com/help-ahmed-evacuate-his-family,GoGetFunding,fraud,3,ABC,Mariah D Summit,Help Ahmed evacuate his family!,https://instagram.com/ahmed_gaza2024
+phone,+09260182161,https://gogetfunding.com/help-bars-dad-fight-cancer,GoGetFunding,fraud,2,AC,Bar Dayandayan Manila,Help Bar’s dad fight cancer,
+phone,+09260182161,https://gogetfunding.com/help-bars-dad-fight-lung-cancer,GoGetFunding,fraud,2,AC,Bar Dayandayan Balayan,Help Bar’s Dad Fight Lung Cancer,
+Venmo,@basilh36,https://gogetfunding.com/help-basil-in-getting-his-151-direct-and-extended-family-members-out-of-gaza,GoGetFunding,fraud,2,AB,Basil Hararah Budapest,Help Basil in getting his parents and siblings out of Gaza,
+ETH address,0xbB3Bd10CD6CAF626477a9Ac1cfe38461c05ac66A,https://gogetfunding.com/help-basil-in-getting-his-151-direct-and-extended-family-members-out-of-gaza,GoGetFunding,fraud,2,AB,Basil Hararah Budapest,Help Basil in getting his parents and siblings out of Gaza,
+BTC address,bc1qd0yg2ymqzgv6qt6sqte8haetjqj3469n9yhacz,https://gogetfunding.com/help-basil-in-getting-his-151-direct-and-extended-family-members-out-of-gaza,GoGetFunding,fraud,2,AB,Basil Hararah Budapest,Help Basil in getting his parents and siblings out of Gaza,
+payment account,@basilh36,https://gogetfunding.com/help-basil-in-getting-his-151-direct-and-extended-family-members-out-of-gaza,GoGetFunding,fraud,2,AB,Basil Hararah Budapest,Help Basil in getting his parents and siblings out of Gaza,
+Venmo,@bhararah,https://gogetfunding.com/help-basil-in-getting-his-151-direct-and-extended-family-members-out-of-gaza,GoGetFunding,fraud,2,AB,Basil Hararah Budapest,Help Basil in getting his parents and siblings out of Gaza,
+Cash App,@bhararah,https://gogetfunding.com/help-basil-in-getting-his-151-direct-and-extended-family-members-out-of-gaza,GoGetFunding,fraud,2,AB,Basil Hararah Budapest,Help Basil in getting his parents and siblings out of Gaza,
+social:unknown,bhararah,https://gogetfunding.com/help-basil-in-getting-his-151-direct-and-extended-family-members-out-of-gaza,GoGetFunding,fraud,2,AB,Basil Hararah Budapest,Help Basil in getting his parents and siblings out of Gaza,
+social:unknown,basilh36,https://gogetfunding.com/help-basil-in-getting-his-151-direct-and-extended-family-members-out-of-gaza,GoGetFunding,fraud,2,AB,Basil Hararah Budapest,Help Basil in getting his parents and siblings out of Gaza,
+IBAN,LT414010051003920592,https://gogetfunding.com/help-build-a-winter-shed-for-cows-in-madhuri-kunja-ashram,GoGetFunding,fraud,3,ABC,Sri Madhuri Kunja Vilnius,HELP BUILD a WINTER SHED for COWS in MADHURI KUNJA ASHRAM,
+domain,spoti.fi,https://gogetfunding.com/help-build-a-winter-shed-for-cows-in-madhuri-kunja-ashram,GoGetFunding,fraud,3,ABC,Sri Madhuri Kunja Vilnius,HELP BUILD a WINTER SHED for COWS in MADHURI KUNJA ASHRAM,
+social:instagram,madhuri_kunja,https://gogetfunding.com/help-build-a-winter-shed-for-cows-in-madhuri-kunja-ashram,GoGetFunding,fraud,3,ABC,Sri Madhuri Kunja Vilnius,HELP BUILD a WINTER SHED for COWS in MADHURI KUNJA ASHRAM,https://instagram.com/madhuri_kunja
+domain,pressreader.com,https://gogetfunding.com/help-child-soprano-vyktoria-therezze-bayle-join-2020-international-choral-kathaumixw-in-bc-canada-and-picfest-oregon-usa,GoGetFunding,fraud,2,AC,TERESA BAYLE Quezon City,"Help child soprano, Vyktoria Therezze Bayle, join the 2020 International Choral Kathaumixw in BC, Canada and PICFEST, Or",
+domain,varsitarian.net,https://gogetfunding.com/help-child-soprano-vyktoria-therezze-bayle-join-2020-international-choral-kathaumixw-in-bc-canada-and-picfest-oregon-usa,GoGetFunding,fraud,2,AC,TERESA BAYLE Quezon City,"Help child soprano, Vyktoria Therezze Bayle, join the 2020 International Choral Kathaumixw in BC, Canada and PICFEST, Or",
+paypal.me,paypal.me/cbgalang,https://gogetfunding.com/help-cynthia-with-her-fight-against-covid19,GoGetFunding,fraud,2,AC,Carl Lou Dean Galang Quezon City,Help Cynthia with her fight against COVID19,
+phone,+09985518357,https://gogetfunding.com/help-cynthia-with-her-fight-against-covid19,GoGetFunding,fraud,2,AC,Carl Lou Dean Galang Quezon City,Help Cynthia with her fight against COVID19,
+domain,checkmyschool.org,https://gogetfunding.com/help-distressed-n-cotabato-schools,GoGetFunding,fraud,2,AC,Emile Gozali Quezon City,Help Distressed N. Cotabato Schools,vt_engines_flagged=11
+paypal.me,paypal.me/mercedesanselma,https://gogetfunding.com/help-ditas-with-her-surgery,GoGetFunding,fraud,2,AB,Mappet Catilo Walker Mandaluyong,Help Ditas with her surgery,
+paypal.me,https://www.paypal.me/mercedesanselma,https://gogetfunding.com/help-ditas-with-her-surgery,GoGetFunding,fraud,2,AB,Mappet Catilo Walker Mandaluyong,Help Ditas with her surgery,
+email,mercedesanselma@paypal.me,https://gogetfunding.com/help-ditas-with-her-surgery,GoGetFunding,fraud,2,AB,Mappet Catilo Walker Mandaluyong,Help Ditas with her surgery,ipqs_fraud_score=91
+phone,+09171786751,https://gogetfunding.com/help-donnalyn-corpuz-raise-fund-for-her-kidney-transplant,GoGetFunding,fraud,2,AC,Mylene Orillo Rodriguez,Help Donnalyn Corpuz Raise Fund for Her Kidney Transplant,
+phone,+601162261544,https://gogetfunding.com/help-evacuate-mosabs-family-from-gaza-war,GoGetFunding,fraud,2,AB,Mosab ALramlawi Ampang,Help Evacuate Mosab’s Family from Gaza War,
+phone,+09257077067,https://gogetfunding.com/help-for-khristines-2nd-cancer-treatment,GoGetFunding,fraud,3,ABC,Khristine Chua CEBU,Help for Khristine’s 2nd Cancer Treatment,
+social:facebook,iamkayciechinita,https://gogetfunding.com/help-for-khristines-2nd-cancer-treatment,GoGetFunding,fraud,3,ABC,Khristine Chua CEBU,Help for Khristine’s 2nd Cancer Treatment,https://facebook.com/iamkayciechinita
+phone,+09175311073,https://gogetfunding.com/help-for-my-papas-slip-disc-operation,GoGetFunding,fraud,2,AC,Ditas Guzman Quezon City,Help for my father’s Slip Disc Operation,
+domain,kiva.org,https://gogetfunding.com/help-for-my-rescued-furry-friends-in-uganda,GoGetFunding,fraud,2,AC,Katamba Siratwah Kasanda,HELP FOR MY RESCUED FURRY FRIENDS IN UGANDA,
+phone,+09175311073,https://gogetfunding.com/help-for-nanay-fe,GoGetFunding,fraud,2,AC,Chinky Ditas Guzman Quezon City,Help for Nanay Fe,
+domain,data.unhcr.org,https://gogetfunding.com/help-for-refugees-on-molyvos,GoGetFunding,fraud,2,AC,Sam Mitchell London,Help for Refugees In Europe,
+domain,refugeesineurope.net,https://gogetfunding.com/help-for-refugees-on-molyvos,GoGetFunding,fraud,2,AC,Sam Mitchell London,Help for Refugees In Europe,
+social:facebook,areyousyrious,https://gogetfunding.com/help-for-refugees-on-molyvos,GoGetFunding,fraud,2,AC,Sam Mitchell London,Help for Refugees In Europe,https://facebook.com/areyousyrious
+phone,+639292373295,https://gogetfunding.com/help-for-the-victims-of-the-earthquake-in-bohol,GoGetFunding,fraud,2,AB,Jennifer Corre Bohol,Help for the victims of the earthquake in Bohol,
+phone,+09257077067,https://gogetfunding.com/help-fund-khristines-battle-against-breast-cancer,GoGetFunding,fraud,3,ABC,Khristine Chua Cebu City,Help for Khristine’s Cancer Treatment,
+social:facebook,iamkayciechinita,https://gogetfunding.com/help-fund-khristines-battle-against-breast-cancer,GoGetFunding,fraud,3,ABC,Khristine Chua Cebu City,Help for Khristine’s Cancer Treatment,https://facebook.com/iamkayciechinita
+paypal.me,paypal.me/jenn67,https://gogetfunding.com/help-fund-mom-to-better-days,GoGetFunding,fraud,2,AC,jennifer welch Kingman,there is light at the end of the tunnel,
+paypal.me,http://paypal.me/jenn67,https://gogetfunding.com/help-fund-mom-to-better-days,GoGetFunding,fraud,2,AC,jennifer welch Kingman,there is light at the end of the tunnel,
+domain,kdminer.com,https://gogetfunding.com/help-fund-mom-to-better-days,GoGetFunding,fraud,2,AC,jennifer welch Kingman,there is light at the end of the tunnel,
+paypal.me,paypal.me/fsxbeginner9000,https://gogetfunding.com/help-gabe-go-to-music-school,GoGetFunding,fraud,2,AC,Gabriel Walters Kingston,Help Gabe go to music school,
+domain,gabrielwaltersviolin.bookmark.com,https://gogetfunding.com/help-gabe-go-to-music-school,GoGetFunding,fraud,2,AC,Gabriel Walters Kingston,Help Gabe go to music school,
+domain,accelstringquartet.bookmark.com,https://gogetfunding.com/help-gabe-go-to-music-school,GoGetFunding,fraud,2,AC,Gabriel Walters Kingston,Help Gabe go to music school,
+social:youtube,user/fsxbeginner9000,https://gogetfunding.com/help-gabe-go-to-music-school,GoGetFunding,fraud,2,AC,Gabriel Walters Kingston,Help Gabe go to music school,https://youtube.com/user/fsxbeginner9000
+social:instagram,thesnorlaxconcerto,https://gogetfunding.com/help-gabe-go-to-music-school,GoGetFunding,fraud,2,AC,Gabriel Walters Kingston,Help Gabe go to music school,https://instagram.com/thesnorlaxconcerto
+social:youtube,channel/uclab-gwulmqrgdeh6ojj3xa,https://gogetfunding.com/help-gabe-go-to-music-school,GoGetFunding,fraud,2,AC,Gabriel Walters Kingston,Help Gabe go to music school,https://youtube.com/channel/uclab-gwulmqrgdeh6ojj3xa
+social:youtube,UCLaB-GWuLmqRgdEh6OjJ3XA,https://gogetfunding.com/help-gabe-go-to-music-school,GoGetFunding,fraud,2,AC,Gabriel Walters Kingston,Help Gabe go to music school,https://youtube.com/UCLaB-GWuLmqRgdEh6OjJ3XA
+social:instagram,accel_stringquartet_ja,https://gogetfunding.com/help-gabe-go-to-music-school,GoGetFunding,fraud,2,AC,Gabriel Walters Kingston,Help Gabe go to music school,https://instagram.com/accel_stringquartet_ja
+social:youtube,fsxbeginner9000,https://gogetfunding.com/help-gabe-go-to-music-school,GoGetFunding,fraud,2,AC,Gabriel Walters Kingston,Help Gabe go to music school,https://youtube.com/fsxbeginner9000
+social:youtube,thesnorlaxconcerto,https://gogetfunding.com/help-gabe-go-to-music-school,GoGetFunding,fraud,2,AC,Gabriel Walters Kingston,Help Gabe go to music school,https://youtube.com/thesnorlaxconcerto
+domain,gabrielwaltersviolin.bookmark.com,https://gogetfunding.com/help-gabe-go-to-music-school-2,GoGetFunding,fraud,2,AC,Gabriel Walters Kingston,Help Gabe go to music school,
+domain,accelstringquartet.bookmark.com,https://gogetfunding.com/help-gabe-go-to-music-school-2,GoGetFunding,fraud,2,AC,Gabriel Walters Kingston,Help Gabe go to music school,
+social:youtube,user/fsxbeginner9000,https://gogetfunding.com/help-gabe-go-to-music-school-2,GoGetFunding,fraud,2,AC,Gabriel Walters Kingston,Help Gabe go to music school,https://youtube.com/user/fsxbeginner9000
+social:youtube,channel/uclab-gwulmqrgdeh6ojj3xa,https://gogetfunding.com/help-gabe-go-to-music-school-2,GoGetFunding,fraud,2,AC,Gabriel Walters Kingston,Help Gabe go to music school,https://youtube.com/channel/uclab-gwulmqrgdeh6ojj3xa
+social:instagram,thesnorlaxconcerto,https://gogetfunding.com/help-gabe-go-to-music-school-2,GoGetFunding,fraud,2,AC,Gabriel Walters Kingston,Help Gabe go to music school,https://instagram.com/thesnorlaxconcerto
+social:instagram,accel_stringquartet_ja,https://gogetfunding.com/help-gabe-go-to-music-school-2,GoGetFunding,fraud,2,AC,Gabriel Walters Kingston,Help Gabe go to music school,https://instagram.com/accel_stringquartet_ja
+social:youtube,thesnorlaxconcerto,https://gogetfunding.com/help-gabe-go-to-music-school-2,GoGetFunding,fraud,2,AC,Gabriel Walters Kingston,Help Gabe go to music school,https://youtube.com/thesnorlaxconcerto
+social:youtube,fsxbeginner9000,https://gogetfunding.com/help-gabe-go-to-music-school-2,GoGetFunding,fraud,2,AC,Gabriel Walters Kingston,Help Gabe go to music school,https://youtube.com/fsxbeginner9000
+paypal.me,paypal.me/MSmiry,https://gogetfunding.com/help-gaza-in-covid19,GoGetFunding,fraud,2,AC,Care For Gaza Palestine Durban,Help Gaza in Corona Crisis,
+paypal.me,paypal.me/xoHusnaaxo,https://gogetfunding.com/help-gaza-in-covid19,GoGetFunding,fraud,2,AC,Care For Gaza Palestine Durban,Help Gaza in Corona Crisis,
+paypal.me,paypal.me/zakifawzi,https://gogetfunding.com/help-gazan-poor-families-and-children-to-get-cover-clothes-and-heaters-this-winter,GoGetFunding,fraud,2,AB,Zaki fawzi Reida Gaza,Help poor families in the Gaza Strip,
+phone,+972599080660,https://gogetfunding.com/help-gazan-poor-families-and-children-to-get-cover-clothes-and-heaters-this-winter,GoGetFunding,fraud,2,AB,Zaki fawzi Reida Gaza,Help poor families in the Gaza Strip,
+social:facebook,zakifawzi.reida,https://gogetfunding.com/help-gazan-poor-families-and-children-to-get-cover-clothes-and-heaters-this-winter,GoGetFunding,fraud,2,AB,Zaki fawzi Reida Gaza,Help poor families in the Gaza Strip,https://facebook.com/zakifawzi.reida
+social:facebook,zakifawzi,https://gogetfunding.com/help-gazan-poor-families-and-children-to-get-cover-clothes-and-heaters-this-winter,GoGetFunding,fraud,2,AB,Zaki fawzi Reida Gaza,Help poor families in the Gaza Strip,https://facebook.com/zakifawzi
+Cash App,$MariahDalton47,https://gogetfunding.com/help-ibrahims-family-join-him-safely-in-egypt,GoGetFunding,fraud,2,AC,Mariah D Summit,Help Ibrahim's family join him safely in Egypt!,
+paypal.me,paypal.me/mariahdalton47,https://gogetfunding.com/help-ibrahims-family-join-him-safely-in-egypt,GoGetFunding,fraud,2,AC,Mariah D Summit,Help Ibrahim's family join him safely in Egypt!,
+email,mariah@zelle.com,https://gogetfunding.com/help-ibrahims-family-join-him-safely-in-egypt,GoGetFunding,fraud,2,AC,Mariah D Summit,Help Ibrahim's family join him safely in Egypt!,ipqs_fraud_score=0
+social:instagram,Mariah_nj,https://gogetfunding.com/help-ibrahims-family-join-him-safely-in-egypt,GoGetFunding,fraud,2,AC,Mariah D Summit,Help Ibrahim's family join him safely in Egypt!,https://instagram.com/Mariah_nj
+social:instagram,ibrahim_raida00,https://gogetfunding.com/help-ibrahims-family-join-him-safely-in-egypt,GoGetFunding,fraud,2,AC,Mariah D Summit,Help Ibrahim's family join him safely in Egypt!,https://instagram.com/ibrahim_raida00
+domain,sector39.co.uk,https://gogetfunding.com/help-irrigate-water-from-river-kuja-2,GoGetFunding,fraud,2,AC,Paul Ogola Migori,HELP IRRIGATE WATER FROM RIVER KUJA,
+phone,+09052212569,https://gogetfunding.com/help-janrey-fight-cancer,GoGetFunding,fraud,2,AC,Jai Galgo Pasig,Help Janrey fight cancer!,
+phone,3399455668,https://gogetfunding.com/help-janrey-fight-cancer,GoGetFunding,fraud,2,AC,Jai Galgo Pasig,Help Janrey fight cancer!,
+paypal.me,paypal.me/helpsavejulester,https://gogetfunding.com/help-julester-venezuela-fight-for-his-life,GoGetFunding,fraud,2,AB,Julius Antonio Venezuela Quezon City,Help Julester Venezuela Fight for His Life,
+paypal.me,https://www.paypal.me/helpsavejulester,https://gogetfunding.com/help-julester-venezuela-fight-for-his-life,GoGetFunding,fraud,2,AB,Julius Antonio Venezuela Quezon City,Help Julester Venezuela Fight for His Life,
+domain,searchdro.kscourts.gov,https://gogetfunding.com/help-make-a-wrong-conviction-correct-and-send-an-innocent-father-home,GoGetFunding,fraud,2,AC,Martha McConnell Kansas City,Let’s Help An Innocent Father Get Back Home,
+domain,thelawofficeofdavidlmiller.com,https://gogetfunding.com/help-make-a-wrong-conviction-correct-and-send-an-innocent-father-home,GoGetFunding,fraud,2,AC,Martha McConnell Kansas City,Let’s Help An Innocent Father Get Back Home,
+domain,secure.lawpay.com,https://gogetfunding.com/help-make-a-wrong-conviction-correct-and-send-an-innocent-father-home,GoGetFunding,fraud,2,AC,Martha McConnell Kansas City,Let’s Help An Innocent Father Get Back Home,
+domain,data.unhcr.org,https://gogetfunding.com/help-me-aid-the-refugee-crisis-in-greece,GoGetFunding,fraud,2,BC,Daniella Belperio Adelaide,HELP ME aid the Refugee Crisis in Greece,
+domain,aljazeera.com,https://gogetfunding.com/help-me-aid-the-refugee-crisis-in-greece,GoGetFunding,fraud,2,BC,Daniella Belperio Adelaide,HELP ME aid the Refugee Crisis in Greece,
+social:facebook,daniellabelperio,https://gogetfunding.com/help-me-aid-the-refugee-crisis-in-greece,GoGetFunding,fraud,2,BC,Daniella Belperio Adelaide,HELP ME aid the Refugee Crisis in Greece,https://facebook.com/daniellabelperio
+social:facebook,frondescence,https://gogetfunding.com/help-me-aid-the-refugee-crisis-in-greece,GoGetFunding,fraud,2,BC,Daniella Belperio Adelaide,HELP ME aid the Refugee Crisis in Greece,https://facebook.com/frondescence
+social:mixcloud,veravendetta_,https://gogetfunding.com/help-me-fund-my-musicdj-equipment,GoGetFunding,fraud,2,AC,Visar Mehmed Skopje,Help me fund my music/DJ equipment,https://mixcloud.com/veravendetta_
+IBAN,HR7423600003244251920,https://gogetfunding.com/help-me-get-a-home-16,GoGetFunding,fraud,2,AC,Ivan Budimir Split,Help me get a Home,
+IBAN,HR7423600003244251920,https://gogetfunding.com/help-me-get-a-home-20,GoGetFunding,fraud,2,AC,Ivan Budimir Split,Help me get a Home,
+phone,+09951076181,https://gogetfunding.com/help-me-to-go-home,GoGetFunding,fraud,2,AC,Ann Marie Cruz Makati City,Help me to go home.,
+social:instagram,mohamed.a.elnjjar,https://gogetfunding.com/help-mohammed-provide-aid-and-rebuild,GoGetFunding,fraud,2,AB,"{'name': 'Mariah D', 'country': 'US', 'profile_url': None}",Help Mohammed Provide Aid and Rebuild,https://instagram.com/mohamed.a.elnjjar
+social:instagram,mariah_nj,https://gogetfunding.com/help-mohammed-provide-aid-and-rebuild,GoGetFunding,fraud,2,AB,"{'name': 'Mariah D', 'country': 'US', 'profile_url': None}",Help Mohammed Provide Aid and Rebuild,https://instagram.com/mariah_nj
+phone,+66958104655,https://gogetfunding.com/help-my-dads-heart-surgery-our-journey-isnt-over-yet,GoGetFunding,fraud,2,AC,Zack Enzo Rafael Manila,Help My Dad’s Heart Surgery – Our Journey Isn’t Over Yet,
+domain,nhs.uk,https://gogetfunding.com/help-my-friends-son-to-recover-from-a-rare-disease,GoGetFunding,fraud,2,AC,Dominador Cunanan Jr Caloocan,Help my friend’s son to recover from a rare disease,
+domain,google.co.uk,https://gogetfunding.com/help-my-kenyan-friend-elizabeth-ndete-jeremiah-become-a-commercial-pilot,GoGetFunding,fraud,2,AC,Nicholas Gribble Andover,Would you help my Kenyan friend Elizabeth become a commercial pilot?,
+phone,+09209273133,https://gogetfunding.com/help-my-mom-beat-cancer-for-the-second-time,GoGetFunding,fraud,2,AC,Angeline Guse Manila,Help Nerissa beat cancer for the second time,
+domain,tikkie.me,https://gogetfunding.com/help-my-mom-beat-cancer-for-the-second-time,GoGetFunding,fraud,2,AC,Angeline Guse Manila,Help Nerissa beat cancer for the second time,
+domain,sunstar.com.ph,https://gogetfunding.com/help-myra-and-wilt-rebuild-their-shirt-printing-shop-razed-by-fire,GoGetFunding,fraud,2,AC,fire,Help Filipino couple rebuild their shirt printing shop razed by fire,vt_engines_flagged=1
+domain,ph.news.yahoo.com,https://gogetfunding.com/help-myra-and-wilt-rebuild-their-shirt-printing-shop-razed-by-fire,GoGetFunding,fraud,2,AC,fire,Help Filipino couple rebuild their shirt printing shop razed by fire,
+domain,cebudailynews.inquirer.net,https://gogetfunding.com/help-myra-and-wilt-rebuild-their-shirt-printing-shop-razed-by-fire,GoGetFunding,fraud,2,AC,fire,Help Filipino couple rebuild their shirt printing shop razed by fire,
+domain,arcticaction.no,https://gogetfunding.com/help-najla-and-her-family,GoGetFunding,fraud,2,AC,Kristoffer Joergensen SOFIEMYR,Survival for Najlaa and her family in Gaza,
+phone,+639288382056,https://gogetfunding.com/help-orlando-cabanban-recover-from-stroke,GoGetFunding,fraud,2,AC,Computer Engineering2001 Cebu,Help Orlando Cabanban Recover From Stroke,
+domain,mayfieldclinic.com,https://gogetfunding.com/help-orlando-cabanban-recover-from-stroke,GoGetFunding,fraud,2,AC,Computer Engineering2001 Cebu,Help Orlando Cabanban Recover From Stroke,
+phone,+09279125995,https://gogetfunding.com/help-our-baby-taliyah-kimberly,GoGetFunding,fraud,3,ABC,Kalel Dela Cruz Las Pinas,"Help our baby, Taliyah Kimberly",
+phone,+639161156690,https://gogetfunding.com/help-our-daddy-as-he-fight-for-his-life,GoGetFunding,fraud,2,AB,Gracey Natividad Cavite,Help Our Daddy For His Next Operation,
+phone,+639196204986,https://gogetfunding.com/help-our-daddy-as-he-fight-for-his-life,GoGetFunding,fraud,2,AB,Gracey Natividad Cavite,Help Our Daddy For His Next Operation,
+phone,+639360439788,https://gogetfunding.com/help-our-daddy-as-he-fight-for-his-life,GoGetFunding,fraud,2,AB,Gracey Natividad Cavite,Help Our Daddy For His Next Operation,
+phone,+639454472567,https://gogetfunding.com/help-our-daddy-as-he-fight-for-his-life,GoGetFunding,fraud,2,AB,Gracey Natividad Cavite,Help Our Daddy For His Next Operation,
+domain,m.me,https://gogetfunding.com/help-our-daddy-as-he-fight-for-his-life,GoGetFunding,fraud,2,AB,Gracey Natividad Cavite,Help Our Daddy For His Next Operation,
+phone,+09063262363,https://gogetfunding.com/help-people-in-need-here-in-the-philippines-%f0%9f%87%b5%f0%9f%87%ad-and-angola-%f0%9f%87%a6%f0%9f%87%b4,GoGetFunding,fraud,2,AC,One Race For Filipino Services One Race For Filipino Services,Help people in need here in the Philippines 🇵🇭,
+social:unknown,GCash,https://gogetfunding.com/help-people-in-need-here-in-the-philippines-%f0%9f%87%b5%f0%9f%87%ad-and-angola-%f0%9f%87%a6%f0%9f%87%b4,GoGetFunding,fraud,2,AC,One Race For Filipino Services One Race For Filipino Services,Help people in need here in the Philippines 🇵🇭,
+paypal.me,paypal.me/shys.palestine,https://gogetfunding.com/help-poor-families-in-gaza,GoGetFunding,fraud,2,AB,SHYC Palestine Gaza,Help poor families in Gaza,
+phone,+972599655946,https://gogetfunding.com/help-poor-families-in-gaza,GoGetFunding,fraud,2,AB,SHYC Palestine Gaza,Help poor families in Gaza,
+social:facebook,shys.palestine,https://gogetfunding.com/help-poor-families-in-gaza,GoGetFunding,fraud,2,AB,SHYC Palestine Gaza,Help poor families in Gaza,https://facebook.com/shys.palestine
+social:twitter,shys.palestine,https://gogetfunding.com/help-poor-families-in-gaza,GoGetFunding,fraud,2,AB,SHYC Palestine Gaza,Help poor families in Gaza,https://twitter.com/shys.palestine
+social:whatsapp,+972599655946,https://gogetfunding.com/help-poor-families-in-gaza,GoGetFunding,fraud,2,AB,SHYC Palestine Gaza,Help poor families in Gaza,https://wa.me/+972599655946
+Cash App,$Stopourstigma2011,https://gogetfunding.com/help-rebuild-a-home-for-a-displaced-family-of-6,GoGetFunding,fraud,2,AB,Tonshia Fluitt Augusta,Help Rebuild a Home for a Displaced Family of 6,
+phone,7068775338,https://gogetfunding.com/help-rebuild-a-home-for-a-displaced-family-of-6,GoGetFunding,fraud,2,AB,Tonshia Fluitt Augusta,Help Rebuild a Home for a Displaced Family of 6,
+domain,stopourstigma1969.com,https://gogetfunding.com/help-rebuild-a-home-for-a-displaced-family-of-6,GoGetFunding,fraud,2,AB,Tonshia Fluitt Augusta,Help Rebuild a Home for a Displaced Family of 6,
+domain,stopourstigmainc.com,https://gogetfunding.com/help-rebuild-a-home-for-a-displaced-family-of-6,GoGetFunding,fraud,2,AB,Tonshia Fluitt Augusta,Help Rebuild a Home for a Displaced Family of 6,
+email,jojo@jojo.com,https://gogetfunding.com/help-refugees-in-berlin,GoGetFunding,fraud,3,ABC,Josephine Caruana Berlin - Lichtenberg,Help Refugees in Berlin!,ipqs_fraud_score=100
+domain,moas.eu,https://gogetfunding.com/help-refugees-in-berlin,GoGetFunding,fraud,3,ABC,Josephine Caruana Berlin - Lichtenberg,Help Refugees in Berlin!,
+social:facebook,seawatchinternational,https://gogetfunding.com/help-refugees-in-berlin,GoGetFunding,fraud,3,ABC,Josephine Caruana Berlin - Lichtenberg,Help Refugees in Berlin!,https://facebook.com/seawatchinternational
+social:facebook,sosmediterranee,https://gogetfunding.com/help-refugees-in-berlin,GoGetFunding,fraud,3,ABC,Josephine Caruana Berlin - Lichtenberg,Help Refugees in Berlin!,https://facebook.com/sosmediterranee
+social:facebook,mobilefluechtlingshilfe,https://gogetfunding.com/help-refugees-in-berlin,GoGetFunding,fraud,3,ABC,Josephine Caruana Berlin - Lichtenberg,Help Refugees in Berlin!,https://facebook.com/mobilefluechtlingshilfe
+social:facebook,soskonvoi,https://gogetfunding.com/help-refugees-in-berlin,GoGetFunding,fraud,3,ABC,Josephine Caruana Berlin - Lichtenberg,Help Refugees in Berlin!,https://facebook.com/soskonvoi
+phone,+09052212569,https://gogetfunding.com/help-rey-shatter-cancer,GoGetFunding,fraud,2,AC,John Marasigan Pasig City,Help Rey Shatter Cancer!,
+phone,3399455668,https://gogetfunding.com/help-rey-shatter-cancer,GoGetFunding,fraud,2,AC,John Marasigan Pasig City,Help Rey Shatter Cancer!,
+phone,+919538421970,https://gogetfunding.com/help-save-a-fellow-liberian-in-india-with-chronic-spine-infection,GoGetFunding,fraud,2,AB,Agnes Thomas Bangalore,Phase 2: Help Salia walk again(Treatment and Physio-Therapy),
+domain,reliefweb.int,https://gogetfunding.com/help-save-a-life-in-turkana-kenya,GoGetFunding,fraud,2,AC,making a donation and spreading the word. Campaign Story Show,"Help save a life in Turkana, Kenya",
+domain,citizentv.co.ke,https://gogetfunding.com/help-save-a-life-in-turkana-kenya,GoGetFunding,fraud,2,AC,making a donation and spreading the word. Campaign Story Show,"Help save a life in Turkana, Kenya",
+paypal.me,paypal.me/amytheist32,https://gogetfunding.com/help-save-baby-luhan,GoGetFunding,fraud,2,AB,Luhan,Help Save Baby Luhan,
+domain,mayfieldclinic.com,https://gogetfunding.com/help-save-mark-bauto-life-saving-operation-needed,GoGetFunding,fraud,2,AC,Cherie Florette Bauto Quezon City,2nd Life Saving Operation-Help Save Mark Bauto,
+paypal.me,paypal.me/rafatQudaih,https://gogetfunding.com/help-save-people-and-children-in-gaza-city-2,GoGetFunding,fraud,2,AC,Rafat Qudaih Gaza City,Help save people and children in Gaza City | GoGetFunding,
+paypal.me,paypal.me/rafatQudaih,https://gogetfunding.com/help-save-poor-families-and-their-children-in-gaza,GoGetFunding,fraud,2,AC,Rafat Qudaih Gaza,Help save poor families and their children in Gaza,
+domain,dur.ac.uk,https://gogetfunding.com/help-send-simon-to-zambia,GoGetFunding,fraud,2,AC,Simon Lynch Durham,Help send Simon to Zambia!,
+domain,barefeettheatre.org,https://gogetfunding.com/help-send-simon-to-zambia,GoGetFunding,fraud,2,AC,Simon Lynch Durham,Help send Simon to Zambia!,
+domain,arcticaction.no,https://gogetfunding.com/help-sewar-7-and-her-family-survive-the-war-in-gaza,GoGetFunding,fraud,2,AC,Kristoffer Joergensen SOFIEMYR,Help Sewar (7) and her family survive in Gaza,
+domain,indiegogo.com,https://gogetfunding.com/help-support-shining-star-school,GoGetFunding,fraud,2,AC,Arjun Prasad Pandey Pokhara,Help Support Shining Star School,
+domain,shiningsbschool5.wixsite.com,https://gogetfunding.com/help-support-shining-star-school,GoGetFunding,fraud,2,AC,Arjun Prasad Pandey Pokhara,Help Support Shining Star School,
+phone,+639476930516,https://gogetfunding.com/help-support-the-home-for-the-golden-gays,GoGetFunding,fraud,3,ABC,Cathleen Sy Pasay City,Help Support the Home for the Golden Gays,
+domain,philstar.com,https://gogetfunding.com/help-support-the-home-for-the-golden-gays,GoGetFunding,fraud,3,ABC,Cathleen Sy Pasay City,Help Support the Home for the Golden Gays,
+domain,newsinfo.inquirer.net,https://gogetfunding.com/help-support-the-home-for-the-golden-gays,GoGetFunding,fraud,3,ABC,Cathleen Sy Pasay City,Help Support the Home for the Golden Gays,
+domain,independent.co.uk,https://gogetfunding.com/help-support-the-home-for-the-golden-gays,GoGetFunding,fraud,3,ABC,Cathleen Sy Pasay City,Help Support the Home for the Golden Gays,
+phone,+00970567184470,https://gogetfunding.com/help-the-children-of-palestine-and-keep-them-warm,GoGetFunding,fraud,2,AB,Ahmed m Aburaida Palestine Gaza,Help the children of Palestine and keep them warm,
+domain,wlrn.org,https://gogetfunding.com/help-tyler-not-go-to-jail-for-like-4-years,GoGetFunding,fraud,2,AC,Tyler Miller West Palm Beach,Help Tyler Not Go To Jail For Like 4 Years,
+domain,palmbeachpost.com,https://gogetfunding.com/help-tyler-not-go-to-jail-for-like-4-years,GoGetFunding,fraud,2,AC,Tyler Miller West Palm Beach,Help Tyler Not Go To Jail For Like 4 Years,
+domain,cnn.com,https://gogetfunding.com/help-tyler-not-go-to-jail-for-like-4-years,GoGetFunding,fraud,2,AC,Tyler Miller West Palm Beach,Help Tyler Not Go To Jail For Like 4 Years,
+domain,bandbproductionsllc.com,https://gogetfunding.com/help-us-create-a-documentary-about-the-misdiagnosis-of-children,GoGetFunding,fraud,2,AC,Lorina Bourne Las Vegas,Help Us Create a Documentary about the Misdiagnosis of Children,
+domain,westbowpress.com,https://gogetfunding.com/help-us-create-a-documentary-about-the-misdiagnosis-of-children,GoGetFunding,fraud,2,AC,Lorina Bourne Las Vegas,Help Us Create a Documentary about the Misdiagnosis of Children,
+domain,ktnv.com,https://gogetfunding.com/help-us-create-a-documentary-about-the-misdiagnosis-of-children,GoGetFunding,fraud,2,AC,Lorina Bourne Las Vegas,Help Us Create a Documentary about the Misdiagnosis of Children,
+domain,abcnews.go.com,https://gogetfunding.com/help-us-create-a-documentary-about-the-misdiagnosis-of-children,GoGetFunding,fraud,2,AC,Lorina Bourne Las Vegas,Help Us Create a Documentary about the Misdiagnosis of Children,
+phone,+09156057602,https://gogetfunding.com/help-us-extend-the-life-of-maria-emma,GoGetFunding,fraud,3,ABC,Arman Duran Cavite,Help us extend the life of Maria Emma.,
+phone,+66958104655,https://gogetfunding.com/help-us-fight-for-papas-life-a-battle-against-laryngeal-cancer,GoGetFunding,fraud,2,AC,Marydith Bleser Pasig City,Help Us Fight: A Fight Against Laryngeal Cancer,
+domain,ocetisakowincamp.org,https://gogetfunding.com/help-us-get-winter-gear-to-standing-rock,GoGetFunding,fraud,2,AC,Leah Gregory Portland,HELP US GET WINTER GEAR TO STANDING ROCK,
+domain,sacredstonecamp.org,https://gogetfunding.com/help-us-get-winter-gear-to-standing-rock,GoGetFunding,fraud,2,AC,Leah Gregory Portland,HELP US GET WINTER GEAR TO STANDING ROCK,
+domain,rei.com,https://gogetfunding.com/help-us-get-winter-gear-to-standing-rock,GoGetFunding,fraud,2,AC,Leah Gregory Portland,HELP US GET WINTER GEAR TO STANDING ROCK,
+phone,+09367980458,https://gogetfunding.com/help-us-save-my-youngest-sister-nicole-pitch-in-for-nicoles-brain-surgery,GoGetFunding,fraud,2,AC,Nina Jennifer Esguerra Quezon City,"Help us save my youngest sister, Nicole: Pitch In for Nicole's Brain surgery.",
+domain,1drv.ms,https://gogetfunding.com/help-us-survive-for-the-month-5,GoGetFunding,fraud,3,ABC,Joselito and Dorothy Camille Seguilla Puerto Princesa City,Help Us Survive For The Month,
+paypal.me,paypal.me/Shalisa,https://seedandspark.com/fund/daybreak,SeedAndSpark,fraud,2,AC,"{'name': 'Shalisa G', 'country': 'United States', 'profile_url': None}",Daybreak,
+paypal.me,paypal.me/Jules,https://seedandspark.com/fund/daybreak,SeedAndSpark,fraud,2,AC,"{'name': 'Shalisa G', 'country': 'United States', 'profile_url': None}",Daybreak,
+phone,8664887386,https://seedandspark.com/fund/daybreak,SeedAndSpark,fraud,2,AC,"{'name': 'Shalisa G', 'country': 'United States', 'profile_url': None}",Daybreak,
+phone,8775658860,https://seedandspark.com/fund/daybreak,SeedAndSpark,fraud,2,AC,"{'name': 'Shalisa G', 'country': 'United States', 'profile_url': None}",Daybreak,
+phone,8006045841,https://seedandspark.com/fund/daybreak,SeedAndSpark,fraud,2,AC,"{'name': 'Shalisa G', 'country': 'United States', 'profile_url': None}",Daybreak,
+domain,cdc.gov,https://seedandspark.com/fund/daybreak,SeedAndSpark,fraud,2,AC,"{'name': 'Shalisa G', 'country': 'United States', 'profile_url': None}",Daybreak,
+social:unknown,daybreakdocumentary,https://seedandspark.com/fund/daybreak,SeedAndSpark,fraud,2,AC,"{'name': 'Shalisa G', 'country': 'United States', 'profile_url': None}",Daybreak,
+domain,sok.yoursiblings.org,https://www.betterplace.org/de/fundraising_events/11846,Betterplace,fraud,2,AC,Denis D.,Seeds of Kindness 2,
+domain,yoursiblings.org,https://www.betterplace.org/de/fundraising_events/11846,Betterplace,fraud,2,AC,Denis D.,Seeds of Kindness 2,
+domain,broniesforgood.org,https://www.betterplace.org/de/fundraising_events/11846,Betterplace,fraud,2,AC,Denis D.,Seeds of Kindness 2,
+domain,wolframalpha.com,https://www.betterplace.org/de/fundraising_events/11846,Betterplace,fraud,2,AC,Denis D.,Seeds of Kindness 2,
+email,charity@p3-group.com,https://www.betterplace.org/de/fundraising_events/12698,Betterplace,fraud,2,AC,F. Kretschmer,P3 group - Charity,ipqs_fraud_score=91
+domain,consciousactionnetwork.com,https://www.betterplace.org/de/fundraising_events/13709,Betterplace,fraud,2,AC,Tom Z.,MAKING A DIFFERENCE on the ROOF OF AFRICA,
+domain,simiens.com,https://www.betterplace.org/de/fundraising_events/13709,Betterplace,fraud,2,AC,Tom Z.,MAKING A DIFFERENCE on the ROOF OF AFRICA,
+social:facebook,consciousactionnetwork,https://www.betterplace.org/de/fundraising_events/13709,Betterplace,fraud,2,AC,Tom Z.,MAKING A DIFFERENCE on the ROOF OF AFRICA,https://facebook.com/consciousactionnetwork
+social:facebook,ConsciousActionNet,https://www.betterplace.org/de/fundraising_events/13709,Betterplace,fraud,2,AC,Tom Z.,MAKING A DIFFERENCE on the ROOF OF AFRICA,https://facebook.com/ConsciousActionNet
+paypal.me,paypal.me/Daniel,https://www.betterplace.org/de/fundraising_events/13758,Betterplace,fraud,2,AC,D. Schmitt,Paris Marathon 2013-Donation for romanian orphans,
+domain,luminitacopiilor.org,https://www.betterplace.org/de/fundraising_events/13758,Betterplace,fraud,2,AC,D. Schmitt,Paris Marathon 2013-Donation for romanian orphans,
+domain,dothiv.org,https://www.betterplace.org/de/fundraising_events/14779,Betterplace,fraud,2,AC,B. T.,Inga’s fundraising event,
+email,charity@p3-group.com,https://www.betterplace.org/de/fundraising_events/16234,Betterplace,fraud,2,AC,F. Kretschmer,P3 Charity 2013,ipqs_fraud_score=91
+email,charity@p3-group.com,https://www.betterplace.org/de/fundraising_events/16243,Betterplace,fraud,2,AC,F. Kretschmer,P3 Charity 2013-2,ipqs_fraud_score=91
+domain,yoursiblings.org,https://www.betterplace.org/de/fundraising_events/17082,Betterplace,fraud,2,AC,Denis D.,Ministry of Brony,
+paypal.me,paypal.me/DEVELOPmed.aid,https://www.betterplace.org/de/fundraising_events/17830,Betterplace,fraud,2,AC,J. Beier,Jules 27.Geburtstag:Spende f.Kinder in BurkinaFaso,
+email,jule@developmedaid.org,https://www.betterplace.org/de/fundraising_events/17830,Betterplace,fraud,2,AC,J. Beier,Jules 27.Geburtstag:Spende f.Kinder in BurkinaFaso,ipqs_fraud_score=91
+domain,developmedaid.org,https://www.betterplace.org/de/fundraising_events/17830,Betterplace,fraud,2,AC,J. Beier,Jules 27.Geburtstag:Spende f.Kinder in BurkinaFaso,
+email,info@unitedforhope.org,https://www.betterplace.org/de/fundraising_events/17869,Betterplace,fraud,2,AC,T. McCartney,"Toilets and solar lights for Tirmasahun, India",ipqs_fraud_score=78
+domain,unitedforhope.org,https://www.betterplace.org/de/fundraising_events/17869,Betterplace,fraud,2,AC,T. McCartney,"Toilets and solar lights for Tirmasahun, India",
+social:facebook,unitedforhopengo,https://www.betterplace.org/de/fundraising_events/17869,Betterplace,fraud,2,AC,T. McCartney,"Toilets and solar lights for Tirmasahun, India",https://facebook.com/unitedforhopengo
+email,uhuruscouts2001@yahoo.com,https://www.betterplace.org/de/fundraising_events/18077,Betterplace,fraud,2,AC,joseph s.,girls sanitary towels project,ipqs_fraud_score=0
+email,uhuruscouts2001@yahoo.com,https://www.betterplace.org/de/fundraising_events/18084,Betterplace,fraud,2,AC,joseph s.,girls sanitary towels,ipqs_fraud_score=0
+domain,wwww.vetgöz.com,https://www.betterplace.org/de/fundraising_events/19788,Betterplace,fraud,2,AC,Nina K.,Help the blind kitten!,
+domain,lucky-cathouse.com,https://www.betterplace.org/de/fundraising_events/19788,Betterplace,fraud,2,AC,Nina K.,Help the blind kitten!,
+email,win@kaywaz.com,https://www.betterplace.org/de/fundraising_events/20476,Betterplace,fraud,2,AC,Karim M.,LET'S SHAPE SKATEISTAN AFGHANISTAN,ipqs_fraud_score=0
+domain,kaywaz.com,https://www.betterplace.org/de/fundraising_events/20476,Betterplace,fraud,2,AC,Karim M.,LET'S SHAPE SKATEISTAN AFGHANISTAN,
+domain,globalshapersfrankfurt.de,https://www.betterplace.org/de/fundraising_events/20476,Betterplace,fraud,2,AC,Karim M.,LET'S SHAPE SKATEISTAN AFGHANISTAN,
+domain,skateistan.org,https://www.betterplace.org/de/fundraising_events/20476,Betterplace,fraud,2,AC,Karim M.,LET'S SHAPE SKATEISTAN AFGHANISTAN,
+social:vimeo,KAYWAZ,https://www.betterplace.org/de/fundraising_events/20476,Betterplace,fraud,2,AC,Karim M.,LET'S SHAPE SKATEISTAN AFGHANISTAN,https://vimeo.com/KAYWAZ
+domain,ugandamarathon.com,https://www.betterplace.org/de/fundraising_events/21673,Betterplace,fraud,3,ABC,J. MUGABI,JOHN MUGABI RUN THE UGANDA INTERNATIONAL MARATHON,
+social:facebook,ugandamarathon,https://www.betterplace.org/de/fundraising_events/21673,Betterplace,fraud,3,ABC,J. MUGABI,JOHN MUGABI RUN THE UGANDA INTERNATIONAL MARATHON,https://facebook.com/ugandamarathon
+domain,crowdrise.com,https://www.betterplace.org/de/fundraising_events/22498,Betterplace,fraud,2,BC,Tom Z.,IMMEDIATE ACTION for NEPAL,
+paypal.me,paypal.me/DEVELOPmed.aid,https://www.betterplace.org/de/fundraising_events/22903,Betterplace,fraud,2,AC,J. Beier,Jules 27.Geburtstag:Spende f.Kinder in BurkinaFaso,
+email,jule@developmedaid.org,https://www.betterplace.org/de/fundraising_events/22903,Betterplace,fraud,2,AC,J. Beier,Jules 27.Geburtstag:Spende f.Kinder in BurkinaFaso,ipqs_fraud_score=91
+domain,developmedaid.org,https://www.betterplace.org/de/fundraising_events/22903,Betterplace,fraud,2,AC,J. Beier,Jules 27.Geburtstag:Spende f.Kinder in BurkinaFaso,
+domain,artofliving.org,https://www.betterplace.org/de/fundraising_events/27009,Betterplace,fraud,2,AC,A. Berlin,World Culture Festival,
+domain,rennsteiglauf.de,https://www.betterplace.org/de/fundraising_events/27632,Betterplace,fraud,2,AC,B. Kontek,Bergmarathon für die Begleitung trauernder Eltern,
+domain,vesh.de,https://www.betterplace.org/de/fundraising_events/27632,Betterplace,fraud,2,AC,B. Kontek,Bergmarathon für die Begleitung trauernder Eltern,
+social:unknown,Xing,https://www.betterplace.org/de/fundraising_events/27632,Betterplace,fraud,2,AC,B. Kontek,Bergmarathon für die Begleitung trauernder Eltern,https://xing.com/Xing
+email,events@masaimarakenyamarathon.com,https://www.betterplace.org/de/fundraising_events/27695,Betterplace,fraud,2,AC,M. Gap,"I run Marathon, you donate to water project",ipqs_fraud_score=0
+email,events@perimart.co.ke,https://www.betterplace.org/de/fundraising_events/27695,Betterplace,fraud,2,AC,M. Gap,"I run Marathon, you donate to water project",ipqs_fraud_score=0
+domain,masaimarakenyamarathon.com,https://www.betterplace.org/de/fundraising_events/27695,Betterplace,fraud,2,AC,M. Gap,"I run Marathon, you donate to water project",
+domain,perimartinternational.org,https://www.betterplace.org/de/fundraising_events/27695,Betterplace,fraud,2,AC,M. Gap,"I run Marathon, you donate to water project",
+email,info@masaimarakenyamarathon.com,https://www.betterplace.org/de/fundraising_events/27696,Betterplace,fraud,2,AC,M. Gap,Masai Mara Kenya Marathon 2016,ipqs_fraud_score=0
+email,events@mendthegap.org.uk,https://www.betterplace.org/de/fundraising_events/27696,Betterplace,fraud,2,AC,M. Gap,Masai Mara Kenya Marathon 2016,ipqs_fraud_score=0
+email,events@perimartinternational.org,https://www.betterplace.org/de/fundraising_events/27696,Betterplace,fraud,2,AC,M. Gap,Masai Mara Kenya Marathon 2016,ipqs_fraud_score=0
+email,events@perimart.co.ke,https://www.betterplace.org/de/fundraising_events/27696,Betterplace,fraud,2,AC,M. Gap,Masai Mara Kenya Marathon 2016,ipqs_fraud_score=0
+domain,mendthegap.org.uk,https://www.betterplace.org/de/fundraising_events/27696,Betterplace,fraud,2,AC,M. Gap,Masai Mara Kenya Marathon 2016,
+domain,perimartinternational.org,https://www.betterplace.org/de/fundraising_events/27696,Betterplace,fraud,2,AC,M. Gap,Masai Mara Kenya Marathon 2016,
+domain,masaimarakenyamarathon.com,https://www.betterplace.org/de/fundraising_events/27696,Betterplace,fraud,2,AC,M. Gap,Masai Mara Kenya Marathon 2016,
+social:facebook,mendthegapnow,https://www.betterplace.org/de/fundraising_events/27696,Betterplace,fraud,2,AC,M. Gap,Masai Mara Kenya Marathon 2016,https://facebook.com/mendthegapnow
+email,jule@developmedaid.org,https://www.betterplace.org/de/fundraising_events/28356,Betterplace,fraud,2,AC,J. Beier,Mein 28.Geburtstag:Spende f.Kinder in Burkina Faso,ipqs_fraud_score=91
+domain,developmedaid.org,https://www.betterplace.org/de/fundraising_events/28356,Betterplace,fraud,2,AC,J. Beier,Mein 28.Geburtstag:Spende f.Kinder in Burkina Faso,
+domain,asthakiran.org,https://www.betterplace.org/de/fundraising_events/28792,Betterplace,fraud,3,ABC,Tom Z.,TOM's GeburtstagsWunsch • TOM's B-day-wish,
+domain,c-a-n.help,https://www.betterplace.org/de/fundraising_events/28792,Betterplace,fraud,3,ABC,Tom Z.,TOM's GeburtstagsWunsch • TOM's B-day-wish,
+social:youtube,VcHtZwxhHvM,https://www.betterplace.org/de/fundraising_events/29162,Betterplace,fraud,2,AC,Tom Z.,CAN-Xmas Campaign 2016,https://youtu.be/VcHtZwxhHvM
+social:youtube,15qKYVsLLMw,https://www.betterplace.org/de/fundraising_events/29162,Betterplace,fraud,2,AC,Tom Z.,CAN-Xmas Campaign 2016,https://youtu.be/15qKYVsLLMw
+social:youtube,JZg_s299JiE,https://www.betterplace.org/de/fundraising_events/29162,Betterplace,fraud,2,AC,Tom Z.,CAN-Xmas Campaign 2016,https://youtu.be/JZg_s299JiE
+social:youtube,--jsQp9oNnw,https://www.betterplace.org/de/fundraising_events/29162,Betterplace,fraud,2,AC,Tom Z.,CAN-Xmas Campaign 2016,https://youtu.be/--jsQp9oNnw
+social:youtube,Aoi-WAA2R4s,https://www.betterplace.org/de/fundraising_events/29162,Betterplace,fraud,2,AC,Tom Z.,CAN-Xmas Campaign 2016,https://youtu.be/Aoi-WAA2R4s
+social:youtube,fkebnw3IeT0,https://www.betterplace.org/de/fundraising_events/29162,Betterplace,fraud,2,AC,Tom Z.,CAN-Xmas Campaign 2016,https://youtu.be/fkebnw3IeT0
+social:youtube,N2sXb178GLQ,https://www.betterplace.org/de/fundraising_events/29162,Betterplace,fraud,2,AC,Tom Z.,CAN-Xmas Campaign 2016,https://youtu.be/N2sXb178GLQ
+social:youtube,Mq3fWOIZLx4,https://www.betterplace.org/de/fundraising_events/29162,Betterplace,fraud,2,AC,Tom Z.,CAN-Xmas Campaign 2016,https://youtu.be/Mq3fWOIZLx4
+social:youtube,QbHukfrFzPU,https://www.betterplace.org/de/fundraising_events/29162,Betterplace,fraud,2,AC,Tom Z.,CAN-Xmas Campaign 2016,https://youtu.be/QbHukfrFzPU
+social:youtube,NQoEnB_rb6s,https://www.betterplace.org/de/fundraising_events/29162,Betterplace,fraud,2,AC,Tom Z.,CAN-Xmas Campaign 2016,https://youtu.be/NQoEnB_rb6s
+social:facebook,l.php,https://www.betterplace.org/de/fundraising_events/29162,Betterplace,fraud,2,AC,Tom Z.,CAN-Xmas Campaign 2016,https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2Ftlb-ruTeK7E&amp;h=EAQGc-3Ia
+social:youtube,ZezDlpzVk_M,https://www.betterplace.org/de/fundraising_events/29162,Betterplace,fraud,2,AC,Tom Z.,CAN-Xmas Campaign 2016,https://youtu.be/ZezDlpzVk_M
+social:facebook,CONSCIOUSACTIONNETWORK,https://www.betterplace.org/de/fundraising_events/29162,Betterplace,fraud,2,AC,Tom Z.,CAN-Xmas Campaign 2016,https://www.facebook.com/CONSCIOUSACTIONNETWORK
+email,krisztina@german-alliance.org,https://www.betterplace.org/de/fundraising_events/29172,Betterplace,fraud,2,AC,Agnes C.,Bálint's 3rd birthday: school for everyone,ipqs_fraud_score=91
+domain,german-alliance.org,https://www.betterplace.org/de/fundraising_events/29172,Betterplace,fraud,2,AC,Agnes C.,Bálint's 3rd birthday: school for everyone,
+social:facebook,germanallianceforcivilianassistance,https://www.betterplace.org/de/fundraising_events/29172,Betterplace,fraud,2,AC,Agnes C.,Bálint's 3rd birthday: school for everyone,https://facebook.com/germanallianceforcivilianassistance
+paypal.me,paypal.me/TeamSerendipityRallye,https://www.betterplace.org/de/fundraising_events/29485,Betterplace,fraud,2,AC,T. Serendipity,Team Serendipity on European Roadtrip 2017,
+domain,european.superlative-adventure.com,https://www.betterplace.org/de/fundraising_events/29485,Betterplace,fraud,2,AC,T. Serendipity,Team Serendipity on European Roadtrip 2017,
+social:facebook,teamserendipityrallye,https://www.betterplace.org/de/fundraising_events/29485,Betterplace,fraud,2,AC,T. Serendipity,Team Serendipity on European Roadtrip 2017,https://facebook.com/teamserendipityrallye
+domain,german-alliance.org,https://www.betterplace.org/de/fundraising_events/29883,Betterplace,fraud,2,AC,Agnes C.,Jonka's birthday wish: pencils for everyone!,
+social:facebook,nashwanwattar,https://www.betterplace.org/de/fundraising_events/29883,Betterplace,fraud,2,AC,Agnes C.,Jonka's birthday wish: pencils for everyone!,https://facebook.com/nashwanwattar
+paypal.me,paypal.me/Nyota,https://www.betterplace.org/de/fundraising_events/30301,Betterplace,fraud,2,AC,Flavie B.,"My birthday, your donation for kids in Africa!",
+email,arndt_gaube@xing.com,https://www.betterplace.org/de/fundraising_events/30496,Betterplace,fraud,2,AC,Team Champagne Supernova,BSCWinter2018 - Champagne Supernova,ipqs_fraud_score=83
+domain,xing.com,https://www.betterplace.org/de/fundraising_events/30496,Betterplace,fraud,2,AC,Team Champagne Supernova,BSCWinter2018 - Champagne Supernova,
+domain,superlative-adventure.com,https://www.betterplace.org/de/fundraising_events/30496,Betterplace,fraud,2,AC,Team Champagne Supernova,BSCWinter2018 - Champagne Supernova,
+domain,bsc-winter.superlative-adventure.com,https://www.betterplace.org/de/fundraising_events/30496,Betterplace,fraud,2,AC,Team Champagne Supernova,BSCWinter2018 - Champagne Supernova,
+domain,globalh2o.org,https://www.betterplace.org/de/fundraising_events/30496,Betterplace,fraud,2,AC,Team Champagne Supernova,BSCWinter2018 - Champagne Supernova,
+social:linkedin,in/boristerwey,https://www.betterplace.org/de/fundraising_events/30496,Betterplace,fraud,2,AC,Team Champagne Supernova,BSCWinter2018 - Champagne Supernova,https://linkedin.com/in/boristerwey
+social:facebook,bsc2018cs,https://www.betterplace.org/de/fundraising_events/30496,Betterplace,fraud,2,AC,Team Champagne Supernova,BSCWinter2018 - Champagne Supernova,https://facebook.com/bsc2018cs
+social:linkedin,boristerwey,https://www.betterplace.org/de/fundraising_events/30496,Betterplace,fraud,2,AC,Team Champagne Supernova,BSCWinter2018 - Champagne Supernova,https://www.linkedin.com/in/boristerwey/
+social:youtube,P81cQ-7X1v0,https://www.betterplace.org/de/fundraising_events/30496,Betterplace,fraud,2,AC,Team Champagne Supernova,BSCWinter2018 - Champagne Supernova,https://youtu.be/P81cQ-7X1v0
+social:youtube,s4kh_5HwCBo,https://www.betterplace.org/de/fundraising_events/30496,Betterplace,fraud,2,AC,Team Champagne Supernova,BSCWinter2018 - Champagne Supernova,https://youtu.be/s4kh_5HwCBo
+email,visions@visions4children.org,https://www.betterplace.org/de/fundraising_events/30886,Betterplace,fraud,2,AC,J. Schröder,Joanna x Visions for Children,ipqs_fraud_score=91
+domain,visions4children.org,https://www.betterplace.org/de/fundraising_events/30886,Betterplace,fraud,2,AC,J. Schröder,Joanna x Visions for Children,
+domain,eurovelo.com,https://www.betterplace.org/de/fundraising_events/31005,Betterplace,fraud,2,AC,Pascal &amp; Anna B.,Ocean Charity Ride - 6500km um die Nordsee Radln,
+domain,carlosfernandez.de,https://www.betterplace.org/de/fundraising_events/31005,Betterplace,fraud,2,AC,Pascal &amp; Anna B.,Ocean Charity Ride - 6500km um die Nordsee Radln,
+domain,christophmannhardt.com,https://www.betterplace.org/de/fundraising_events/31005,Betterplace,fraud,2,AC,Pascal &amp; Anna B.,Ocean Charity Ride - 6500km um die Nordsee Radln,
+social:instagram,trvl.hn,https://www.betterplace.org/de/fundraising_events/31005,Betterplace,fraud,2,AC,Pascal &amp; Anna B.,Ocean Charity Ride - 6500km um die Nordsee Radln,https://instagram.com/trvl.hn
+email,jule@developmedaid.org,https://www.betterplace.org/de/fundraising_events/31086,Betterplace,fraud,2,AC,J. Beier,Spende f. Kinder in Burkina Faso zum 30.Geburtstag,ipqs_fraud_score=91
+domain,developmedaid.org,https://www.betterplace.org/de/fundraising_events/31086,Betterplace,fraud,2,AC,J. Beier,Spende f. Kinder in Burkina Faso zum 30.Geburtstag,
+Venmo,@264.education,https://www.betterplace.org/de/fundraising_events/31310,Betterplace,fraud,2,AC,A. Romahn,Ich laufe - Du spendest,
+domain,264.education,https://www.betterplace.org/de/fundraising_events/31310,Betterplace,fraud,2,AC,A. Romahn,Ich laufe - Du spendest,
+social:instagram,264.education,https://www.betterplace.org/de/fundraising_events/31310,Betterplace,fraud,2,AC,A. Romahn,Ich laufe - Du spendest,https://instagram.com/264.education
+Venmo,@264.education,https://www.betterplace.org/de/fundraising_events/31528,Betterplace,fraud,2,AC,Meccay N.,My 22nd Birthday Pledge to Build Schools in Nepal,
+domain,264.education,https://www.betterplace.org/de/fundraising_events/31528,Betterplace,fraud,2,AC,Meccay N.,My 22nd Birthday Pledge to Build Schools in Nepal,
+social:instagram,264.education,https://www.betterplace.org/de/fundraising_events/31528,Betterplace,fraud,2,AC,Meccay N.,My 22nd Birthday Pledge to Build Schools in Nepal,https://instagram.com/264.education
+email,ines@sea-watch.org,https://www.betterplace.org/de/fundraising_events/32665,Betterplace,fraud,2,AC,Ines Schmidt,Help me save lives for my birthday!,ipqs_fraud_score=91
+domain,deref-gmx.net,https://www.betterplace.org/de/fundraising_events/32665,Betterplace,fraud,2,AC,Ines Schmidt,Help me save lives for my birthday!,
+domain,sea-watch.org,https://www.betterplace.org/de/fundraising_events/32665,Betterplace,fraud,2,AC,Ines Schmidt,Help me save lives for my birthday!,
+social:facebook,seawatchprojekt,https://www.betterplace.org/de/fundraising_events/32665,Betterplace,fraud,2,AC,Ines Schmidt,Help me save lives for my birthday!,https://facebook.com/seawatchprojekt
+domain,hamburg-hurricanes.com,https://www.betterplace.org/de/fundraising_events/33219,Betterplace,fraud,2,AC,H. Hurricanes,"The Hurricanes ""WASH"" Project in Sierra Leone",
+domain,street-child.co.uk,https://www.betterplace.org/de/fundraising_events/33219,Betterplace,fraud,2,AC,H. Hurricanes,"The Hurricanes ""WASH"" Project in Sierra Leone",
+social:facebook,hamburghurricanes,https://www.betterplace.org/de/fundraising_events/33219,Betterplace,fraud,2,AC,H. Hurricanes,"The Hurricanes ""WASH"" Project in Sierra Leone",https://facebook.com/hamburghurricanes
+domain,sos-childrensvillages.org,https://www.betterplace.org/de/fundraising_events/33608,Betterplace,fraud,2,AC,Deniz Kars,Together for Children | SOS children's villages,
+email,jens@kinderprojekt-arche.eu,https://www.betterplace.org/de/fundraising_events/34790,Betterplace,fraud,2,AC,Jens Wieland,MAKE ME RUN CHALLENGE,ipqs_fraud_score=96
+domain,kinderprojekt-arche.eu,https://www.betterplace.org/de/fundraising_events/34790,Betterplace,fraud,2,AC,Jens Wieland,MAKE ME RUN CHALLENGE,
+domain,hobbyquerschnitt.de,https://www.betterplace.org/de/fundraising_events/35010,Betterplace,fraud,2,AC,Pascal &amp; Anna B.,Ocean Charity Ride Is Everesting the Brocken,
+social:instagram,trvl.hn,https://www.betterplace.org/de/fundraising_events/35010,Betterplace,fraud,2,AC,Pascal &amp; Anna B.,Ocean Charity Ride Is Everesting the Brocken,https://instagram.com/trvl.hn
+domain,leavenoonebehind2020.org,https://www.betterplace.org/de/fundraising_events/36194,Betterplace,fraud,2,AC,Laura und Philip Wedelich,There Is More To Share - #27.000Reasons to help,
+email,nicholas@kinderzug.org,https://www.betterplace.org/de/fundraising_events/36268,Betterplace,fraud,2,AC,Nicholas Mockridge,Nicholas' Birthday Fundraiser for Kinderzug,ipqs_fraud_score=91
+domain,kinderzug.org,https://www.betterplace.org/de/fundraising_events/36268,Betterplace,fraud,2,AC,Nicholas Mockridge,Nicholas' Birthday Fundraiser for Kinderzug,
+email,hf1@students.kiron.ngo,https://www.betterplace.org/de/fundraising_events/37569,Betterplace,fraud,2,AC,Faroque,Faroque Haruns Spendenaktion,ipqs_fraud_score=90
+email,hf1@students.kiron.ngo,https://www.betterplace.org/de/fundraising_events/37570,Betterplace,fraud,2,AC,Faroque,Faroque Haruns Spendenaktion,ipqs_fraud_score=90
+domain,komoot.de,https://www.betterplace.org/de/fundraising_events/39042,Betterplace,fraud,2,AC,Christoph &amp; Anne,Coastal Ride for Safe Harbours,
+domain,seebruecke.org,https://www.betterplace.org/de/fundraising_events/39042,Betterplace,fraud,2,AC,Christoph &amp; Anne,Coastal Ride for Safe Harbours,
+social:unknown,1288446764975,https://www.betterplace.org/de/fundraising_events/39042,Betterplace,fraud,2,AC,Christoph &amp; Anne,Coastal Ride for Safe Harbours,https://komoot.com/1288446764975
+paypal.me,paypal.me/kilianthalhammer,https://www.betterplace.org/de/fundraising_events/39373,Betterplace,fraud,2,AC,Team Champagne Supernova,BSC Winter 2023 - Champagne Supernova 2023,
+paypal.me,paypal.me/boristerwey,https://www.betterplace.org/de/fundraising_events/39373,Betterplace,fraud,2,AC,Team Champagne Supernova,BSC Winter 2023 - Champagne Supernova 2023,
+domain,superlative-adventure.com,https://www.betterplace.org/de/fundraising_events/39373,Betterplace,fraud,2,AC,Team Champagne Supernova,BSC Winter 2023 - Champagne Supernova 2023,
+domain,globalh2o.org,https://www.betterplace.org/de/fundraising_events/39373,Betterplace,fraud,2,AC,Team Champagne Supernova,BSC Winter 2023 - Champagne Supernova 2023,
+domain,globalh2o.de,https://www.betterplace.org/de/fundraising_events/39373,Betterplace,fraud,2,AC,Team Champagne Supernova,BSC Winter 2023 - Champagne Supernova 2023,
+domain,champagne-supernova.blog,https://www.betterplace.org/de/fundraising_events/39373,Betterplace,fraud,2,AC,Team Champagne Supernova,BSC Winter 2023 - Champagne Supernova 2023,
+social:linkedin,in/kilianthalhammer,https://www.betterplace.org/de/fundraising_events/39373,Betterplace,fraud,2,AC,Team Champagne Supernova,BSC Winter 2023 - Champagne Supernova 2023,https://linkedin.com/in/kilianthalhammer
+social:linkedin,in/boristerwey,https://www.betterplace.org/de/fundraising_events/39373,Betterplace,fraud,2,AC,Team Champagne Supernova,BSC Winter 2023 - Champagne Supernova 2023,https://linkedin.com/in/boristerwey
+social:unknown,Team,https://www.betterplace.org/de/fundraising_events/39373,Betterplace,fraud,2,AC,Team Champagne Supernova,BSC Winter 2023 - Champagne Supernova 2023,
+social:linkedin,boristerwey,https://www.betterplace.org/de/fundraising_events/39373,Betterplace,fraud,2,AC,Team Champagne Supernova,BSC Winter 2023 - Champagne Supernova 2023,https://linkedin.com/boristerwey
+social:linkedin,kilianthalhammer,https://www.betterplace.org/de/fundraising_events/39373,Betterplace,fraud,2,AC,Team Champagne Supernova,BSC Winter 2023 - Champagne Supernova 2023,https://www.linkedin.com/in/kilianthalhammer/
+social:youtube,aTMxdLcGess,https://www.betterplace.org/de/fundraising_events/39373,Betterplace,fraud,2,AC,Team Champagne Supernova,BSC Winter 2023 - Champagne Supernova 2023,https://youtu.be/aTMxdLcGess
+paypal.me,paypal.me/Laufke,https://www.betterplace.org/de/fundraising_events/40558,Betterplace,fraud,2,AC,Martin Laufke,The Last: Laufke's OW4C (POSTPONED because War.),
+domain,padlet.com,https://www.betterplace.org/de/fundraising_events/40914,Betterplace,fraud,2,AC,Sonjas Adventures,LARPers for Ukraine,
+domain,helfen-hilft.de,https://www.betterplace.org/de/fundraising_events/41558,Betterplace,fraud,2,AC,Yvonne Kromer-Willaredt,"Wir radeln, ihr spendet – We cycle, you donate",
+social:instagram,wirradeln.ihrspendet,https://www.betterplace.org/de/fundraising_events/41558,Betterplace,fraud,2,AC,Yvonne Kromer-Willaredt,"Wir radeln, ihr spendet – We cycle, you donate",https://instagram.com/wirradeln.ihrspendet
+social:youtube,CUMQvDCd198,https://www.betterplace.org/de/fundraising_events/41558,Betterplace,fraud,2,AC,Yvonne Kromer-Willaredt,"Wir radeln, ihr spendet – We cycle, you donate",https://youtu.be/CUMQvDCd198
+domain,patrizia.foundation,https://www.betterplace.org/de/fundraising_events/42542,Betterplace,fraud,2,AC,Luca Pavan,Let´s support together a School in Tanzania- 2022!,
+social:linkedin,company/patrizia-se,https://www.betterplace.org/de/fundraising_events/42542,Betterplace,fraud,2,AC,Luca Pavan,Let´s support together a School in Tanzania- 2022!,https://linkedin.com/company/patrizia-se
+social:linkedin,feed,https://www.betterplace.org/de/fundraising_events/42542,Betterplace,fraud,2,AC,Luca Pavan,Let´s support together a School in Tanzania- 2022!,https://linkedin.com/feed
+social:linkedin,patrizia-se,https://www.betterplace.org/de/fundraising_events/42542,Betterplace,fraud,2,AC,Luca Pavan,Let´s support together a School in Tanzania- 2022!,https://www.linkedin.com/company/patrizia-se/mycompany/
+email,ben4realla@yahoo.com,https://www.betterplace.org/de/fundraising_events/42905,Betterplace,fraud,2,AC,Chimezie Ihekuna,Chimezie Ihekunas Fundraising Event,ipqs_fraud_score=0
+phone,+2348062162220,https://www.betterplace.org/de/fundraising_events/42905,Betterplace,fraud,2,AC,Chimezie Ihekuna,Chimezie Ihekunas Fundraising Event,
+phone,+234017402355,https://www.betterplace.org/de/fundraising_events/42905,Betterplace,fraud,2,AC,Chimezie Ihekuna,Chimezie Ihekunas Fundraising Event,
+domain,worldremit.com,https://www.betterplace.org/de/fundraising_events/42905,Betterplace,fraud,2,AC,Chimezie Ihekuna,Chimezie Ihekunas Fundraising Event,
+domain,mailchi.mp,https://www.betterplace.org/de/fundraising_events/43512,Betterplace,fraud,2,AC,Andrea B.,Andrea Bringmann's Fundraising Event,
+domain,patrizia.foundation,https://www.betterplace.org/de/fundraising_events/44790,Betterplace,fraud,2,AC,Luca Pavan,Luca's hike for Sondoveni/Peru - La Isla Challenge,
+social:linkedin,company/patrizia-se,https://www.betterplace.org/de/fundraising_events/44790,Betterplace,fraud,2,AC,Luca Pavan,Luca's hike for Sondoveni/Peru - La Isla Challenge,https://linkedin.com/company/patrizia-se
+social:linkedin,patrizia-se,https://www.betterplace.org/de/fundraising_events/44790,Betterplace,fraud,2,AC,Luca Pavan,Luca's hike for Sondoveni/Peru - La Isla Challenge,https://www.linkedin.com/company/patrizia-se/mycompany/
+domain,dgpalliativmedizin.de,https://www.betterplace.org/de/fundraising_events/45166,Betterplace,fraud,2,AC,Melina Golfels,Harry's Camino,
+domain,polarsteps.com,https://www.betterplace.org/de/fundraising_events/45166,Betterplace,fraud,2,AC,Melina Golfels,Harry's Camino,
+social:polarsteps,Polarsteps,https://www.betterplace.org/de/fundraising_events/45166,Betterplace,fraud,2,AC,Melina Golfels,Harry's Camino,https://polarsteps.com/Polarsteps
+social:polarsteps,MelinaGolfels,https://www.betterplace.org/de/fundraising_events/45166,Betterplace,fraud,2,AC,Melina Golfels,Harry's Camino,https://polarsteps.com/MelinaGolfels
+social:linkedin,company/patrizia-se,https://www.betterplace.org/de/fundraising_events/46982,Betterplace,fraud,2,AC,Luca Pavan,"Support for Primary School in Bafia, Cameroon",https://linkedin.com/company/patrizia-se
+social:linkedin,patrizia-se,https://www.betterplace.org/de/fundraising_events/46982,Betterplace,fraud,2,AC,Luca Pavan,"Support for Primary School in Bafia, Cameroon",https://www.linkedin.com/company/patrizia-se/mycompany/
+phone,+256701561018,https://www.betterplace.org/de/fundraising_events/48304,Betterplace,fraud,2,AC,Divine Apostolic Ministries Divine Apos,Divine Apostolic Ministries Divine Aposs Fundraising Event,
+phone,+256788232346,https://www.betterplace.org/de/fundraising_events/48304,Betterplace,fraud,2,AC,Divine Apostolic Ministries Divine Apos,Divine Apostolic Ministries Divine Aposs Fundraising Event,
+domain,divineapostolicministriesug.org,https://www.betterplace.org/de/fundraising_events/48304,Betterplace,fraud,2,AC,Divine Apostolic Ministries Divine Apos,Divine Apostolic Ministries Divine Aposs Fundraising Event,
+phone,+256701561018,https://www.betterplace.org/de/fundraising_events/48305,Betterplace,fraud,2,AC,Divine Apostolic Ministries Divine Apos,Divine Apostolic Ministries Divine Aposs Fundraising Event,
+phone,+256788232346,https://www.betterplace.org/de/fundraising_events/48305,Betterplace,fraud,2,AC,Divine Apostolic Ministries Divine Apos,Divine Apostolic Ministries Divine Aposs Fundraising Event,
+domain,divineapostolicministriesug.org,https://www.betterplace.org/de/fundraising_events/48305,Betterplace,fraud,2,AC,Divine Apostolic Ministries Divine Apos,Divine Apostolic Ministries Divine Aposs Fundraising Event,
+social:youtube,GameofBelonging,https://www.betterplace.org/de/fundraising_events/53837,Betterplace,fraud,2,AC,Game of Belonging,"0.95€ for sports, a lifetime of change – DONATE NOW",https://youtube.com/GameofBelonging
+social:instagram,game_of_belonging,https://www.betterplace.org/de/fundraising_events/53837,Betterplace,fraud,2,AC,Game of Belonging,"0.95€ for sports, a lifetime of change – DONATE NOW",https://instagram.com/game_of_belonging
+social:youtube,GameofBelonging,https://www.betterplace.org/de/fundraising_events/53876,Betterplace,fraud,2,AC,Game of Belonging,"0.95€ for sports, a lifetime of change – DONATE NOW.",https://youtube.com/GameofBelonging
+social:instagram,game_of_belonging,https://www.betterplace.org/de/fundraising_events/53876,Betterplace,fraud,2,AC,Game of Belonging,"0.95€ for sports, a lifetime of change – DONATE NOW.",https://instagram.com/game_of_belonging
+email,info@actlanka.org,https://www.betterplace.org/de/fundraising_events/9543,Betterplace,fraud,2,AC,Tom Z.,"YOU+CAN+ACT = HAPPINESS IN MULLAITIVU, MARCH 2012",ipqs_fraud_score=91
+domain,actlanka.org,https://www.betterplace.org/de/fundraising_events/9543,Betterplace,fraud,2,AC,Tom Z.,"YOU+CAN+ACT = HAPPINESS IN MULLAITIVU, MARCH 2012",
+domain,consciousactionnetwork.com,https://www.betterplace.org/de/fundraising_events/9543,Betterplace,fraud,2,AC,Tom Z.,"YOU+CAN+ACT = HAPPINESS IN MULLAITIVU, MARCH 2012",
+social:facebook,consciousactionnetwork,https://www.betterplace.org/de/fundraising_events/9543,Betterplace,fraud,2,AC,Tom Z.,"YOU+CAN+ACT = HAPPINESS IN MULLAITIVU, MARCH 2012",https://facebook.com/consciousactionnetwork
+domain,yoursiblings.org,https://www.betterplace.org/de/fundraising_events/9549,Betterplace,fraud,2,AC,Denis D.,Test fundraising event,
+email,info@pindactica.de,https://www.betterplace.org/de/projects/113950-unterstuetze-die-entdeckerlust-der-kinder-wir-sammeln-fuer-materialien,Betterplace,fraud,2,AC,"{'name': 'Pindactica e. V.', 'country': None, 'profile_url': 'https://www.betterplace.org/de/organisations/15782-pindactica-e-v'}",Unterstütze die Entdeckerlust der Kinder! Wir sammeln für Materialien.,ipqs_fraud_score=0
+phone,+03034083124,https://www.betterplace.org/de/projects/113950-unterstuetze-die-entdeckerlust-der-kinder-wir-sammeln-fuer-materialien,Betterplace,fraud,2,AC,"{'name': 'Pindactica e. V.', 'country': None, 'profile_url': 'https://www.betterplace.org/de/organisations/15782-pindactica-e-v'}",Unterstütze die Entdeckerlust der Kinder! Wir sammeln für Materialien.,
+email,info@pindactica.de,https://www.betterplace.org/de/projects/134986-gute-bildung-fuer-alle,Betterplace,fraud,2,AC,"{'name': 'Pindactica e. V.', 'country': None, 'profile_url': 'https://www.betterplace.org/de/organisations/15782-pindactica-e-v'}",Gute Bildung für alle!,ipqs_fraud_score=0
+phone,+03034083124,https://www.betterplace.org/de/projects/134986-gute-bildung-fuer-alle,Betterplace,fraud,2,AC,"{'name': 'Pindactica e. V.', 'country': None, 'profile_url': 'https://www.betterplace.org/de/organisations/15782-pindactica-e-v'}",Gute Bildung für alle!,
+email,patenschaft@ruesselheim.com,https://www.betterplace.org/de/projects/153135-kleines-gehbehindertes-bullenkalb-soll-leben,Betterplace,fraud,2,AC,"{'name': 'Rüsselheim e.V.', 'country': None, 'profile_url': 'https://www.betterplace.org/de/organisations/30691-ruesselheim-e-v'}",Kleines gehbehindertes Bullenkalb soll leben!,ipqs_fraud_score=80
+email,helfen@ruesselheim.com,https://www.betterplace.org/de/projects/153135-kleines-gehbehindertes-bullenkalb-soll-leben,Betterplace,fraud,2,AC,"{'name': 'Rüsselheim e.V.', 'country': None, 'profile_url': 'https://www.betterplace.org/de/organisations/30691-ruesselheim-e-v'}",Kleines gehbehindertes Bullenkalb soll leben!,ipqs_fraud_score=0
+email,info@ruesselheim.com,https://www.betterplace.org/de/projects/153135-kleines-gehbehindertes-bullenkalb-soll-leben,Betterplace,fraud,2,AC,"{'name': 'Rüsselheim e.V.', 'country': None, 'profile_url': 'https://www.betterplace.org/de/organisations/30691-ruesselheim-e-v'}",Kleines gehbehindertes Bullenkalb soll leben!,ipqs_fraud_score=0
+domain,ruesselheim.com,https://www.betterplace.org/de/projects/153135-kleines-gehbehindertes-bullenkalb-soll-leben,Betterplace,fraud,2,AC,"{'name': 'Rüsselheim e.V.', 'country': None, 'profile_url': 'https://www.betterplace.org/de/organisations/30691-ruesselheim-e-v'}",Kleines gehbehindertes Bullenkalb soll leben!,
+domain,teaming.net,https://www.betterplace.org/de/projects/153135-kleines-gehbehindertes-bullenkalb-soll-leben,Betterplace,fraud,2,AC,"{'name': 'Rüsselheim e.V.', 'country': None, 'profile_url': 'https://www.betterplace.org/de/organisations/30691-ruesselheim-e-v'}",Kleines gehbehindertes Bullenkalb soll leben!,
+domain,ruesselheim-ev-merchandising.myspreadshop.de,https://www.betterplace.org/de/projects/153135-kleines-gehbehindertes-bullenkalb-soll-leben,Betterplace,fraud,2,AC,"{'name': 'Rüsselheim e.V.', 'country': None, 'profile_url': 'https://www.betterplace.org/de/organisations/30691-ruesselheim-e-v'}",Kleines gehbehindertes Bullenkalb soll leben!,
+email,helfen@ruesselheim.com,https://www.betterplace.org/de/projects/153387-lizzy-moechte-in-ruhe-alt-werden-koennen,Betterplace,fraud,2,AC,"{'name': 'Rüsselheim e.V.', 'country': None, 'profile_url': 'https://www.betterplace.org/de/organisations/30691-ruesselheim-e-v'}",LIZZY möchte in Ruhe alt werden können…,ipqs_fraud_score=0
+email,info@ruesselheim.com,https://www.betterplace.org/de/projects/153387-lizzy-moechte-in-ruhe-alt-werden-koennen,Betterplace,fraud,2,AC,"{'name': 'Rüsselheim e.V.', 'country': None, 'profile_url': 'https://www.betterplace.org/de/organisations/30691-ruesselheim-e-v'}",LIZZY möchte in Ruhe alt werden können…,ipqs_fraud_score=0
+domain,ruesselheim.com,https://www.betterplace.org/de/projects/153387-lizzy-moechte-in-ruhe-alt-werden-koennen,Betterplace,fraud,2,AC,"{'name': 'Rüsselheim e.V.', 'country': None, 'profile_url': 'https://www.betterplace.org/de/organisations/30691-ruesselheim-e-v'}",LIZZY möchte in Ruhe alt werden können…,
+domain,teaming.net,https://www.betterplace.org/de/projects/153387-lizzy-moechte-in-ruhe-alt-werden-koennen,Betterplace,fraud,2,AC,"{'name': 'Rüsselheim e.V.', 'country': None, 'profile_url': 'https://www.betterplace.org/de/organisations/30691-ruesselheim-e-v'}",LIZZY möchte in Ruhe alt werden können…,
+domain,ruesselheim-ev-merchandising.myspreadshop.de,https://www.betterplace.org/de/projects/153387-lizzy-moechte-in-ruhe-alt-werden-koennen,Betterplace,fraud,2,AC,"{'name': 'Rüsselheim e.V.', 'country': None, 'profile_url': 'https://www.betterplace.org/de/organisations/30691-ruesselheim-e-v'}",LIZZY möchte in Ruhe alt werden können…,
+paypal.me,paypal.me/olivier.kaeser,https://www.betterplace.org/de/projects/16202,Betterplace,fraud,2,AC,Info BOOKBRIDGE,Bookbridge Learning Center Ang Tasom (Cambodia),
+email,olivier.kaeser@me.com,https://www.betterplace.org/de/projects/16202,Betterplace,fraud,2,AC,Info BOOKBRIDGE,Bookbridge Learning Center Ang Tasom (Cambodia),ipqs_fraud_score=0
+domain,bookbridge.org,https://www.betterplace.org/de/projects/16202,Betterplace,fraud,2,AC,Info BOOKBRIDGE,Bookbridge Learning Center Ang Tasom (Cambodia),
+email,claude@hfcrwanda.org,https://www.betterplace.org/de/projects/19361,Betterplace,fraud,2,AC,J. Mani,School for poor children and orphans in Katabagemu (Rwanda).,ipqs_fraud_score=91
+email,claudemani83@yahoo.com,https://www.betterplace.org/de/projects/19361,Betterplace,fraud,2,AC,J. Mani,School for poor children and orphans in Katabagemu (Rwanda).,ipqs_fraud_score=0
+phone,+2500722791335,https://www.betterplace.org/de/projects/19361,Betterplace,fraud,2,AC,J. Mani,School for poor children and orphans in Katabagemu (Rwanda).,
+phone,+2500783665403,https://www.betterplace.org/de/projects/19361,Betterplace,fraud,2,AC,J. Mani,School for poor children and orphans in Katabagemu (Rwanda).,
+domain,hfcrwanda.org,https://www.betterplace.org/de/projects/19361,Betterplace,fraud,2,AC,J. Mani,School for poor children and orphans in Katabagemu (Rwanda).,
+email,claude@hfcrwanda.org,https://www.betterplace.org/de/projects/19363,Betterplace,fraud,2,AC,J. Mani,Shalom for Life Change Project,ipqs_fraud_score=91
+email,claudemani83@yahoo.com,https://www.betterplace.org/de/projects/19363,Betterplace,fraud,2,AC,J. Mani,Shalom for Life Change Project,ipqs_fraud_score=0
+phone,+2500722791335,https://www.betterplace.org/de/projects/19363,Betterplace,fraud,2,AC,J. Mani,Shalom for Life Change Project,
+phone,+2500783665403,https://www.betterplace.org/de/projects/19363,Betterplace,fraud,2,AC,J. Mani,Shalom for Life Change Project,
+domain,hfcrwanda.org,https://www.betterplace.org/de/projects/19363,Betterplace,fraud,2,AC,J. Mani,Shalom for Life Change Project,
+email,tom@can-films.com,https://www.betterplace.org/de/projects/47095-c-a-n-produktions-unterstuetzung,Betterplace,fraud,3,ABC,"{'name': 'CONSCIOUS ACTION NETWORK', 'country': None, 'profile_url': 'https://www.betterplace.org/de/organisations/5094-conscious-action-network'}",C•A•N PRODUKTIONS-UNTERSTÜTZUNG,ipqs_fraud_score=0
+domain,hanssigl.de,https://www.betterplace.org/de/projects/47095-c-a-n-produktions-unterstuetzung,Betterplace,fraud,3,ABC,"{'name': 'CONSCIOUS ACTION NETWORK', 'country': None, 'profile_url': 'https://www.betterplace.org/de/organisations/5094-conscious-action-network'}",C•A•N PRODUKTIONS-UNTERSTÜTZUNG,
+domain,rigul.org,https://www.betterplace.org/de/projects/47095-c-a-n-produktions-unterstuetzung,Betterplace,fraud,3,ABC,"{'name': 'CONSCIOUS ACTION NETWORK', 'country': None, 'profile_url': 'https://www.betterplace.org/de/organisations/5094-conscious-action-network'}",C•A•N PRODUKTIONS-UNTERSTÜTZUNG,
+domain,lovechock.com,https://www.betterplace.org/de/projects/47095-c-a-n-produktions-unterstuetzung,Betterplace,fraud,3,ABC,"{'name': 'CONSCIOUS ACTION NETWORK', 'country': None, 'profile_url': 'https://www.betterplace.org/de/organisations/5094-conscious-action-network'}",C•A•N PRODUKTIONS-UNTERSTÜTZUNG,
+domain,flatliners.tv,https://www.betterplace.org/de/projects/47095-c-a-n-produktions-unterstuetzung,Betterplace,fraud,3,ABC,"{'name': 'CONSCIOUS ACTION NETWORK', 'country': None, 'profile_url': 'https://www.betterplace.org/de/organisations/5094-conscious-action-network'}",C•A•N PRODUKTIONS-UNTERSTÜTZUNG,
+domain,cine-impuls.de,https://www.betterplace.org/de/projects/47095-c-a-n-produktions-unterstuetzung,Betterplace,fraud,3,ABC,"{'name': 'CONSCIOUS ACTION NETWORK', 'country': None, 'profile_url': 'https://www.betterplace.org/de/organisations/5094-conscious-action-network'}",C•A•N PRODUKTIONS-UNTERSTÜTZUNG,
+email,paul@kinderregenwald.de,https://www.betterplace.org/de/projects/54755-ewige-wald-der-kinder,Betterplace,fraud,2,AC,"{'name': 'Kinderregenwald Deutschland e.V.', 'country': None, 'profile_url': 'https://www.betterplace.org/de/organisations/31705-kinderregenwald-deutschland-e-v'}",Ewige Wald der Kinder,ipqs_fraud_score=55
+domain,acmcr.org,https://www.betterplace.org/de/projects/54755-ewige-wald-der-kinder,Betterplace,fraud,2,AC,"{'name': 'Kinderregenwald Deutschland e.V.', 'country': None, 'profile_url': 'https://www.betterplace.org/de/organisations/31705-kinderregenwald-deutschland-e-v'}",Ewige Wald der Kinder,
+email,paul@kinderregenwald.de,https://www.betterplace.org/de/projects/54756-die-internationale-bruecke-der-kinder,Betterplace,fraud,2,AC,"{'name': 'Kinderregenwald Deutschland e.V.', 'country': None, 'profile_url': 'https://www.betterplace.org/de/organisations/31705-kinderregenwald-deutschland-e-v'}",Die internationale Brücke der Kinder,ipqs_fraud_score=55
+domain,janzen.sas.upenn.edu,https://www.betterplace.org/de/projects/54756-die-internationale-bruecke-der-kinder,Betterplace,fraud,2,AC,"{'name': 'Kinderregenwald Deutschland e.V.', 'country': None, 'profile_url': 'https://www.betterplace.org/de/organisations/31705-kinderregenwald-deutschland-e-v'}",Die internationale Brücke der Kinder,
+phone,9029010600,https://www.freefunder.com/campaign/4brjim-suicide27yrgayjw/,FreeFunder,fraud,3,ABC,,"""4BrJIM Suicide@27yrGayJW!"" on FreeFunder",
+domain,ffnd.co,https://www.freefunder.com/campaign/4brjim-suicide27yrgayjw/,FreeFunder,fraud,3,ABC,,"""4BrJIM Suicide@27yrGayJW!"" on FreeFunder",
+social:twitter,Crowdfunding,https://www.freefunder.com/campaign/4brjim-suicide27yrgayjw/,FreeFunder,fraud,3,ABC,,"""4BrJIM Suicide@27yrGayJW!"" on FreeFunder",https://twitter.com/Crowdfunding
+social:twitter,sober,https://www.freefunder.com/campaign/4brjim-suicide27yrgayjw/,FreeFunder,fraud,3,ABC,,"""4BrJIM Suicide@27yrGayJW!"" on FreeFunder",https://twitter.com/sober
+social:twitter,Ushare2&UDonate$20,https://www.freefunder.com/campaign/4brjim-suicide27yrgayjw/,FreeFunder,fraud,3,ABC,,"""4BrJIM Suicide@27yrGayJW!"" on FreeFunder",https://twitter.com/Ushare2&UDonate$20
+social:twitter,Recovery,https://www.freefunder.com/campaign/4brjim-suicide27yrgayjw/,FreeFunder,fraud,3,ABC,,"""4BrJIM Suicide@27yrGayJW!"" on FreeFunder",https://twitter.com/Recovery
+social:twitter,addiction,https://www.freefunder.com/campaign/4brjim-suicide27yrgayjw/,FreeFunder,fraud,3,ABC,,"""4BrJIM Suicide@27yrGayJW!"" on FreeFunder",https://twitter.com/addiction
+social:twitter,Spiritual,https://www.freefunder.com/campaign/4brjim-suicide27yrgayjw/,FreeFunder,fraud,3,ABC,,"""4BrJIM Suicide@27yrGayJW!"" on FreeFunder",https://twitter.com/Spiritual
+social:twitter,FamilyHealingCenter&KIDS2,https://www.freefunder.com/campaign/4brjim-suicide27yrgayjw/,FreeFunder,fraud,3,ABC,,"""4BrJIM Suicide@27yrGayJW!"" on FreeFunder",https://twitter.com/FamilyHealingCenter&KIDS2
+social:twitter,twitterblue,https://www.freefunder.com/campaign/4brjim-suicide27yrgayjw/,FreeFunder,fraud,3,ABC,,"""4BrJIM Suicide@27yrGayJW!"" on FreeFunder",https://twitter.com/twitterblue
+social:twitter,needhelp,https://www.freefunder.com/campaign/4brjim-suicide27yrgayjw/,FreeFunder,fraud,3,ABC,,"""4BrJIM Suicide@27yrGayJW!"" on FreeFunder",https://twitter.com/needhelp
+phone,7758822850,https://www.freefunder.com/campaign/a-farewell-to-kinderland/,FreeFunder,fraud,2,AC,,"""A Farewell to Kinderland"" on FreeFunder",
+domain,padlet.com,https://www.freefunder.com/campaign/a-farewell-to-kinderland/,FreeFunder,fraud,2,AC,,"""A Farewell to Kinderland"" on FreeFunder",
+phone,6614062289,https://www.freefunder.com/campaign/azure-emergency-surgery/,FreeFunder,fraud,2,AC,,"""Azure Emergency Surgery"" on FreeFunder",
+phone,3175908528,https://www.freefunder.com/campaign/brents-medical-care/,FreeFunder,fraud,2,AC,,"""Brent's Medical Care"" on FreeFunder",
+Cash App,$Jerzeygirl85,https://www.freefunder.com/campaign/calling-all-angels-/,FreeFunder,fraud,3,ABC,,"""😇Calling All Angel's 😇"" on FreeFunder",
+Venmo,@natashabarone,https://www.freefunder.com/campaign/calling-all-angels-/,FreeFunder,fraud,3,ABC,,"""😇Calling All Angel's 😇"" on FreeFunder",
+Cash App,$Jerzeygirl85,https://www.freefunder.com/campaign/calling-all-angels/,FreeFunder,fraud,3,ABC,,"""Calling All Angel's"" on FreeFunder",
+Venmo,@natashabarone,https://www.freefunder.com/campaign/calling-all-angels/,FreeFunder,fraud,3,ABC,,"""Calling All Angel's"" on FreeFunder",
+social:unknown,natashabarone,https://www.freefunder.com/campaign/calling-all-angels/,FreeFunder,fraud,3,ABC,,"""Calling All Angel's"" on FreeFunder",
+Venmo,@JeromekJerome,https://www.freefunder.com/campaign/central-park-crosswalks/,FreeFunder,fraud,3,ABC,,"""Central Park Crosswalks"" on FreeFunder",
+Cash App,@JeromekJerome,https://www.freefunder.com/campaign/central-park-crosswalks/,FreeFunder,fraud,3,ABC,,"""Central Park Crosswalks"" on FreeFunder",
+phone,2068007879,https://www.freefunder.com/campaign/central-park-crosswalks/,FreeFunder,fraud,3,ABC,,"""Central Park Crosswalks"" on FreeFunder",
+domain,change.org,https://www.freefunder.com/campaign/central-park-crosswalks/,FreeFunder,fraud,3,ABC,,"""Central Park Crosswalks"" on FreeFunder",
+social:instagram,WhatIsNewYork,https://www.freefunder.com/campaign/central-park-crosswalks/,FreeFunder,fraud,3,ABC,,"""Central Park Crosswalks"" on FreeFunder",https://instagram.com/WhatIsNewYork
+phone,9705932191,https://www.freefunder.com/campaign/clean-water-for-villagers/,FreeFunder,fraud,2,AC,,"""Clean Water For Villagers"" on FreeFunder",
+domain,villagecareproject.com,https://www.freefunder.com/campaign/clean-water-for-villagers/,FreeFunder,fraud,2,AC,,"""Clean Water For Villagers"" on FreeFunder",
+Venmo,@donnaccruz,https://www.freefunder.com/campaign/donna-and-friends-funds/,FreeFunder,fraud,2,AB,,"""Moving Help for Donna"" on FreeFunder",
+Venmo,@Donna-C-Cruz,https://www.freefunder.com/campaign/donna-and-friends-funds/,FreeFunder,fraud,2,AB,,"""Moving Help for Donna"" on FreeFunder",
+domain,eftours.com,https://www.freefunder.com/campaign/educational-opportunities/,FreeFunder,fraud,2,AC,,"""Educational opportunities"" on FreeFunder",
+domain,reverb.com,https://www.freefunder.com/campaign/eff-off-cancer-benefit/,FreeFunder,fraud,2,AC,,"""Eff Off Cancer Benefit"" on FreeFunder",
+Venmo,@whoami303,https://www.freefunder.com/campaign/getting-my-life-back/,FreeFunder,fraud,2,AB,,"""Getting My Life Back"" on FreeFunder",
+Cash App,$JoshNmeesha,https://www.freefunder.com/campaign/heat-for-12yo/,FreeFunder,fraud,2,AB,,"""Heat for child in need"" on FreeFunder",
+Venmo,@Camisha-Norris,https://www.freefunder.com/campaign/heat-for-12yo/,FreeFunder,fraud,2,AB,,"""Heat for child in need"" on FreeFunder",
+paypal.me,paypal.me/Camisha-Norris,https://www.freefunder.com/campaign/heat-for-12yo/,FreeFunder,fraud,2,AB,,"""Heat for child in need"" on FreeFunder",
+phone,2074547555,https://www.freefunder.com/campaign/heat-for-12yo/,FreeFunder,fraud,2,AB,,"""Heat for child in need"" on FreeFunder",
+Cash App,$Heavynsent74,https://www.freefunder.com/campaign/heavynsent/,FreeFunder,fraud,2,AC,,"""Heavynsent"" on FreeFunder",
+phone,3108041555,https://www.freefunder.com/campaign/help-homeless-brother--sister/,FreeFunder,fraud,2,AC,,"""HELP HOMELESS BROTHER & SISTER"" on FreeFunder",
+Venmo,@Kevin-Bergeron-12,https://www.freefunder.com/campaign/help-kevin-heal/,FreeFunder,fraud,2,AC,,"""Help Kevin Heal"" on FreeFunder",
+social:unknown,Kevin-Bergeron-12,https://www.freefunder.com/campaign/help-kevin-heal/,FreeFunder,fraud,2,AC,,"""Help Kevin Heal"" on FreeFunder",
+domain,cnn.com,https://www.freefunder.com/campaign/help-my-family-flee-venezuela/,FreeFunder,fraud,3,ABC,,"""Help My Family Flee Venezuela"" on FreeFunder",
+Cash App,$FayeByler,https://www.freefunder.com/campaign/help-with-meeko/,FreeFunder,fraud,2,AB,,"""Help with Meeko"" on FreeFunder",
+Venmo,@FayeByler,https://www.freefunder.com/campaign/help-with-meeko/,FreeFunder,fraud,2,AB,,"""Help with Meeko"" on FreeFunder",
+paypal.me,@FayeByler,https://www.freefunder.com/campaign/help-with-meeko/,FreeFunder,fraud,2,AB,,"""Help with Meeko"" on FreeFunder",
+social:unknown,FayeByler,https://www.freefunder.com/campaign/help-with-meeko/,FreeFunder,fraud,2,AB,,"""Help with Meeko"" on FreeFunder",
+paypal.me,paypal.me/denisemccollum1,https://www.freefunder.com/campaign/helping-the-mccollums/,FreeFunder,fraud,2,AB,,"""Helping the McCollums"" on FreeFunder",
+Cash App,$DeniseMMcCollum,https://www.freefunder.com/campaign/helping-the-mccollums/,FreeFunder,fraud,2,AB,,"""Helping the McCollums"" on FreeFunder",
+Cash App,$Heavynsent74,https://www.freefunder.com/campaign/hope-helpotherpeoplee/,FreeFunder,fraud,2,AC,,"""H.O.P.E. helpotherpeoplee"" on FreeFunder",
+Venmo,@Kayla-Banks-15,https://www.freefunder.com/campaign/jamies-medical-care/,FreeFunder,fraud,2,AC,,"""Jamie's Medical Care"" on FreeFunder",
+Venmo,@Jamielyn-Perrine,https://www.freefunder.com/campaign/jamies-medical-care/,FreeFunder,fraud,2,AC,,"""Jamie's Medical Care"" on FreeFunder",
+phone,2068007879,https://www.freefunder.com/campaign/jamies-medical-care/,FreeFunder,fraud,2,AC,,"""Jamie's Medical Care"" on FreeFunder",
+phone,8014009662,https://www.freefunder.com/campaign/jamies-medical-care/,FreeFunder,fraud,2,AC,,"""Jamie's Medical Care"" on FreeFunder",
+phone,8014009643,https://www.freefunder.com/campaign/jamies-medical-care/,FreeFunder,fraud,2,AC,,"""Jamie's Medical Care"" on FreeFunder",
+social:unknown,Kayla-Banks-15,https://www.freefunder.com/campaign/jamies-medical-care/,FreeFunder,fraud,2,AC,,"""Jamie's Medical Care"" on FreeFunder",
+social:unknown,Jamielyn-Perrine,https://www.freefunder.com/campaign/jamies-medical-care/,FreeFunder,fraud,2,AC,,"""Jamie's Medical Care"" on FreeFunder",
+phone,2068007879,https://www.freefunder.com/campaign/kalebs-birthday-surprise/,FreeFunder,fraud,2,AC,,"""Kaleb's Birthday Surprise"" on FreeFunder",
+phone,2068007879,https://www.freefunder.com/campaign/laurens-car-accident/,FreeFunder,fraud,2,AC,,"""Help Lauren Heal"" on FreeFunder",
+domain,helplaurenheal.com,https://www.freefunder.com/campaign/laurens-car-accident/,FreeFunder,fraud,2,AC,,"""Help Lauren Heal"" on FreeFunder",
+phone,7143745587,https://www.freefunder.com/campaign/lets-help-our-wetlands-stcutu/,FreeFunder,fraud,2,AC,,"""Let's Help Our Wetlands!"" on FreeFunder",
+domain,wwccoc.org,https://www.freefunder.com/campaign/lets-help-our-wetlands-stcutu/,FreeFunder,fraud,2,AC,,"""Let's Help Our Wetlands!"" on FreeFunder",
+phone,7143745587,https://www.freefunder.com/campaign/lets-help-our-wetlands/,FreeFunder,fraud,2,AC,,"""Let's Help Our Wetlands!"" on FreeFunder",
+domain,wwccoc.org,https://www.freefunder.com/campaign/lets-help-our-wetlands/,FreeFunder,fraud,2,AC,,"""Let's Help Our Wetlands!"" on FreeFunder",
+Venmo,@Tasneem-Sheikh-1,https://www.freefunder.com/campaign/little-brave-sundance/,FreeFunder,fraud,2,AC,,"""LittleBrave Sundance 2025"" on FreeFunder",
+social:unknown,Tasneem,https://www.freefunder.com/campaign/little-brave-sundance/,FreeFunder,fraud,2,AC,,"""LittleBrave Sundance 2025"" on FreeFunder",
+Venmo,@Tasneem-Sheikh-1,https://www.freefunder.com/campaign/littlebrave-sundance-2024/,FreeFunder,fraud,2,AC,,"""LittleBrave Sundance 2024"" on FreeFunder",
+phone,2025072332,https://www.freefunder.com/campaign/littlebrave-sundance-2024/,FreeFunder,fraud,2,AC,,"""LittleBrave Sundance 2024"" on FreeFunder",
+social:unknown,Tasneem-Sheikh-1,https://www.freefunder.com/campaign/littlebrave-sundance-2024/,FreeFunder,fraud,2,AC,,"""LittleBrave Sundance 2024"" on FreeFunder",
+Venmo,@Julia-Niness,https://www.freefunder.com/campaign/love-to-the-niness-family/,FreeFunder,fraud,2,AC,,"""Love to the Niness Family"" on FreeFunder",
+Cash App,@Julia-Niness,https://www.freefunder.com/campaign/love-to-the-niness-family/,FreeFunder,fraud,2,AC,,"""Love to the Niness Family"" on FreeFunder",
+phone,2068007879,https://www.freefunder.com/campaign/love-to-the-niness-family/,FreeFunder,fraud,2,AC,,"""Love to the Niness Family"" on FreeFunder",
+social:unknown,LOVEMARK,https://www.freefunder.com/campaign/love-to-the-niness-family/,FreeFunder,fraud,2,AC,,"""Love to the Niness Family"" on FreeFunder",
+Venmo,@girogiovanni,https://www.freefunder.com/campaign/memorial-for-leonarda/,FreeFunder,fraud,2,AC,,"""Leonarda Memorial Fund"" on FreeFunder",
+phone,2066727222,https://www.freefunder.com/campaign/memorial-for-leonarda/,FreeFunder,fraud,2,AC,,"""Leonarda Memorial Fund"" on FreeFunder",
+phone,+16699006833,https://www.freefunder.com/campaign/pacts-legal-fund/,FreeFunder,fraud,2,AC,,"""PACTS' Legal Defense Fund"" on FreeFunder",
+phone,+13462487799,https://www.freefunder.com/campaign/pacts-legal-fund/,FreeFunder,fraud,2,AC,,"""PACTS' Legal Defense Fund"" on FreeFunder",
+phone,+13126266799,https://www.freefunder.com/campaign/pacts-legal-fund/,FreeFunder,fraud,2,AC,,"""PACTS' Legal Defense Fund"" on FreeFunder",
+phone,+16465588656,https://www.freefunder.com/campaign/pacts-legal-fund/,FreeFunder,fraud,2,AC,,"""PACTS' Legal Defense Fund"" on FreeFunder",
+phone,2068007879,https://www.freefunder.com/campaign/pacts-legal-fund/,FreeFunder,fraud,2,AC,,"""PACTS' Legal Defense Fund"" on FreeFunder",
+domain,zoom.us,https://www.freefunder.com/campaign/pacts-legal-fund/,FreeFunder,fraud,2,AC,,"""PACTS' Legal Defense Fund"" on FreeFunder",
+paypal.me,PayPal.me/MichelleHart04,https://www.freefunder.com/campaign/please-help-me-dwF4Tg/,FreeFunder,fraud,2,AB,,"""Please help me"" on FreeFunder",
+phone,9029010600,https://www.freefunder.com/campaign/pray4me77yrsold-lady-fam/,FreeFunder,fraud,3,ABC,,"""4BrJIM Suicide@27yrGayJW!"" on FreeFunder",
+domain,ffnd.co,https://www.freefunder.com/campaign/pray4me77yrsold-lady-fam/,FreeFunder,fraud,3,ABC,,"""4BrJIM Suicide@27yrGayJW!"" on FreeFunder",
+social:twitter,twitterblue,https://www.freefunder.com/campaign/pray4me77yrsold-lady-fam/,FreeFunder,fraud,3,ABC,,"""4BrJIM Suicide@27yrGayJW!"" on FreeFunder",https://twitter.com/twitterblue
+phone,2066727222,https://www.freefunder.com/campaign/raising-money-4-a-fursuit/,FreeFunder,fraud,2,AC,,"""Kidney transplant "" on FreeFunder",
+domain,organdonor.gov,https://www.freefunder.com/campaign/raising-money-4-a-fursuit/,FreeFunder,fraud,2,AC,,"""Kidney transplant "" on FreeFunder",
+domain,optn.transplant.hrsa.gov,https://www.freefunder.com/campaign/raising-money-4-a-fursuit/,FreeFunder,fraud,2,AC,,"""Kidney transplant "" on FreeFunder",
+paypal.me,paypal.me/7K9PXT3WNJXEL,https://www.freefunder.com/campaign/saving-kittenscats/,FreeFunder,fraud,2,BC,,"""Saving Kittens/Cats"" on FreeFunder",
+domain,redbubble.com,https://www.freefunder.com/campaign/saving-kittenscats/,FreeFunder,fraud,2,BC,,"""Saving Kittens/Cats"" on FreeFunder",
+social:youtube,channel/ucdvaiadv6vju8aa5davocea,https://www.freefunder.com/campaign/saving-kittenscats/,FreeFunder,fraud,2,BC,,"""Saving Kittens/Cats"" on FreeFunder",https://youtube.com/channel/ucdvaiadv6vju8aa5davocea
+social:unknown,90Shelly90,https://www.freefunder.com/campaign/saving-kittenscats/,FreeFunder,fraud,2,BC,,"""Saving Kittens/Cats"" on FreeFunder",
+social:youtube,UCdVaiAdV6Vju8Aa5dAVOCEA,https://www.freefunder.com/campaign/saving-kittenscats/,FreeFunder,fraud,2,BC,,"""Saving Kittens/Cats"" on FreeFunder",https://youtube.com/UCdVaiAdV6Vju8Aa5dAVOCEA
+domain,ilindy.com,https://www.freefunder.com/campaign/swing-pride-2019/,FreeFunder,fraud,2,AC,,"""Swing Pride 2019"" on FreeFunder",
+domain,ilindy.com,https://www.freefunder.com/campaign/swng-mexico-at-pride-2018/,FreeFunder,fraud,2,AC,,"""SW!NG MEXICO at Pride 2018"" on FreeFunder",
+phone,2066727222,https://www.freefunder.com/campaign/trying-to-avoid-eviction-X8sZHK/,FreeFunder,fraud,2,AC,,"""Trying to avoid eviction"" on FreeFunder",
+phone,2068007879,https://www.freefunder.com/campaign/turning-point-shelter/,FreeFunder,fraud,2,AC,,"""Will's Black Belt Project"" on FreeFunder",
+domain,msn.com,https://www.gofundme.com/f/crimm-family-major-medical-expenses,GoFundMe,fraud,2,AC,Erin Cunningham,Crimm Family - Major medical expenses,
+paypal.me,paypal.me/QINY,https://www.gofundme.com/f/qubamodelschool,GoFundMe,fraud,2,AC,Faisal Khan,Launching a Model Islamic School — This Ramadan,
+email,info@qubainstituteny.com,https://www.gofundme.com/f/qubamodelschool,GoFundMe,fraud,2,AC,Faisal Khan,Launching a Model Islamic School — This Ramadan,ipqs_fraud_score=91
+domain,qubainstituteny.com,https://www.gofundme.com/f/qubamodelschool,GoFundMe,fraud,2,AC,Faisal Khan,Launching a Model Islamic School — This Ramadan,
+domain,qubainstituteny.com,https://www.gofundme.com/f/qubazakat,GoFundMe,fraud,2,AC,Faisal Khan,Quba Zakat Fund – Fulfill Your Zakat in Ramadan,
+Venmo,@amock10,https://www.gofundme.com/f/support-for-a-mom-and-son-facing-eviction-as4yv,GoFundMe,fraud,2,AB,AJ Mockabee,Support for a Mom and Son Facing Eviction,
+phone,9732884311,https://www.gofundme.com/f/support-for-a-mom-and-son-facing-eviction-as4yv,GoFundMe,fraud,2,AB,AJ Mockabee,Support for a Mom and Son Facing Eviction,
+domain,appalachiantrailchaplain.com,https://www.gofundme.com/f/support-my-2026-appalachian-trail-chaplaincy,GoFundMe,fraud,2,AC,Mark LaRocca-Pitts,Support My 2026 Appalachian Trail Chaplaincy,
+email,sarah@kijana-kwanza.org,https://www.launchgood.com/v4/campaign/gift_a_flock_of_chickens_to_a_single_mother_1?src=internal_discover,LaunchGood,fraud,2,AC,"{'name': 'Kijana Kwanza', 'country': None, 'profile_url': 'https://www.launchgood.com/user/newprofile#!/user-profile/profile/mohammed.mamdani2'}",Donate a Flock of Chickens to Help Feed Orphans Eggs,ipqs_fraud_score=0
+phone,+447954135686,https://www.launchgood.com/v4/campaign/gift_a_flock_of_chickens_to_a_single_mother_1?src=internal_discover,LaunchGood,fraud,2,AC,"{'name': 'Kijana Kwanza', 'country': None, 'profile_url': 'https://www.launchgood.com/user/newprofile#!/user-profile/profile/mohammed.mamdani2'}",Donate a Flock of Chickens to Help Feed Orphans Eggs,
+domain,kijana-kwanza.org,https://www.launchgood.com/v4/campaign/gift_a_flock_of_chickens_to_a_single_mother_1?src=internal_discover,LaunchGood,fraud,2,AC,"{'name': 'Kijana Kwanza', 'country': None, 'profile_url': 'https://www.launchgood.com/user/newprofile#!/user-profile/profile/mohammed.mamdani2'}",Donate a Flock of Chickens to Help Feed Orphans Eggs,
+email,sarah@kijana-kwanza.org,https://www.launchgood.com/v4/campaign/gift_a_sewing_machine_to_empower_an_impoverished_girl?src=internal_discover,LaunchGood,fraud,2,AC,"{'name': 'Kijana Kwanza', 'country': None, 'profile_url': 'https://www.launchgood.com/user/newprofile#!/user-profile/profile/mohammed.mamdani2'}",Help Poor Young Women Support Their Families,ipqs_fraud_score=0
+phone,+447954135686,https://www.launchgood.com/v4/campaign/gift_a_sewing_machine_to_empower_an_impoverished_girl?src=internal_discover,LaunchGood,fraud,2,AC,"{'name': 'Kijana Kwanza', 'country': None, 'profile_url': 'https://www.launchgood.com/user/newprofile#!/user-profile/profile/mohammed.mamdani2'}",Help Poor Young Women Support Their Families,
+domain,kijana-kwanza.org,https://www.launchgood.com/v4/campaign/gift_a_sewing_machine_to_empower_an_impoverished_girl?src=internal_discover,LaunchGood,fraud,2,AC,"{'name': 'Kijana Kwanza', 'country': None, 'profile_url': 'https://www.launchgood.com/user/newprofile#!/user-profile/profile/mohammed.mamdani2'}",Help Poor Young Women Support Their Families,
+email,sarah@kijana-kwanza.org,https://www.launchgood.com/v4/campaign/kijana_kwanza_young_people_first?src=internal_discover,LaunchGood,fraud,2,AC,"{'name': 'Kijana Kwanza', 'country': None, 'profile_url': 'https://www.launchgood.com/user/newprofile#!/user-profile/profile/mohammed.mamdani2'}",Kijana Kwanza (Young People First),ipqs_fraud_score=0
+phone,+447954135686,https://www.launchgood.com/v4/campaign/kijana_kwanza_young_people_first?src=internal_discover,LaunchGood,fraud,2,AC,"{'name': 'Kijana Kwanza', 'country': None, 'profile_url': 'https://www.launchgood.com/user/newprofile#!/user-profile/profile/mohammed.mamdani2'}",Kijana Kwanza (Young People First),
+domain,kijana-kwanza.org,https://www.launchgood.com/v4/campaign/kijana_kwanza_young_people_first?src=internal_discover,LaunchGood,fraud,2,AC,"{'name': 'Kijana Kwanza', 'country': None, 'profile_url': 'https://www.launchgood.com/user/newprofile#!/user-profile/profile/mohammed.mamdani2'}",Kijana Kwanza (Young People First),
+email,sarah@kijana-kwanza.org,https://www.launchgood.com/v4/campaign/provide_100000_meals_for_orphans_in_africa?src=internal_discover,LaunchGood,fraud,2,AC,"{'name': 'Kijana Kwanza', 'country': None, 'profile_url': 'https://www.launchgood.com/user/newprofile#!/user-profile/profile/mohammed.mamdani2'}","Provide 100,000 Meals for Orphans in Africa",ipqs_fraud_score=0
+phone,+447954135686,https://www.launchgood.com/v4/campaign/provide_100000_meals_for_orphans_in_africa?src=internal_discover,LaunchGood,fraud,2,AC,"{'name': 'Kijana Kwanza', 'country': None, 'profile_url': 'https://www.launchgood.com/user/newprofile#!/user-profile/profile/mohammed.mamdani2'}","Provide 100,000 Meals for Orphans in Africa",
+domain,kijana-kwanza.org,https://www.launchgood.com/v4/campaign/provide_100000_meals_for_orphans_in_africa?src=internal_discover,LaunchGood,fraud,2,AC,"{'name': 'Kijana Kwanza', 'country': None, 'profile_url': 'https://www.launchgood.com/user/newprofile#!/user-profile/profile/mohammed.mamdani2'}","Provide 100,000 Meals for Orphans in Africa",
+email,sarah@kijana-kwanza.org,https://www.launchgood.com/v4/campaign/start_2023_by_sponsoring_an_orphan_in_tanzania_2?src=internal_discover,LaunchGood,fraud,3,ABC,"{'name': 'Kijana Kwanza', 'country': None, 'profile_url': 'https://www.launchgood.com/user/newprofile#!/user-profile/profile/mohammed.mamdani2'}",Sponsor an Orphan in Tanzania,ipqs_fraud_score=0
+phone,+447954135686,https://www.launchgood.com/v4/campaign/start_2023_by_sponsoring_an_orphan_in_tanzania_2?src=internal_discover,LaunchGood,fraud,3,ABC,"{'name': 'Kijana Kwanza', 'country': None, 'profile_url': 'https://www.launchgood.com/user/newprofile#!/user-profile/profile/mohammed.mamdani2'}",Sponsor an Orphan in Tanzania,
+domain,kijana-kwanza.org,https://www.launchgood.com/v4/campaign/start_2023_by_sponsoring_an_orphan_in_tanzania_2?src=internal_discover,LaunchGood,fraud,3,ABC,"{'name': 'Kijana Kwanza', 'country': None, 'profile_url': 'https://www.launchgood.com/user/newprofile#!/user-profile/profile/mohammed.mamdani2'}",Sponsor an Orphan in Tanzania,
+email,sarah@kijana-kwanza.org,https://www.launchgood.com/v4/campaign/teach_an_orphan_a_trade?src=internal_discover,LaunchGood,fraud,3,ABC,"{'name': 'Kijana Kwanza', 'country': None, 'profile_url': 'https://www.launchgood.com/user/newprofile#!/user-profile/profile/mohammed.mamdani2'}",Educate Orphans in East Africa,ipqs_fraud_score=0
+phone,+447954135686,https://www.launchgood.com/v4/campaign/teach_an_orphan_a_trade?src=internal_discover,LaunchGood,fraud,3,ABC,"{'name': 'Kijana Kwanza', 'country': None, 'profile_url': 'https://www.launchgood.com/user/newprofile#!/user-profile/profile/mohammed.mamdani2'}",Educate Orphans in East Africa,
+domain,kijana-kwanza.org,https://www.launchgood.com/v4/campaign/teach_an_orphan_a_trade?src=internal_discover,LaunchGood,fraud,3,ABC,"{'name': 'Kijana Kwanza', 'country': None, 'profile_url': 'https://www.launchgood.com/user/newprofile#!/user-profile/profile/mohammed.mamdani2'}",Educate Orphans in East Africa,
+email,sarah@kijana-kwanza.org,https://www.launchgood.com/v4/campaign/train_emergency_medical_staff_with_your_zakat_this_ramadan?src=internal_discover,LaunchGood,fraud,2,AC,"{'name': 'Kijana Kwanza', 'country': None, 'profile_url': 'https://www.launchgood.com/user/newprofile#!/user-profile/profile/mohammed.mamdani2'}",Save Lives By Training Emergency Medical Staff in Tanzania,ipqs_fraud_score=0
+phone,+447954135686,https://www.launchgood.com/v4/campaign/train_emergency_medical_staff_with_your_zakat_this_ramadan?src=internal_discover,LaunchGood,fraud,2,AC,"{'name': 'Kijana Kwanza', 'country': None, 'profile_url': 'https://www.launchgood.com/user/newprofile#!/user-profile/profile/mohammed.mamdani2'}",Save Lives By Training Emergency Medical Staff in Tanzania,
+domain,kijana-kwanza.org,https://www.launchgood.com/v4/campaign/train_emergency_medical_staff_with_your_zakat_this_ramadan?src=internal_discover,LaunchGood,fraud,2,AC,"{'name': 'Kijana Kwanza', 'country': None, 'profile_url': 'https://www.launchgood.com/user/newprofile#!/user-profile/profile/mohammed.mamdani2'}",Save Lives By Training Emergency Medical Staff in Tanzania,
+email,sarah@kijana-kwanza.org,https://www.launchgood.com/v4/campaign/urgent_food_aid_for_abandoned_children_in_east_africa?src=internal_discover,LaunchGood,fraud,3,ABC,"{'name': 'Kijana Kwanza', 'country': None, 'profile_url': 'https://www.launchgood.com/user/newprofile#!/user-profile/profile/mohammed.mamdani2'}",Food Parcels for Abandoned Children in East Africa,ipqs_fraud_score=0
+phone,+447954135686,https://www.launchgood.com/v4/campaign/urgent_food_aid_for_abandoned_children_in_east_africa?src=internal_discover,LaunchGood,fraud,3,ABC,"{'name': 'Kijana Kwanza', 'country': None, 'profile_url': 'https://www.launchgood.com/user/newprofile#!/user-profile/profile/mohammed.mamdani2'}",Food Parcels for Abandoned Children in East Africa,
+domain,kijana-kwanza.org,https://www.launchgood.com/v4/campaign/urgent_food_aid_for_abandoned_children_in_east_africa?src=internal_discover,LaunchGood,fraud,3,ABC,"{'name': 'Kijana Kwanza', 'country': None, 'profile_url': 'https://www.launchgood.com/user/newprofile#!/user-profile/profile/mohammed.mamdani2'}",Food Parcels for Abandoned Children in East Africa,
+email,womensnetworkboard@belkin.com,https://www.spotfund.com/story/2576ebdd-6d71-40f2-8e70-7d4dfe78de0f,Spotfund,fraud,2,AC,Elizabeth Espinoza,BelkinWomensNetwork,ipqs_fraud_score=0
+email,womensnetworkboard@belkin.com,https://www.spotfund.com/story/28a21d46-c7f9-40b4-8b6f-7487a6259e51,Spotfund,fraud,2,AC,Ashton Smith,BelkinWomensNetwork,ipqs_fraud_score=0
+phone,+19727501793,https://www.spotfund.com/story/4976046b-cfb9-482b-b78b-649e3c5f6e7a,Spotfund,fraud,2,AC,Allen Mathew,CleaningBusiness,
+phone,7722015690,https://www.spotfund.com/story/8018fe88-0ac5-44f7-8c6b-adca121d3493,Spotfund,fraud,2,AC,Richard Gittings,PositiveMessages,
+phone,7178880823,https://www.spotfund.com/story/a6558224-4663-4d19-8711-64d61525bfbd,Spotfund,fraud,2,AC,Katie Hartman,LittleDeanie,
+phone,7178880823,https://www.spotfund.com/story/b4bd505e-ed1d-426e-9f8a-82d36cef84bc,Spotfund,fraud,2,AC,Katie Hartman,BabyBennett,
+phone,7173191573,https://www.spotfund.com/story/b4bd505e-ed1d-426e-9f8a-82d36cef84bc,Spotfund,fraud,2,AC,Katie Hartman,BabyBennett,
+phone,7722015690,https://www.spotfund.com/story/ff38271b-8aa0-455e-8917-53125bc3b7a3,Spotfund,fraud,2,AC,Richard Gittings,PositiveMessaging,
