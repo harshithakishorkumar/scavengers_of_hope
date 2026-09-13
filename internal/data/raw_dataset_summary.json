@@ -1,0 +1,36 @@
+{
+  "total_campaigns": 146997,
+  "total_platforms": 17,
+  "platforms": {
+    "Spotfund": 59103,
+    "GoGetFunding": 30302,
+    "FreeFunder": 18953,
+    "GoFundMe": 15953,
+    "Betterplace": 5730,
+    "WhyDonate": 4122,
+    "Ulule": 3594,
+    "Angelink": 3383,
+    "Experiment": 1410,
+    "DonorsChoose": 1002,
+    "Ufandao": 963,
+    "SeedAndSpark": 753,
+    "Crowdfundr": 619,
+    "Chuffed": 456,
+    "Happypot": 252,
+    "Fairplaid": 203,
+    "LaunchGood": 199
+  },
+  "data_sources": {
+    "existing_merged": 114232,
+    "new_rescraped": 57006,
+    "gofundme_json": 15953,
+    "duplicates_removed": 40194
+  },
+  "completeness": {
+    "has_raised_amount": 70263,
+    "has_goal_amount": 82482,
+    "has_donors_count": 69742,
+    "has_description": 145746,
+    "has_created_date": 24118
+  }
+}
